@@ -1,0 +1,1 @@
+# base-digital-collections-template
