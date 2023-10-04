@@ -1,0 +1,11 @@
+{% comment %}
+
+    For image items, a zoomable, full screen gallery view is added using Spotlight gallery.
+    Ensure dependencies are added by including `gallery: true` in the layout front matter calling this include.
+
+{%- endcomment -%}
+<a class="spotlight gallery-img" data-download="true" title="{{ page.title | escape }}" href="{{ page.object_location | relative_url }}">
+    <img src="{{ page.image_small | relative_url }}" alt="{{ page.image_alt_text | default: page.description | default: page.title | escape }}" class="img-fluid {% if page.sensitive %}blur{% endif %}">
+    {% if page.sensitive %}<div class="text-danger small">Warning: This image is of a graphic nature and may be upsetting to some viewers. Clicking the image will present a large, clear version of the image.</div>{% endif %}
+    <div><small class="text-dark">Click to view full screen</small></div>
+</a>

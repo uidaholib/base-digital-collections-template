@@ -1,0 +1,18 @@
+/* 
+    Put your custom SCSS here! 
+    This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
+*/
+
+// blur for content warning
+.blur {
+    -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+    filter: blur(8px);
+}
+// make library logo bigger
+#footer-logo {
+    height: 65px;
+}
+// fix pride gold outlines
+.btn-outline-primary, .btn-outline-pride-gold {
+    color: #191919;
+}
