@@ -12,7 +12,7 @@ url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /digital/demo
 # location of code, the full url to your github repository
-source-code: https://github.com/uidaholib/digital-collections-template-cb-csv
+source-code: https://github.com/uidaholib/base-digital-collections-template
 
 # url to the shared assets folder on mainweb
 digital-assets: https://www.lib.uidaho.edu/assets
