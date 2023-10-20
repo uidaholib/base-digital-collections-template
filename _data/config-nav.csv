@@ -2,5 +2,5 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
 Timeline,/timeline.html,
-Data,/data/,
+Data,/data.html,
 About,/about.html,
