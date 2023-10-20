@@ -77,7 +77,7 @@ By WWII, the Coeur d’Alene Mining District included 24 mines and 34 mills, the
 
 <div class="row">
     <div class="col-md-6">
-        {% include feature/image.html  objectid="https://www.lib.uidaho.edu/digital/objects/marsh/marsh_featured.jpg" caption="miners and ore cars at Bunker Hill, 1904" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock256.html" %}
+        {% include feature/image.html  objectid="https://www.lib.uidaho.edu/digital/objects/marsh/gloryhole.jpg" caption="miners and ore cars at Bunker Hill, 1904" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock256.html" %}
     </div>
     <div class="col-md-6">
         {% include feature/image.html  objectid="https://www.lib.uidaho.edu/digital/objects/marsh/marsh_hecla.jpg" caption="Hecla Mine, 1910" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock225.html" %}
