@@ -8,26 +8,24 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+## About the {{site.title}}
+{% include feature/image.html objectid="whitepine40" width="25" %}
 
-## About CollectionBuilder CSV
+### The Photographs
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The White Pine -- King of Many Waters Collection contains 134 historic photographs of logging methods, sawmills and shingle mills, and lumbermen compiled by Clarence Strong and Clyde Webb in the 1960s while conducting research on early lumber practices in Northern Idaho. 67 of these photos appear in their subsequent book, *White Pine: King of Many Waters*.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+### The Book
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+*White Pine: King of Many Waters*, published in Missoula, Montana by Mountain Press in 1970 details the rich history of logging, sawmilling, and shingle manufacturing in Kootenai, Benewah, and Shoshone counties in Idaho. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+{% include feature/image.html objectid="whitepine41" width="25" %}
+The book is a culmination of a six year research project by two retired foresters, Clarence Strong and Clyde Webb. Some of their research was conducted at the University of Idaho Library, and the Library later became the recipient of their materials, including newspaper clippings, correspondence, and manuscripts, in addition to the photographs.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+In compiling the date for White Pine, Strong and Webb spent many tedious hours copying information on sawmill locations and output, mill and lumberyard fires, and other historical material from old newspapers and lumber trade journals. They also spent many interesting hours interviewing old-timers--former lumbermen--who were active in Northern Idaho in the early days of lumbering. 
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+Copies of *White Pine: King of Many Waters* may be found at the University of Idaho Library. 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+<div class="clearfix"></div>
