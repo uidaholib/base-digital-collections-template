@@ -3,14 +3,22 @@ title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 archival date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
+date is approximate,Approximated Date
 description,Description,,,DCTERMS.description,description
+county,County,true,,contentLocation
+region,Region,true,,contentLocation
+features,Features,true,
+flight_line,Flight Line,true,
+aerial-type,Photograph Type,true,
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
+latitude,Latitude
+longitude,Longitude
+source,Source
 findingaid,Finding Aid,,true
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
+identifier,Source Identifier
+cd rom call number,CDROM Call #
+type,Type,,,DCTERMS.type
+format-original,Format Original
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license

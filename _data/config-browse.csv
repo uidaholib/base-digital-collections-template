@@ -1,6 +1,8 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,
-subject,,true
+description,
 location,,true
+aerial-type,,true
+features,,,true
+flight_line,,,true
 identifier,,,true,Identifier

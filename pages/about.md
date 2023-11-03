@@ -8,26 +8,25 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="aerial504" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About Aerial Photography" %}
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The Idaho Historical Aerial Photographs are a collection of both oblique and vertical historic air photos ranging from 1927 to the 1940s. Primarily taken by the Washington National Guard, sets of prints are held by offices within the Clearwater National Forest in Orofino, ID, the Moose Creek Ranger District at Fenn, ID, the Wallace Ranger District, and the Idaho Panhandle National Forests at Coeur d’Alene, ID. These prints were digitized and put online by the University of Idaho Digital Initiatives department starting in 1997 and up through 2011. Many of these prints were returned to their respective owners, while two copies of the scans saved on CD-ROMs are held by the U of I Library. Prints may also have been held by the Potlatch Corporation in Lewiston, ID, from which archival materials have now been transferred to the U of I Library [Special Collections](https://www.lib.uidaho.edu/special-collections/) as the [Potlatch Corporation Historical Archives](https://archiveswest.orbiscascade.org/ark:/80444/xv40829/) and many other non-digitized aerial photos are also currently held in the U of I [Map Room](https://libguides.uidaho.edu/c.php?g=363112&p=2453580). Collection efforts were facilitated by Emeritus Librarian Dennis Baird.  
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+{% include feature/image.html objectid="aerial855" width="75" %}
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+This collection is a mix of oblique and vertical images, oblique meaning the photos were taken at an angle and vertical meaning photos taken straight down. Indexes were created to show flight lines or paths and precise locations of each photo taken, while others are gathered into mosaics, or a composite image showing thumbnails of many adjacent photos. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+## About Aerial Photography
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+Aerial photography has existed for as long as people have had access to aircraft, such as balloons or even kites, and photography or a means of reproducing a view. Beyond the novelty of seeing your location from a different perspective, aerial photography quickly became a valuable tool for surveillance, cartography, and for documenting historical land use. Photographers found that by taking overlapping photos or many at different angles, the images could be combined to show depth and height of landforms and the built environment.   
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+Aerial photography became a very useful tool for war efforts to show enemy movements and defensive positions. Regionally, national guards such as the 116th Observation Squadron (also known as the Photo Section), 41st Division Aviation of the Washington National Guard, the likeliest group to have taken the photos in this collection, were engaged in aerial photography for observation and reconnaissance during World War 1. After the war, aerial photography turned invaluable for studying the landscape from viewing soil erosion, mapping rivers, showing forestation, and to supporting civil works planning, construction and other improvement projects. New Deal programs during the Great Depression, such as the Grand Coulee Dam and irrigation projects along the Columbia River, were also documented by the 116th section. The buildup to the start of WWII put a halt to their civil photographic projects and the 116th joined federal active duty on September 16th, 1940.  
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="aerial370" width="75" %}
+
+Aerial photographs have been taken by commercial as well as state and national governmental sources, such as the U.S. Geological Service, Bureau of Land Management, National Park Service, and all branches of the military. Advances in geospatial technology have vastly improved the amount of data that can be collected and interpreted through aerial photography. 
+
