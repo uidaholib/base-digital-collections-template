@@ -8,26 +8,101 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="cities274" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About Idaho Cities and Towns Collection;Idaho history" %}
 
-## About CollectionBuilder CSV
+## About Idaho Cities and Towns Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection contains digitized historical photos of 134 cities and towns in Idaho, beginning in 1862 and ending in 2000. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## Idaho history
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Idaho's landscape has been occupied by Indigenous people for thousands of years. Much archaeological evidence shows that Indigenous people have been living in Idaho for at least 8,000 years, while one study show "there is evidence that intelligent, highly skilled people have lived in Idaho for at least the past twelve to fifteen thousand years."[^1]
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+In 1805, the Lewis and Clark Expedition traveled through Idaho. When they traveled through the area that became the town of [Gibbonsville](https://www.lib.uidaho.edu/digital/cities/browse.html#gibbonsville), they described it as "filled with rocky hills and dense vegetation," which accurately describes much of Idaho's vast wilderness.[^2]
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+{% include feature/image.html objectid="cities619;cities674" %}
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+In 1860, gold was discovered near Pierce, Idaho, igniting a fierce gold rush in the state. This gold rush led to the development of a strong [mining industry](https://www.lib.uidaho.edu/digital/cities/browse.html#mines) and the establishment of many mining cities and towns throughout the state, including: [^3]
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% capture card1 %}
+<div class="row">
+<div class="col-md-6 text-center" markdown="1">
+
+Atlanta  
+Banner  
+[Bayhorse](https://www.lib.uidaho.edu/digital/cities/browse.html#bayhorse)  
+[Black Bear](https://www.lib.uidaho.edu/digital/cities/browse.html#black%20bear)  
+Bonanza  
+[Burke](https://www.lib.uidaho.edu/digital/cities/browse.html#burke)  
+Centerville  
+[Clayton](https://www.lib.uidaho.edu/digital/cities/browse.html#clayton)  
+Custer  
+De Lamar  
+[Dixie](https://www.lib.uidaho.edu/digital/cities/browse.html#dixie)  
+[Elk City](https://www.lib.uidaho.edu/digital/cities/browse.html#elk%20city)  
+Featherville  
+Florence  
+[Gem](https://www.lib.uidaho.edu/digital/cities/browse.html#gem)  
+Hailey  
+Idaho City  
+[Kellogg](https://www.lib.uidaho.edu/digital/cities/browse.html#kellogg)
+
+</div>
+<div class="col-md-6 text-center" markdown="1">
+
+Ketchum  
+Leesburg  
+[Mace](https://www.lib.uidaho.edu/digital/cities/browse.html#mace)  
+Mackay  
+[Mullan](https://www.lib.uidaho.edu/digital/cities/browse.html#mullan)  
+Murray  
+Pearl  
+[Pierce](https://www.lib.uidaho.edu/digital/cities/browse.html#pierce)  
+Pine  
+Pioneerville  
+Quartzburg  
+Rocky Bar  
+Roosevelt  
+[Silver City](https://www.lib.uidaho.edu/digital/cities/browse.html#silver%20city)  
+Sunbeam  
+Thunder Mountain  
+[Wallace](https://www.lib.uidaho.edu/digital/cities/browse.html#wallace)  
+[Wardner](https://www.lib.uidaho.edu/digital/cities/browse.html#wardner)  
+Warren[^4]  
+
+</div>
+</div>
+{% endcapture %}
+{% include feature/card.html text=card1 centered="true" %}
+
+{:.mt-5}
+In 1863, Congress established Idaho Territory. Idaho Territory spanned a surface that was 25% larger than the modern state of Texas.[^5] According to legend, the name "Idaho" was "derived from a Shoshone phrase meaning 'gem of the mountains.'"[^6] In 1890, Idaho became the 43rd state admitted to the union, and the size shrunk considerably compared to Idaho Territory.[^7] In 1896, Idaho became the first state in the U.S. to give women the right to vote.[^8]
+
+In 1910, the ["Big Burn"](https://www.lib.uidaho.edu/digital/bigburn/) ripped through Idaho, Washington, and Montana, proving to be one of the most significant natural disasters North Idaho ever saw. The fire effected [several cities in Idaho](https://www.lib.uidaho.edu/digital/cities/browse.html#fire).
+
+In 1957, the Idaho state legislature updated the state seal "in order to more clearly define Idaho's main industries, mining, agriculture, and forestry as well as highlight the state's natural beauty."[^9]
+
+{:.text-center}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/cities/idahosealcolor.jpg" link="https://gov.idaho.gov/idaho-state-seal/" alt="Idaho state seal" %}
+
+## Sources
+
+[^1]: Elizabeth M. Smith, [*History of the Boise National Forest 1905-1976*](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev3_042206.pdf) (Boise: Idaho State Historical Society, 1983). (Archived: [https://perma.cc/JM5M-63AZ](https://perma.cc/JM5M-63AZ)); "Ancient People of the Nez Perce National Forest: A Guide to the Prehistory of the Forest," U.S. Forest Service, [https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm91_055713.pdf](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm91_055713.pdf). (Archived: [https://perma.cc/NV7M-4WU7](https://perma.cc/NV7M-4WU7))
+
+[^2]: Kathy Weister, "Gibbonsville - Mining Camp to Bedroom Community," *Legends of America,* February 2020, [https://www.legendsofamerica.com/id-gibbonsville/](https://www.legendsofamerica.com/id-gibbonsville/). (Archived: [https://perma.cc/WM2L-AYXN](https://perma.cc/WM2L-AYXN))
+
+[^3]: "Idaho Gold Rush History and Districts," Gold Maps Online, [https://www.goldmapsonline.com/idaho-gold-rush-history-and-districts.html](https://www.goldmapsonline.com/idaho-gold-rush-history-and-districts.html). (Archived: [https://perma.cc/U8S8-DV4J](https://perma.cc/U8S8-DV4J)); "Mines & Minerals," Idaho Geological Survey, [https://www.idahogeology.org/geologic-resources/mines-minerals](https://www.idahogeology.org/geologic-resources/mines-minerals). (Archived: [https://perma.cc/P6GS-92K6](https://perma.cc/P6GS-92K6))
+
+[^4]: "Idaho Mining Towns," Western Mining History, [https://westernmininghistory.com/state/idaho/](https://westernmininghistory.com/state/idaho/). (Archived: [https://perma.cc/V85X-5K6Z](https://perma.cc/V85X-5K6Z)) (Note: This is not a comprehensive list of all mining towns in Idaho.)
+
+[^5]: "Idaho has a Rich and Fascinating History," Idaho.gov, [https://www.idaho.gov/about-idaho/history/](https://www.idaho.gov/about-idaho/history/). (Archived: [https://perma.cc/Z254-MYV7](https://perma.cc/Z254-MYV7))
+
+[^6]: Gregory Lewis McNamee, "Idaho," *Britannica,* [https://www.britannica.com/place/Idaho](https://www.britannica.com/place/Idaho). (Archived: [https://perma.cc/597Q-TSRC](https://perma.cc/597Q-TSRC))
+
+[^7]: Ibid.
+
+[^8]: "Idaho Women's Suffrage Amendment (1896)," Ballotpedia, https://ballotpedia.org/Idaho_Women%27s_Suffrage_Amendment_(1896). (Archived: [https://perma.cc/VDV9-478D](https://perma.cc/VDV9-478D))
+
+[^9]: "Idaho State Seal History," Idaho Secretary of State's Office, [https://sos.idaho.gov/elect/bluebook/Histseal.htm](https://sos.idaho.gov/elect/bluebook/Histseal.htm). (Archived: [https://perma.cc/A9RN-QAS5](https://perma.cc/A9RN-QAS5)); "Idaho State Seal," Idaho Office of the Governor, [https://gov.idaho.gov/idaho-state-seal/](https://gov.idaho.gov/idaho-state-seal/) (Archived: [https://perma.cc/UG75-TSCG](https://perma.cc/UG75-TSCG)).
