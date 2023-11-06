@@ -8,26 +8,20 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="phs673" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+## About the Collection
 
-## About CollectionBuilder CSV
+The digital materials in the Potlatch Historical Society Collection were donated to the University of Idaho Library by the Potlatch Historical Society. Some were also collected via community digitization days held at the Potlatch Public Library In 2017 and 2018. The Potlatch Historical Society was founded in 1998 as a non-profit group dedicated to finding, preserving, and sharing the history of the company town known as Potlatch and North Latah County, Idaho. The organization has materials and offices in the historic Washington, Idaho & Montana Railway Depot and City Hall in Potlatch, Idaho.
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+## About Potlatch, Idaho
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Located 18 miles north of Moscow, Idaho along the Palouse River in northern Latah County, the community of Potlatch first began as a company town for the Potlatch Lumber Company in 1906. The town site was chosen on account of its proximity to the company’s larger holdings of western white pine and soon became the home to the largest white pine sawmill in the world.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Because of the remote placement of the mill, Potlatch was built as a company town to provide housing, commerce, and other amenities for mill workers. During its height, Potlatch contained the sawmill, hundreds of homes, two churches, a hotel, a school, a hospital, and a mercantile. Many of these buildings have burned or been torn down throughout the last century–including the mill itself–but some of them still stand in Potlatch today.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+The mill in Potlatch operated until 1981 when, due to a depressed lumber economy and declining lumber prices, it closed its doors for good. Shortly after the town was sold to its residents. Since the closure of the mill, Potlatch’s population has dwindled but it remains a bedroom community for the university towns of Moscow, Idaho and Pullman, Washington. Many efforts have been made by residents to preserve the town’s history, and today Potlatch is home to not only the Potlatch Historical Society, but the Return to Riverside Music Festival as well.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+<div class="clearfix"></div>
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
