@@ -8,26 +8,27 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="bigburn61" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Fires; About the Collection" %}
 
-## About CollectionBuilder CSV
+## About the Fires
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The spring of 1910 was ominously dry throughout Idaho, Washington, and Montana. In the Coeur d’Alene National Forest alone, U.S. Forest Service officials had been battling fires since early April. In July, a rainless electrical storm ignited even more blazes across the Northern Rockies. Bad as it was, conditions got worse.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+On August 20, a "Palouser" wind whipped through the forests, creating an inferno now known as the Big Burn. The fires took the lives of nearly 90 people, leveled entire communities, burned almost 3 million acres of timber, and set US Forest Service fire policy for the next 6 decades. 
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+{% include feature/image.html objectid="bigburn30" width="50" %}
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+## About the Collection
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+These materials come from the University of Idaho Library's [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/index.html) department. Most of the photographs are from the [Barnard-Stockbridge Photograph Collection](https://www.lib.uidaho.edu/digital/barstock/) and the [A.B. Curtis Dworshak Dam Collection](https://www.lib.uidaho.edu/digital/dworshak/). The telegraphs and correspondence come from the [Bunker Hill Mining Collection](https://www.lib.uidaho.edu/digital/bunkerhill/).
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="bigburn27" width="50" %}
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Also included are a [first-person history of the 1910 fires](/digital/bigburn/items/bigburn00.html), written by Elers Koch, and a two-part recording ([Part 1](/digital/bigburn/items/bigburn46.html), [Part 2](/digital/bigburn/items/bigburn47.html)) plus [Transcript](/digital/bigburn/items/bigburn65.html) of an interview with Ione "Pinkie" Adair, who witnessed the fire firsthand. Timothy Egan used these histories, photographs, and other materials from the Library's Special Collections & Archives department during the composition of *The Big Burn*, as he notes in the acknowledgements section towards the end of his book.
+
+For additional photos and information on the fires of 1910, see this [special series from the Spokesman Review](https://www.spokesman.com/1910fire/).
+
+<div class="clearfix"></div>
+
