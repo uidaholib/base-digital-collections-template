@@ -8,26 +8,36 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="barstock94" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
 
-## About CollectionBuilder CSV
+# About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+### T. N. Barnard
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+In 1889, Thomas N. Barnard and his wife moved to Wallace, Idaho where he established his photo studio. The studio was destroyed in a fire in 1890 with a small amount of his negatives surviving. Most of the photographs taken in the early years "included landscapes, placer workings, townscapes, and panoramic views" of Wallace and Murray Idaho, taken on 5 x 7 and 8 x 10 dry-plate negatives. Barnard made most of his living from his landscape photographs, which were for sale to the general public and commissioned portraits.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+{% include feature/image.html objectid="barstock1224" width="50" %}
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+### Nellie Stockbridge
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+In 1898, Nellie Jane Stockbridge left her home in central Illinois to accept Thomas Barnard’s offer of employment in his Wallace, Idaho photo studio. Stockbridge was a dedicated photographer and businesswoman. In 1907, she purchased a quarter share of the business and eventually assumed full ownership when Barnard became the mayor of Wallace. Over the next few decades, working often to exhaustion, Nellie photographed the people and places of one of the richest mining areas of the world, the Coeur d’Alene Mining District. While portrait photography was the mainstay of her studio, Nellie skillfully photographed the area’s mining industries, both above ground and below, creating a visual record of historical significance to Idaho and beyond. Nellie Stockbridge died on May 22, 1965.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/media/digital/nellie.jpg" caption="Nellie Stockbridge Portrait" link="https://www.lib.uidaho.edu/media/digital/nellie.jpg" %}
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+### The Photographs 
+
+In 1964, the University of Idaho Library received a collection of over 200,000 nitrocellulose and glass plate negatives taken by Nellie Stockbridge and her predecessor and founder of the studio, Mr. T. N. Barnard. The photos were taken from 1894 to 1964 of various aspects of life in the Wallace and Kellogg mining area. Prints were made of many of the negatives, and the photographs and negatives were cataloged by [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/).
+
+{% include feature/image.html objectid="barstock859" width="50" %}
+
+Today there is a Barnard-Stockbridge Museum located in Wallace, Idaho. It was founded in 2017 and opened in 2019.
+
+*About Page written by Julie Monroe.*
+
+<div class="text-center">
+{% include feature/button.html text="More on Nellie Stockbridge and the Barnard-Stockbridge Collection" link="https://web.archive.org/web/20190509211433/https://www.cdapress.com/archive/article-39017cc5-a6df-5ac6-a3b2-a06609e05cf6.html" color="info" size="lg" %}
+</div>
+
+<div class="clearfix"></div>
+
