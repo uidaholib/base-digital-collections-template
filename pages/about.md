@@ -7,27 +7,30 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+{% include feature/jumbotron.html %} 
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/nav-menu.html sections="About the Collection;About Mark B. Calnon" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+## About the Collection
 
-## About CollectionBuilder CSV
+The Mark Brooks Calnon Collection is made up of 53 photographs, documents, and audio/visual files—including Calnon's memoir, *Some Lived, Some Died It Was Understood*—compiled by Denise Bennett. These items document Lt. Mark B. Calnon's time as a World War II pilot and prisoner of war.
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+## About Mark B. Calnon
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Mark Brooks Calnon, Sr. was born in Meridian, Idaho on August 21, 1918 and was raised on the family farm. After graduating from Meridian High School he moved to Moscow to study agriculture at the University of Idaho. He graduated from college in 1940. 
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+{% include feature/image.html objectid="calnon31" width="50" %}
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+In an interview conducted with Mark for this project he states, “Well it wasn’t long before I went into the Army. The draft was on, and my number was about to come up, so I volunteered. I knew I didn’t want to pack a rifle and I thought, well if I volunteered I might have a little choice of what I did.” He chose to fly. 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+On October 9, 1943 his B-17 was shot down and he survived the bailout only to be taken prisoner by the Germans. He was interned at Stalag Luft III where he was witness to one of the most notorious escapes called “The Great Escape.” As the war progressed and Germans lost ground the officer airmen held in Stalag Luft III were transferred to Stalag VII-A where conditions worsened. American forces liberated Stalag VII-A on April 29, 1945. After his military service Calnon married, had two children, and worked as an agriculture extension agent for UI in Ada county managing 4H programs until the 1970s. He resided at the family farm in Meridian, Idaho until his death in May of 2015.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="calnon48" width="50" %}
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The objective of this collection is to preserve and share his story, giving researchers and audiences a deeper understanding of the historical and sociological impact of war and military service, particularly the experiences of an average World War II prisoner of war. Calnon’s oral history serves as a key non-celebrity primary source for historians and people studying World War II.
+
+The Calnon collection was put together by film maker Denise Bennett as part of a Seed Grant funded project. Her research resulted in a documentary film, "[Some Lived: An Idaho POW's Story](https://video.idahoptv.org/video/some-lived-an-idaho-pows-story-e4uxn8/)," aired as part of Idaho Public Television's series *Idaho Experience*. 
+
+Mr. Calnon also [recorded an interview](https://www.youtube.com/watch?v=MN1UhBenH5Y&feature=youtu.be) for the [Veterans History Project](http://www.loc.gov/vets/), which is a project of the Library of Congress's [American Folklife Center](https://www.loc.gov/folklife/). 
+
+Additional information about Lt. Calnon's crew and missions can be found at the [384th Bombardment Group (Heavy)](http://384thbombgroup.com/_content/_pages/person.php?PersonKey=596) website ([archived page](https://web.archive.org/web/20190108014240/http://384thbombgroup.com/_content/_pages/person.php?PersonKey=596)). 

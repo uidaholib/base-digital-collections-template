@@ -1,14 +1,10 @@
 ---
-title: Subjects
+title: Materials
 layout: cloud
-permalink: /subjects.html
-# Default subject page is configured in "_data/theme.yml"
-# leave cloud-fields as "site.data.theme.subjects-fields"
-cloud-fields: site.data.theme.subjects-fields
-button: outline-payette-blue
+permalink: /materials.html
 ---
 
-## Browse Subjects
+## Browse Materials
 
-Use this word cloud visualization to browse terms and subjects.
+Use this word cloud visualization to browse material types included in the collection.
 Word size is determined by frequency and all words link to a corresponding collection search.
