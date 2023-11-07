@@ -12,11 +12,11 @@ lazyload: true
 
 Several photos from this collection were used in the production of the PBS Documentary [Grand Coulee Dam](http://www.pbs.org/wgbh/americanexperience/films/coulee/), which premiered as part of the *American Experience* series on April 3, 2012. The featured photos and the time they appear in the film are as follows:
 
-{% include feature/item-figure.html objectid="crbp1204" caption="'Excavation (site preparation)' Featured at 18:34" width="50" %}
+{% include feature/image.html objectid="crbp1204" caption="'Excavation (site preparation)' Featured at 18:34" width="50" %}
 
-{% include feature/item-figure.html objectid="crbp1189" caption="'Breaking Rock [02] (site preparation)' Featured at 45:16" width="50" %}
+{% include feature/image.html objectid="crbp1189" caption="'Breaking Rock [02] (site preparation)' Featured at 45:16" width="50" %}
 
-{% include feature/item-figure.html objectid="crbp1141" caption="'Cleaning East Powerhouse Area (Spillway and drum gate consctruction' Featured at 54:22" width="50" %}
+{% include feature/image.html objectid="crbp1141" caption="'Cleaning East Powerhouse Area (Spillway and drum gate consctruction' Featured at 54:22" width="50" %}
 
 ### PBS Documentary
 
