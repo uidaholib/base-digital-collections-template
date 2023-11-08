@@ -8,26 +8,21 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="higgins34" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About Robert Higgins" %}
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The Robert E. Higgins Collection is held by the University of Idaho Library [Special Collections & Archives](https://www.lib.uidaho.edu/special-collections/). These digitized photographs are a representative selection of photographs from the collection, which was donated to the University of Idaho library in 2009 by his family. The entire collection consists of two oversized boxes and one letter-sized box of prints and one box of slides. The photos were taken between 1947 and 1997. Photographic subjects include winter scenes, historic Idaho farm buildings and people, water scenes including those of rivers, waterfalls, and lakes, grain elevators, mountains, and scenes from Boise, Idaho. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+{% include feature/image.html objectid="higgins28" width="50" %}
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+## About Robert Higgins
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Robert E. Higgins was a scientist and an artist. Born in Boise, Professor Higgins graduated from Rupert High School in 1935 and went on to earn bachelor and master degrees in agronomy from the University of Idaho. Professor Higgins taught vocational agriculture at Wilder High School from 1941 to 1943 and served in the U.S. Navy from 1943 to 1946. In 1946, he joined the University of Idaho faculty as a professor of plant science. 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+{% include feature/image.html objectid="higgins7" width="75"%}
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+As an agronomist, Professor Higgins specialized in the control of noxious weeds. As a photographer, he specialized in landscapes and portraits. During his lifetime, Professor Higgins’ photographs were accepted in over 70 juried international salons, and he had one-artist exhibitions in Idaho, Washington, and California. He was active in the Photographic Society of America, Snake River Camera Club, Idaho Falls Camera Club, and the Boise Photographic Society. He and wife Miriam reared three children, Roberta, Janette, and Brian. Professor Higgins passed away January 24th, 2000. 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
