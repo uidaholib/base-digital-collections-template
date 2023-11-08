@@ -8,26 +8,12 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="spec_ji319" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The 160 lantern slides (3 duplicates) register images of an international trip by Dean of the College of Agriculture E.J. Iddings and his wife Maude Rowell in 1927. Iddings took a sabbatical leave from June to December to study agricultural practices abroad. He visited Great Britain and overseas dominions of the British Empire, including New Zealand, Australia, India, Ceylon, and Egypt. Other European countries in the tour included Germany, Denmark, Netherlands, Switzerland, France, and Italy. The images depict agricultural practices in the countries they visited, along with scenes of the cities, buildings, transportation, and people. In that occasion he participated as a delegate to the International Rotarians Convention in Ostend, Belgium. It may be that a few slides are not from this trip, but they are related to agriculture.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+More on the collection can be found via the finding aid: <a href="http://archiveswest.orbiscascade.org/ark:/80444/xv78979">http://archiveswest.orbiscascade.org/ark:/80444/xv78979</a>
