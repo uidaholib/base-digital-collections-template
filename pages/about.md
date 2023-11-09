@@ -8,26 +8,20 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="riegger126" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About Hal Riegger" %}
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The Hal Riegger Papers Collection is made up of maps, correspondence, oral history tapes and transcripts, and a large number of photographs dealing with the Camas Prairie Railroad, all collected by Hal Riegger from 1981-1986 and used in the writing of his book, *The Camas Prairie: Idaho’s Railroad on Stilts*. The Camas Prairie Railroad is one of the United States’ most scenic and fascinating railroads. Jointly owned by Northern Pacific Railway and Union Pacific Railroad, it was headquartered in Lewiston, Idaho, with lines running northwest to Ayer, Washington; Grangeville, Idaho; Stites, Idaho; and to Headquarters, Idaho. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+{% include feature/image.html objectid="riegger187" width="50" %}
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Riegger donated his materials to the University of Idaho Library Special Collections in May 1987 after the publication of his book. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+## About Hal Riegger
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+Hal Riegger was born in 1913 in Ithaca, New York. He received his B.A. and M.A. degrees at the New York State College of Ceramics and The Ohio State University, respectively. Riegger taught ceramics for most of his life, had his work exhibited in museums across the country, and published three books on the subject of ceramic pottery. 
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+In addition to his professional work in the art world, Riegger was very active in the field of rail history and model railroading—his interest in trains dates back to childhood and a set of Lionel O gauge train models owned by his aunt. He was a member of the National Model Railroad Association and served on its standards committee. 
