@@ -8,26 +8,39 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="lcheritage419" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %} 
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The Latah County Common Heritage Collection was driven by funding from a National Endowment for the Humanities (NEH) [Common Heritage Grant](https://www.neh.gov/news/press-release/2015-04-20#:~:text=The%20National%20Endowment%20for%20the%20Humanities%20(NEH)%20today%20announced%20a,wider%20public%20and%20for%20posterity.) awarded to the University of Idaho Library in 2016. 
+The materials in this collection were collected via community digitization days held in Moscow and Potlatch in 2016 and 2017.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+The project was a collaboration between the University of Idaho Library and the [Latah County Historical Society](https://www.latahcountyhistoricalsociety.org/); it was directed by Devin Becker, Dulce Kersting, and Erin Stoddart.
+If you have any questions about the collection or are interested in donating materials, please email us at [libspec@uidaho.edu](mailto:libspec@uidaho.edu).
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+The collection would not be possible without generous donations of time and materials from a variety of individual donors and staff. 
+The directors would like to thank our donors: 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+<div class="row justify-content-center">
+<div class="col-md-3">
+<p class="text-center" markdown="1">
+Wilma Daniels<br> The City of Moscow<br> Ariana Burns<br> LeNelle McInturff<br> Elizabeth Stevens<br> Nels Reese<br>  Gary Strong<br> M Spakoski
+</p>
+</div>
+<div class="col-md-3">
+<p class="text-center" markdown="1">
+Janice Palmer<br> Ann Davis<br> John Wolheter<br> Virginia Soncarty<br> Joe Rohn<br> Verna Comstock <br> Dusty Fleener
+</p>
+</div>
+</div>
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+This collection would also not be possible without the help of the following individuals: Jessica Wilson-Saia, Kevin Dobbins, Evan Williamson, Ashlyn Velte, Zach Wnek, Elizabeth Biancosino, and Autrey Jeskey. 
+Many thanks to them as well.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+For more information about Latah County, visit the [Latah County Historical Society website](https://www.latahcountyhistoricalsociety.org/).
+For more information about the National Endowment for the Humanities (NEH), visit the [NEH website](https://www.neh.gov/).
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+<div class="clearfix"></div>
+
