@@ -2,8 +2,9 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
 Subjects,/subjects.html,
-Locations,/locations.html,
 Map,/map.html,
-Timeline,/timeline.html,
+Timelines,,
+All Items,/timeline.html,Timelines
+Class Photos,/timeline-classes.html,Timelines
 Data,/data.html,
 About,/about.html,
