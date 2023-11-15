@@ -8,26 +8,26 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+## About the Collection
 
-## About CollectionBuilder CSV
+*Excerpted from the Winter 1996 issue of Towers (the newsletter of Library Associates, University of Idaho Library)*
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The University of Idaho Library houses a collection of historical photographs donated by Clifford M. Ott in 1992. Mr. Ott was an avid amateur photographer who amassed over 10,000 slides, prints, and negatives spanning the years from 1883 to 1990. Ott compiled a selection from his collection into eleven albums containing a total of over 1,800 images of Moscow and surrounding Latah County. These scrap books contain photos as well as newspaper clippings, and historic footnotes. Clifford Ott used these scrapbooks, and other slides and negatives, to give talks to senior groups about Latah County history.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Clifford M. Ott was a Moscow resident for ninety years. He was born in Iowa Falls, Iowa in 1897. Mr. Ott's family relocated to Moscow in 1906. He attended school in Moscow until 1915. In 1916, Mr. Ott joined the Idaho National Guard, Company F in Lewiston. After service on the Arizona-Mexico border, his unit served in Washington State until it merged with the 116th Engineers and was dispatched to France where he served as a bayonet instructor.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+{% include feature/image.html objectid="ott33" width="75" %}
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+He returned to Moscow in 1919, briefly working on the city survey crew. From 1920 to 1926, Clifford Ott farmed near Moscow. Then in 1927, he began working for the Washburn Wilson Seed Company as a warehouse foreman. After a 1945 fire, Mr. Ott was placed in charge of rebuilding the plant's processing and bean packaging machinery. During World War II, he helped produce C- and K- Rations at the seed company. Mr. Ott was made the manager of the Washburn Feed Store in 1952. He left the feed store in 1960 and went to work for the Idaho Department of Agriculture as a warehouse examiner. After retiring in 1967, he worked for the Aslin Finch Grain Company in Potlatch, Idaho. He remained at Aslin Finch until his second retirement in 1972. Mr. Ott continued to live in Moscow until his death on September 18, 1996, at the age of 99.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+The photographs provide a careful documentary record of life, activities, and scenes in Moscow and nearby Latah County. Many of the images were copied from family photographs that would otherwise be inaccessible today. Researchers and students now have access to a remarkable historical record through Mr. Ott's generosity to the University of Idaho Library.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+--Greg Schroeder, Contributing Writer.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="ott100" width="75" %}
+
+
+<div class="clearfix"></div>
+
