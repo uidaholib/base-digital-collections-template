@@ -8,26 +8,31 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="lchsphotos22" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About Bovill;Sources;" %} 
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection of 153 images depicts the history of Bovill between 1904 and 2000 and was collected by the Latah County Historical Society during a project to document the history of Bovill. Many images depict Bovill schools and schoolchildren, as well as graduation events. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+{% include feature/image.html objectid="lchsphotos4;lchsphotos94" %}
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Other images depict community events, such as Statehood Day in 1990, as well as typical street scenes, buildings, and residential houses. Finally, some images depict women of Bovill, CCC, sports teams, and lumber and railroad industries.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+This collection also contains images of the Bovill Historical Museum which was later turned into the Bovill Opera House.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+## About Bovill, Idaho
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Bovill has been described as "a town whose history exemplifies many of the elements that today we associate with the Wild West."[^1] The story of Bovill begins with Francis Warren who had a personal settlement on the site. An Englishman, Hugh Bovill, came in 1899 to buy Warren's site "and build a hotel that could accommodate fellow hunters and anglers with an appetite for adventure" because he had been "drawn to the American frontier by tales of ample big game."[^1] The town initially grew because the timber industry was growing and drawing "homesteaders to northeast Latah County, so Bovill opened a story to supply their needs."[^1]
+
+{% include feature/image.html objectid="lchsphotos69" %}
+
+To learn more about Bovill's early days, [Latah County Historical Society](https://www.latahcountyhistoricalsociety.org/) recorded oral histories in the 1970s that "reveal the hardships that folks endured, the kindness of strangers and the fire that destroyed much of the town."[^1]
+
+
+## Sources
+
+[^1]: Dulce Kersting-Lark, “Nearby History: A Short History of a Small Frontier Town,” *Moscow-Pullman Daily News,* September 24, 2018, [https://dnews.com/local/nearby-history-a-short-history-of-a-small-frontier-town/article_f96c6c39-7ead-5398-b915-2c4f9ff8db43.html](https://dnews.com/local/nearby-history-a-short-history-of-a-small-frontier-town/article_f96c6c39-7ead-5398-b915-2c4f9ff8db43.html). (Archived: [https://perma.cc/A8AF-NRGV](https://perma.cc/A8AF-NRGV))
+
