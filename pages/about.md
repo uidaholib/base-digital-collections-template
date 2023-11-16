@@ -8,26 +8,64 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;References;" %}
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+*For a detailed description and inventory of the William Allen Stonebraker Photograph Collection, see our [finding aid](http://archiveswest.orbiscascade.org/ark:/80444/xv882414/op=fstyle.aspx?t=k&q=). Physical collections are held by [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/)*
+ 
+This collection consists of 540 photographs from the William Allen Stonebraker Collection, which was donated to the University of Idaho Library in 2003. Stonebraker took photographs in Central Idaho's remote  [Salmon River]({{ '/browse.html#Salmon River' | relative_url }}) and Frank Church-River of No Return areas at the turn of the twentieth century between 1900 and 1931. The collection contains images of the Stonebraker Ranch and homestead in the Chamberlain Basin, his businesses (dude ranch, pack train and dogsled operations, mining, big game hunting) as well as wildlife, scenic views, and early aircraft operation.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+{% include feature/image.html objectid="stonebraker664" width="50" %}
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+William Allen ("Al") Stonebraker was born in Aden, California, in 1879 to parents George and Minnie Stonebraker. Al had six siblings; many of them appear in this collection. In 1898, Al Stonebraker arrived in the [Chamberlain Basin]({{ '/browse.html#Chamberlain Basin' | relative_url }}) and was known as one of the original homesteaders in the area. He established a [homestead]({{ '/browse.html#homestead' | relative_url }}) on approximately 409 acres in what is now part of the Payette National Forest and the Frank Church-River of No Return wilderness, currently owned by Idaho Fish and Game.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Many of Al Stonebraker's businesses revolved around the Idaho [mining]({{ '/browse.html#mining' | relative_url }}) boom at the turn of the twentieth century. The Chamberlain Basin homestead was originally built as a working ranch to supply beef to the mining communities along the Salmon River, and was one of the only ranches to exist after the mining boom in nearby Thunder Mountain. The Stonebraker property also included a mining prospect nearby for copper, gold and silver.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+<div class="row justify-content-md-center">
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+<iframe src="https://www.google.com/maps/d/embed?mid=zMkSt552ZeaQ.kUIwGBWg0b_Q" class="col-md-8" width="500" height="700"></iframe>
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+</div>
+
+As the [Thunder Mountain]({{ '/browse.html#Thunder Mountain' | relative_url }}) gold rush boom developed, the need for a single direct route from the northwestern area became evident. In 1900, a sum of $3,000 was collected from prospectors, miners, and businessmen to construct a route.  By this time, Stonebraker was an experienced freighter/packer in the Gospel Hump gold area. Stonebraker and William Campbell were awarded the contract for location and construction of a trail from Grangeville to Dixie across the Salmon River and the Chamberlain Basin wilderness to the Monumental Creek trail, which led to Thunder Mountain.  Named the Three Blaze Trail, the route met the Salmon River on the river's north bank, about twelve miles southeast of Dixie. Campbell saw an opportunity to prosper by transporting travelers across the river. With the help of the trail crew (including Stonebraker), he built a ferryboat with a hand-crank, winch-and-[pulley]({{ '/browse.html#pulley' | relative_url }}) system to take miners and their stock across the river in relative safety. Photographs of the pulley system can be found in the digital collection.
+
+Stonebraker photographed parts of the Three Blaze Trail and his business as a [pack train]({{ '/browse.html#pack train' | relative_url }}) operator in the early 1900s. The trail ran from the present town of Grangeville to Buffalo Hump country, through Dixie to the mouth of Trout Creek on the Salmon River. They followed up Little Trout Creek to the present site of Burnt Knob Lookout, then along Highline Ridge south of Flossie Lake to the crossing of Chamberlain Creek at the mouth of Moose Creek. Through Moose Creek Meadows, the trail climbed the ridge east of Moose Creek and continued on top to Ramey Ridge. From Ramey Ridge the trail came to the mouth of Ramey Creek, then down Big Creek to the mouth of Monumental Creek and up Monumental Creek to the village of Roosevelt. [Roosevelt]({{ '/browse.html#Roosevelt' | relative_url }}) was a mining town that later became a lake after a landslide devastated the town. Roosevelt itself had many substantial buildings, including a post office and laundry, and every saloon had a piano in spite of the circumstance that everything had to be freighted in on mule back. Photographs of Roosevelt both as an active community and after the landslide are part of this digital collection.
+
+His father, George Stonebraker, owned a group of mining claims near Thunder Mountain, called the Juno Group of Claims. The prospect included discovery and mining of gold, copper, and nickel. Stonebraker took a number of photographs of the [Juno]({{ '/browse.html#Juno' | relative_url }}) property before his father sold it in 1902.
+
+In addition to his business as a pack train operator for people interested in getting to Thunder Mountain, Stonebraker also ran a profitable pack train
+business for mail and supplies to miners from his home in [Stites]({{ '/browse.html#Stites' | relative_url }}) (south of Kooskia), where the Northern Pacific Railroad ran. Stonebraker took photographs
+of his home in Stites, as well as construction of the town, street scenes, [railroad]({{ '/browse.html#railroad' | relative_url }}), and family. He also took photographs of his travels on the trail,
+including hunting and camping scenes.
+
+Stonebraker later converted his homestead into a dude ranch. This area was also an attractive [hunting]({{ '/browse.html#hunting' | relative_url }}) area due to its isolation. Because of this,
+Stonebraker later ran a big-game hunting business from his ranch. He also took groups out to the property of the Werdenhoff Mine near Big Creek for hunting trips (40 miles by trail from his ranch in Chamberlain Basin). Hunters would travel by pack train until 1928, when flights were available to the
+Chamberlain Basin on a strip of his land. Stonebraker took photographs of both big-game
+hunting trips and the first [airplane]({{ '/browse.html#airplane' | relative_url }}) in the Chamberlain Basin in 1928, piloted by Nick Mamer of Spokane. The Chamberlain landing field underwent major improvements in 1940 and was purchased by the Forest Service in 1975. 
+
+Stonebraker died at the age of 53 in 1932 while on a pack train trip near Mosquito Springs in Idaho County, about 12 miles from his ranch, due to heart
+failure. He left behind his second wife, Golda, and her son Bill (Adolph) (he was first married to Lillian Carter who died in the 1910s). Stonebraker Ranch was sold by Golda in 1933 or 1934, and was purchased by the Forest Service in 1975. Stonebraker's cabin still stands today in the very remote area of Idaho now federally designated as the Frank Church River of No Return Wilderness Area. It is only accessible by horseback, foot or air. The Payette National Forest oversees the cabin's maintenance. 
+
+{% include feature/image.html objectid="stonebraker604" %}
+
+
+Some of Al Stonebraker's siblings occur within this history. A few facts worth mentioning as related to the collection:
+
+- Brother Lillburn C. ("Tude") Stonebraker operated a pack string business from Lardo to Thunder Mountain and lived in Orofino. He was a member of the
+	firm Stonebraker Brothers.
+- Brothers George Stonebraker, Jr. and Sumner ("Governor") Stonebraker led dogsled teams and pack train operations near Cascade.
+- Brother George Stonebraker, Jr. was shot to death by his wife at his ranch in 1945. It made news headlines across the state; his wife Thelma was
+	found not guilty.
+
+
+*Researched and written by Erin Passehl-Stoddart, 2014.*
+
+## References:
+
+- M. Elsensohn, *Pioneer Days in Idaho County, volume 2* (Caldwell, Idaho: Caxton Printers, 1947).
+- Federal Writers' Project. Idaho, *Idaho, a Guide in Word and Picture*. (Caldwell, Idaho: Caxton Printers, 1937).
+- *Mining Reporter*, 1902-1904.
+- Newspaper articles from the *Spokesman Review* and *Spokane Daily Chronicle*.
