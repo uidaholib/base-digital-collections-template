@@ -8,7 +8,7 @@ cloud-fields: site.data.theme.locations-fields
 button: outline-payette-blue
 ---
 
-## Browse Locations
+## Browse Locations by Mine
 
 Use this word cloud visualization to browse locations.
 Word size is determined by frequency and all words link to a corresponding collection search.
