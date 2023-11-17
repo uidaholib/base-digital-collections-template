@@ -1,6 +1,6 @@
 ---
 title: Depth
-layout: timeline
+layout: depth-timeline
 permalink: /depth.html
 ---
 
