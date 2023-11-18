@@ -40,13 +40,19 @@ author: CollectionBuilder
 metadata: cccidaho
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
-# page_gen:
-#   - data: 'demo-metadata'
-#     template: 'item'
-#     name: 'objectid'
-#     dir: 'items'
-#     extension: 'html' 
-#     filter: 'objectid'  
+page_gen:
+  - data: 'cccidaho'
+    template: 'items'
+    name: 'objectid'
+    dir: 'items'
+    extension: 'html' 
+    filter: 'objectid'  
+  - data: 'cccextant'
+    template: 'item-extant'
+    name: 'objectid'
+    dir: 'structures'
+    extension: 'html' 
+    filter: 'objectid'  
 
 ##########
 # Site/Organization Branding 
