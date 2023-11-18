@@ -28,7 +28,7 @@ Watkins was hired to document the mines so that Haggin could present, later that
 
 ## Watkins in Montana
 
-As his <a id="show_5" href="letters.html">letters from Butte</a> attest, Watkins' time in Montana was anything but comfortable. Living out of his railroad car, Watkins dealt with howling winds, rain, snow, fires, personal health issues (bad toe, bad hip, vertigo) and terrible lighting and breathing conditions in the mine itself. Meanwhile, back in San Francisco, his wife, their two children, and his sister were dealing with their own health and money issues, having to stave off creditors and the 'wolf' of hunger at the same time. Lonely, weakened by a poor diet, and pining for his family, Watkins nevertheless managed to produce captivating photographs of the working mines—some as deep as 1,000 feet—by using a combination of electric and flash lighting.
+As his <a href="letters.html">letters from Butte</a> attest, Watkins' time in Montana was anything but comfortable. Living out of his railroad car, Watkins dealt with howling winds, rain, snow, fires, personal health issues (bad toe, bad hip, vertigo) and terrible lighting and breathing conditions in the mine itself. Meanwhile, back in San Francisco, his wife, their two children, and his sister were dealing with their own health and money issues, having to stave off creditors and the 'wolf' of hunger at the same time. Lonely, weakened by a poor diet, and pining for his family, Watkins nevertheless managed to produce captivating photographs of the working mines—some as deep as 1,000 feet—by using a combination of electric and flash lighting.
 
 ## More Information
 
@@ -38,7 +38,7 @@ For a more detailed look at the mining photography of Carleton Watkins, and for 
 
 Watkins' non-mining photographs are astounding as well, and are definitely worth perusing. A few collections are listed below. We also carry several books at the library containing his photographs, including <a href="https://uidaho.worldcat.org/oclc/5972889"> Photographs of the Columbia River and Oregon</a>, <a href="https://uidaho.worldcat.org/oclc/19397351">Carleton E. Watkins : photographs, 1861-1874</a>, and <a href="https://uidaho.worldcat.org/oclc/9197151">Carleton E. Watkins, photographer of the American West.
 
-## Related Collections
+### Related Collections
 
 - [Carleton Watkins Exhibition & Photographs](https://fraenkelgallery.com/artists/carleton-watkins)
 - [Carleton Watkins — 19th Century California Photographer](https://CPRR.org/Museum/Stereo_World/Watkins/)
@@ -49,5 +49,4 @@ Watkins' non-mining photographs are astounding as well, and are definitely worth
 - [Collection of Photographs by Carleton E. Watkins finding aid](https://oac.cdlib.org/findaid/ark:/13030/tf2x0nb5r3/admin/) at the Phoebe A. Hearst Museum of Anthropology.
 - [Mammoth Plate Photographs of the North American West](https://beinecke.library.yale.edu/collections/highlights/mammoth-plate-photographs-north-american-west) by Watkins from the [Beinecke Rare Book and Manuscript Library](https://www.library.yale.edu/beinecke/) at Yale University.
 - [Carleton E. Watkins Collection](https://www.sfmoma.org/artist/Carleton_E._Watkins/) at the San Francisco Museum of Modern Art.
-
-[^1]: Hult-Lewis, Christine. *The Mining Photographs of Carleton Watkins, 1858-1891, and the Origins of Corporate Photography* (Boston University, 2011), 247.
+- Hult-Lewis, Christine. *The Mining Photographs of Carleton Watkins, 1858-1891, and the Origins of Corporate Photography* (Boston University, 2011), 247.
