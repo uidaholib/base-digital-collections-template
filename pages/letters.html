@@ -1,0 +1,36 @@
+---
+title: The Letters of Carleton Watkins
+layout: page-narrow
+permalink: /letters.html
+---
+
+<h2>The Letters of Carleton Watkins</h2>
+
+<p>At the age of fifty, Carleton Watkins married 22-year-old Frances ('Frankie') Henrietta Sneed in 1879 and proceeded to have two children, Collis Potter and Julia Caroline. Watkins wrote to his new wife consistently during his travels, and some of his letters to her have survived, being deposited at <a href="https://www.lib.berkeley.edu/">The Bancroft Library</a>, University of California, Berkeley, in 1967. These were then converted into a gift in 1978 by Professor Joe Johnson &#8212; <a href="https://oac.cdlib.org/search?style=oac4;idT=991035410949706532">Carleton E. Watkins letters (Banc Mss 78/92 c)</a>. </p>
+
+<p>Letters from this collection pertinent to Watkins time in the Anaconda mines are reproduced here, with the kind <a href="https://objects.lib.uidaho.edu/watkins/BancroftLibraryLetter.pdf">permission</a> of The Bancroft Library.</p>
+
+<div class="accordion my-5 narrow-content" id="accordionLetters">
+    {% for l in site.letters %}
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapse{{ forloop.index }}">
+                {{ l.title }}
+            </button>
+        </h2>
+        <div id="collapse{{ forloop.index }}" class="accordion-collapse collapse" data-bs-parent="#accordionLetters">
+            <div class="accordion-body">
+                {{ l.content }}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<h2>Works Consulted</h2>
+
+<ul>
+    <li>Hult-Lewis, Christine. <a href="https://worldcat.org/oclc/756855379">The Mining Photographs of Carleton Watkins, 1858-1891, and the Origins of Corporate Photography</a>. 2011.</li>
+    <li>Watkins, Carleton E, and Amy Rule. <a href="https://worldcat.org/oclc/27034973">Carleton Watkins: Selected Texts and Bibliography</a>. Boston, Mass: G.K. Hall, 1993. Print.</li>
+    <li><a href="https://oac.cdlib.org/search?style=oac4;idT=991035410949706532">Carleton E. Watkins letters (Banc Mss 78/92 c)</a></li>
+</ul>
