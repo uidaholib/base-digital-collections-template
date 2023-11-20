@@ -25,7 +25,7 @@
         var longitudeHash = hashfilter.split(',')[1]
         var map = L.map('map').setView([latitudeHash,longitudeHash],16);
     } else {
-        var map = L.map('map').setView([{{ site.data.theme.latitude-extant | default: 46.727485 }},{{ site.data.theme.longitude-extant | default: -117.014185 }}],{{ site.data.theme.zoom-level-extant | default: 7 }});
+        var map = L.map('map').setView([{{ site.data.theme.latitude-extant | default: 40 }},{{ site.data.theme.longitude-extant | default: -116 }}],{{ site.data.theme.zoom-level-extant | default: 6 }});
     }
 
     /* add map layer options */
