@@ -1,6 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
-subject,,true
-location,,true
+subject,,,true,
+city,City,true,
+county,County,true
 identifier,,,true,Identifier
