@@ -2,7 +2,7 @@
 title: Photographers
 layout: cloud
 permalink: /photographers.html
-cloud-fields: photographer
+cloud-fields: creator
 cloud-min: 1
 cloud-stop: 
 ---
