@@ -17,10 +17,15 @@ layout: page
     {% assign fields = site.data.theme.subjects-fields %}
     {% assign min = site.data.theme.subjects-min | default: 1 %}
     {% assign stopwords = site.data.theme.subjects-stopwords %}
-{%- elsif page.cloud-fields == "site.data.theme.locations-fields" -%}
-    {% assign fields = site.data.theme.locations-fields %}
+{%- elsif page.cloud-fields == "site.data.theme.cities-fields" -%}
+    {% assign fields = site.data.theme.cities-fields %}
     {% assign min = site.data.theme.locations-min | default: 1 %}
     {% assign stopwords = site.data.theme.locations-stopwords %}
+{%- elsif page.cloud-fields == "site.data.theme.counties-fields" -%}
+    {% assign fields = site.data.theme.counties-fields %}
+    {% assign min = site.data.theme.counties-min | default: 1 %}
+    {% assign stopwords = site.data.theme.counties-stopwords %}
+{%- else -%}
 {%- else -%}
     {% assign fields = page.cloud-fields | default: "subjects" %}
     {% assign min = page.cloud-min | default: 1 %}
