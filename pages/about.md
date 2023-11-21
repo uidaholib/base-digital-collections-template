@@ -10,6 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="barstock94" %} 
 
+{% include feature/nav-menu.html sections="About the Collection;" %} 
 
 # About the Collection
 
@@ -23,7 +24,7 @@ In 1889, Thomas N. Barnard and his wife moved to Wallace, Idaho where he establi
 
 In 1898, Nellie Jane Stockbridge left her home in central Illinois to accept Thomas Barnard’s offer of employment in his Wallace, Idaho photo studio. Stockbridge was a dedicated photographer and businesswoman. In 1907, she purchased a quarter share of the business and eventually assumed full ownership when Barnard became the mayor of Wallace. Over the next few decades, working often to exhaustion, Nellie photographed the people and places of one of the richest mining areas of the world, the Coeur d’Alene Mining District. While portrait photography was the mainstay of her studio, Nellie skillfully photographed the area’s mining industries, both above ground and below, creating a visual record of historical significance to Idaho and beyond. Nellie Stockbridge died on May 22, 1965.
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/media/digital/nellie.jpg" caption="Nellie Stockbridge Portrait" link="https://www.lib.uidaho.edu/media/digital/nellie.jpg" %}
+{% include feature/image.html objectid="https://www.lib.uidaho.edu/media/digital/nellie.jpg" caption="Nellie Stockbridge Portrait" link="https://objects.lib.uidaho.edu/barstock/nellie.jpg" %}
 
 ### The Photographs 
 
