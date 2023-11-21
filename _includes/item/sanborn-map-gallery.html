@@ -1,0 +1,23 @@
+{% comment %}
+
+    For image items, a zoomable, full screen gallery view is added using Spotlight gallery.
+    Ensure dependencies are added by including `gallery: true` in the layout front matter calling this include.
+
+{%- endcomment -%}
+
+<div class="card">
+    <div class="my-auto">
+        <div class="card-body text-center">
+            
+            <div class="mb-2">
+                <img class="img-thumbnail compound-thumb" src="{{ page.image_small | relative_url }}" alt="{{ page.image_alt_text | default: page.description | default: page.title | escape }}" class="img-fluid">
+            </div>
+
+            <!-- child object modal button -->
+            <a class="spotlight gallery-img btn btn-sm btn-outline-secondary small stretched-link" data-download="true" title="{{ page.title | escape }}" href="{{ page.object_location | relative_url }}">
+                View Map
+            </a> 
+
+        </div>
+    </div>
+</div>
