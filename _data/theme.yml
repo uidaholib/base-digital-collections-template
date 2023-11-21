@@ -107,6 +107,8 @@ icons:
    icon-image: image
    icon-audio: soundwave
    icon-vertical: airplane
+   icon-oblique: airplane-fill
+   icon-index: map
    icon-video: film
    icon-pdf: file-pdf
    icon-record: file-text
