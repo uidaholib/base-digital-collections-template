@@ -70,12 +70,14 @@ Sunbeam
 Thunder Mountain  
 [Wallace](https://www.lib.uidaho.edu/digital/cities/browse.html#wallace)  
 [Wardner](https://www.lib.uidaho.edu/digital/cities/browse.html#wardner)  
-Warren[^4]  
+Warren
 
 </div>
 </div>
 {% endcapture %}
 {% include feature/card.html text=card1 centered="true" %}
+
+[^4]
 
 {:.mt-5}
 In 1863, Congress established Idaho Territory. Idaho Territory spanned a surface that was 25% larger than the modern state of Texas.[^5] According to legend, the name "Idaho" was "derived from a Shoshone phrase meaning 'gem of the mountains.'"[^6] In 1890, Idaho became the 43rd state admitted to the union, and the size shrunk considerably compared to Idaho Territory.[^7] In 1896, Idaho became the first state in the U.S. to give women the right to vote.[^8]
