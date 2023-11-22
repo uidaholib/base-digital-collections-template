@@ -2,6 +2,8 @@
 title: Materials
 layout: cloud
 permalink: /materials.html
+cloud-fields: site.data.theme.subjects-fields
+button: outline-payette-blue
 ---
 
 ## Browse Materials
