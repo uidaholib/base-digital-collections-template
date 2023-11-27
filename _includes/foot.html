@@ -5,6 +5,7 @@
 {% if layout.gallery == true or page.gallery == true %}<script src="{{ '/js/spotlight.bundle.js' | prepend: site.digital-assets }}" defer></script>{% endif %}
 {% if page.custom-foot or layout.custom-foot %}
 {% if page.title contains "Extant" %}{% include js/mapextant-js.html %}{% else %}{% include js/map-js.html %}{% endif %}
+{% if page.layout == "table" %}{% include js/table-extant-js.html %}{% endif %}
 {%- assign page_feet = page.custom-foot | split: ";" -%}
 {%- assign layout_feet = layout.custom-foot | split: ";" -%}
 {%- assign feet = page_feet | concat: layout_feet -%}
