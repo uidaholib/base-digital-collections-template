@@ -1,0 +1,1 @@
+{{ site.cdm-url }}/digital/iiif/{% if item.title %}{{ item.collectionid | default: site.cdm-collection-id }}/{{ item.cdmid }}{% else %}{{ page.collectionid | default: site.cdm-collection-id }}/{{ page.cdmid }}{% endif %}/full/max/0/default.jpg
