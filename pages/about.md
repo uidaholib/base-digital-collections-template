@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="nwpostcards1021" %} 
+{% include feature/jumbotron.html %} 
 
 {% include feature/nav-menu.html sections="About the Northwest Historical Postcards Collection" %}
 
@@ -16,11 +16,11 @@ credits: true
 
 From hand colored images of Mount Rainier to the historic streets of early Moscow, Idaho, the Northwest Historical Postcards Collection displays unique and engaging images of people and places in the Northwest during the late nineteenth and early twentieth centuries. Portraying locations in Idaho, Montana, Oregon, Washington, Wyoming, Alberta, and British Columbia, the collection offers a glimpse at the historical and cultural development of the western states, with rare depictions of turn-of-the-century buildings, thriving mining towns that later became ghost towns, and Mount St. Helens before the eruption. 
 
-{% include feature/image.html objectid="nwpostcards738" width="50" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/postcards/nwpostcards738.jpg" width="50" %}
 
 This digital collection of over 800 postcards comes from the historical photograph collections held by the University of Idaho Library's Special Collections & Archives. The postcards range in date from the 1890s to the 1980s and were given to the library by a wide variety of donors. The postcards were digitized and described by Annie Gaines in 2012-2013.
 
-{% include feature/image.html objectid="nwpostcards1813" width="75" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/postcards/nwpostcards1813.jpg" width="75" %}
 
 ### A Note on the History of Postcards
 
@@ -33,6 +33,4 @@ Postcards originated in Europe in the late nineteenth century as an inexpensive 
 - Lear, B. A. (January 31, 2008). [Wishing They Were There: Old Postcards and Library History](http://www.jstor.org/stable/25549458). Libraries & the Cultural Record, 43, 1, 77-100.
 - Prochaska, David, and Jordana Mendelson. [Postcards: Ephemeral Histories of Modernity](http://uidaho.worldcat.org/title/postcards-ephemeral-histories-of-modernity/oclc/367422770&referer=brief_results). University Park, Pa: Pennsylvania State University Press, 2010.
 
-
-<div class="clearfix"></div>
 
