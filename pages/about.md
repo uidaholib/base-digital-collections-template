@@ -24,11 +24,15 @@ William Allen ("Al") Stonebraker was born in Aden, California, in 1879 to parent
 
 Many of Al Stonebraker's businesses revolved around the Idaho [mining]({{ '/browse.html#mining' | relative_url }}) boom at the turn of the twentieth century. The Chamberlain Basin homestead was originally built as a working ranch to supply beef to the mining communities along the Salmon River, and was one of the only ranches to exist after the mining boom in nearby Thunder Mountain. The Stonebraker property also included a mining prospect nearby for copper, gold and silver.
 
+<br>
+
 <div class="row justify-content-md-center">
 
-<iframe src="https://www.google.com/maps/d/embed?mid=zMkSt552ZeaQ.kUIwGBWg0b_Q" class="col-md-8" width="500" height="700"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=zMkSt552ZeaQ.kUIwGBWg0b_Q" class="col-md-10" marginheight="10" width="500" height="500"></iframe>
 
 </div>
+
+<br>
 
 As the [Thunder Mountain]({{ '/browse.html#Thunder Mountain' | relative_url }}) gold rush boom developed, the need for a single direct route from the northwestern area became evident. In 1900, a sum of $3,000 was collected from prospectors, miners, and businessmen to construct a route.  By this time, Stonebraker was an experienced freighter/packer in the Gospel Hump gold area. Stonebraker and William Campbell were awarded the contract for location and construction of a trail from Grangeville to Dixie across the Salmon River and the Chamberlain Basin wilderness to the Monumental Creek trail, which led to Thunder Mountain.  Named the Three Blaze Trail, the route met the Salmon River on the river's north bank, about twelve miles southeast of Dixie. Campbell saw an opportunity to prosper by transporting travelers across the river. With the help of the trail crew (including Stonebraker), he built a ferryboat with a hand-crank, winch-and-[pulley]({{ '/browse.html#pulley' | relative_url }}) system to take miners and their stock across the river in relative safety. Photographs of the pulley system can be found in the digital collection.
 
