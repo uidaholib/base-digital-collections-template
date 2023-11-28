@@ -29,5 +29,3 @@ The photographs provide a careful documentary record of life, activities, and sc
 {% include feature/image.html objectid="ott100" width="75" %}
 
 
-<div class="clearfix"></div>
-
