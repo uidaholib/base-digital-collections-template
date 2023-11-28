@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="priestlake212" %} 
 
-{% include feature/nav-menu.html sections="Brief History of Priest Lake;About the Photographs;Sources" %}
+{% include feature/nav-menu.html sections="Brief History of Priest Lake, Idaho;About the Photographs;Sources" %}
 
 ## Brief History of Priest Lake, Idaho
 
