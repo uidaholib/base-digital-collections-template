@@ -29,7 +29,7 @@ These retellings weave together a vivid history replete with stories like that o
 <div class="col-md-6">{% include feature/image.html objectid="trees122" %}</div>
 </div>
 
-*The Trees Grew Tall* serves as an animated catalog of frontier life in Bovill and other areas on the Palouse. To explore it further, find it in the University of Idaho Library [catalog](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71163097320001451). 
+*The Trees Grew Tall* serves as an animated catalog of frontier life in Bovill and other areas on the Palouse. To explore it further, find it in the University of Idaho Library [catalog](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/cm24jp/alma9916873001851). 
 
 ## About John B. Miller
 
