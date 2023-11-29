@@ -166,14 +166,13 @@ Between 1937-1968, Idaho football games were held at the wooden Neale Stadium. I
 {:.pt-4}
 <div class="row">
 <div class="col-md-4">
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pg1/273/default.jpg
-" caption="MacLean Field, football practice, 1922" link="https://digital.lib.uidaho.edu/digital/collection/pg1/id/273" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/campus/campus03047.jpg" caption="MacLean Field, football practice, 1922" link="https://www.lib.uidaho.edu/digital/campus/items/campus03047.html" %}
 </div>
 <div class="col-md-4">
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pg1/1899/default.jpg" caption="Neale Stadium, 1940" link="https://digital.lib.uidaho.edu/digital/collection/pg1/id/1899" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/campus/campus02843.jpg" caption="Neale Stadium, 1940" link="https://www.lib.uidaho.edu/digital/campus/items/campus02843.html" %}
 </div>
 <div class="col-md-4">
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pg1/708/default.jpg" caption="Kibbie-ASUI Activity Center, architect's drawing, 1971" link="https://digital.lib.uidaho.edu/digital/collection/pg1/id/708" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/campus/campus00538.jpg" caption="Kibbie-ASUI Activity Center, architect's drawing, 1971" link="https://www.lib.uidaho.edu/digital/campus/items/campus00538.html" %}
 </div>
 </div>
 
@@ -185,4 +184,4 @@ Between 1937-1968, Idaho football games were held at the wooden Neale Stadium. I
 [^3]: Adam Woodyard, "In Memoriam: Idaho Vandals FBS Football (1996-2017)," *SBNATION,* December 10, 2017, [https://www.underdogdynasty.com/2017/12/10/16718212/in-memoriam-idaho-vandals-fbs-football-history-1996-2017-wac-sun-belt-fcs-big-sky-paul-petrino](https://www.underdogdynasty.com/2017/12/10/16718212/in-memoriam-idaho-vandals-fbs-football-history-1996-2017-wac-sun-belt-fcs-big-sky-paul-petrino). (Archived: [https://perma.cc/ZBB3-JZGP](https://perma.cc/ZBB3-JZGP))
 [^4]: Patrick Pinak, "College Football Trivia: What Does 'FBS' Actually Mean?," *FanBuzz,* December 7, 2021, [https://fanbuzz.com/college-football/what-does-fbs-stand-for/](https://fanbuzz.com/college-football/what-does-fbs-stand-for/). (Archived: [https://perma.cc/67JU-2C65](https://perma.cc/67JU-2C65))
 [^5]: "Kibbie Dome," Wikipedia, [https://en.wikipedia.org/wiki/Kibbie_Dome](https://en.wikipedia.org/wiki/Kibbie_Dome). (Archived: [https://perma.cc/BHP2-K86W](https://perma.cc/BHP2-K86W))
-[^6]: University of Idaho Digital Initiatives, "MacLean Field." [https://digital.lib.uidaho.edu/digital/search/searchterm/maclean%20field](https://digital.lib.uidaho.edu/digital/search/searchterm/maclean%20field).
+[^6]: University of Idaho Digital Initiatives, "MacLean Field." [https://www.lib.uidaho.edu/digital/footballcovers/browse.html#MacLean%20Field](https://www.lib.uidaho.edu/digital/footballcovers/browse.html#MacLean%20Field).
