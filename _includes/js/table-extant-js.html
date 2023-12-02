@@ -1,11 +1,11 @@
 {% assign fcount = site.data.config-table-extant | size %}
-<script type="text/javascript" language="javascript" src="{{ '/datatables/datatables.min.js' | prepend: site.digital-assets }}"></script>
+<script type="text/javascript" language="javascript" src="{{ '/bootstrap5/datatables/datatables.min.js' | prepend: site.digital-assets }}"></script>
 <script>
 /* use jquery to initialize DataTables and load collection data */
 (function(){
     $('#item-table').DataTable( {
         // use DataTables ajax load 
-        ajax: { url: '{{ "/data/metadata-extant.min.json" | relative_url }}', dataSrc: 'objects' },
+        ajax: { url: '{{ "/assets/data/metadata-extant.min.json" | relative_url }}', dataSrc: 'objects' },
         // defer render to speed up large sets
         "deferRender": true,
         // enable pagination 
