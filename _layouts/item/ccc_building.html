@@ -1,0 +1,173 @@
+---
+layout: default
+gallery: true
+---
+{%- assign fields = site.data.config-metadata-extant | where_exp: 'item', 'item.display_name != nil' -%}
+<div class="container py-3">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/' | relative_url }}">Home</a></li>
+        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/structures/' | absolute_url }}">List of Structures</a></li>
+        <li class="breadcrumb-item active text-dark" aria-current="page">{{ page.title | truncatewords: 10 }}</li>
+    </ol>
+
+    <h2 class="mb-3">{{ page.title }}</h2>
+
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-10">
+
+            {% unless page.filename %}
+            <p>No photograph available.</p>
+            {% else %}
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card mb-4 text-center"> 
+                        <a class="spotlight gallery-img" data-src="{{ page.object_location }}">
+                            <img src="{{ page.image_thumb }}" alt="item thumbnail for {{ page.title | escape }}" class="img-fluid">
+                            <p><small>Click to view full screen</small></p>
+                        </a>
+                    </div>
+                </div>
+                {% if page.moreimages %}
+                {% assign moreimages = page.moreimages | split: ';' %}
+                {% for image in moreimages %}
+                <div class="col-md-6">
+                    <div class="card mb-4 text-center"> 
+                        <a class="spotlight gallery-img" data-src="https://objects.lib.uidaho.edu/cccidaho/{{ image }}">
+                            <img src="https://objects.lib.uidaho.edu/cccidaho/thumbs/{{ image }}" alt="item thumbnail for {{ page.title | escape }}" class="img-fluid">
+                            <p><small>Click to view full screen</small></p>
+                        </a>
+                    </div>
+                </div>
+                {% endfor %}
+                {% endif %}
+            </div>
+            {% endunless %}
+            <div class="my-2">
+                {% if page.latitude and page.longitude %}
+                <a href="{{ '/map.html?location=' | append: page.latitude  | append: ',' | append: page.longitude | append: '&marker=' | append: page.objectid | relative_url }}" class="btn btn-outline-primary">View on Map</a>{% endif %}
+            </div>
+
+            <div class="col-12 col-md-10" id="metadata">
+
+                <dl>
+                    {% for f in fields %}{% if page[f.field] %}
+                    <dt class="field">{{ f.display_name }}:</dt>
+                    <dd class="field-value">
+                        {% if f.browse_link == "true" %}
+                        {% assign topics = page[f.field] | split: ";" %}
+                        {% for t in topics %}
+                        <a class="me-3" href="{{ t | strip | url_param_escape | prepend: '/browse.html#' | relative_url }}">{{ t | strip }}</a>
+                        {% endfor %}
+                        {% elsif f.external_link == "true" %}
+                        <a href="{{ page[f.field] }}" target="_blank" rel="noopener">{{ page[f.field] }}</a>
+                        {% else %}
+                        {{ page[f.field] | replace: '""','"' }}{% endif %}
+                    </dd>
+                    {% endif %}{% endfor %}
+                </dl>
+
+            </div>
+
+            <div class="col-md-5 py-4">
+                {% include item/citation-box.html %}
+            </div>
+
+        </div>
+
+        <div class="text-center">
+            <a class="btn btn-secondary" href="{{ page.previous_item | relative_url }}" id="prev-page-button">&laquo; Previous</a>
+            <a class="btn btn-secondary" href="{{ '/browse.html' | relative_url }}">Back to Browse</a>
+            <a class="btn btn-secondary" href="{{ page.next_item | relative_url }}" id="next-page-button">Next &raquo;</a>
+        </div>
+        <div id="item-nav">
+            <div class="d-none d-md-block">
+                <a class="previous btn btn-lg btn-secondary" href="{{ page.previous_item | relative_url }}">&laquo;</a>
+                <a class="next btn btn-lg btn-secondary" href="{{ page.next_item | relative_url }}">&raquo;</a>
+            </div>
+        </div>
+        <script>
+            function leftArrowPressed() {
+                location.href = document.getElementById("prev-page-button").href;
+            };
+            
+            function rightArrowPressed() {
+                location.href = document.getElementById("next-page-button").href;
+            };
+            
+            function leftModalArrowPressed() {
+                // Get the modal element.
+                var modalshow = document.querySelector(".modal.show");
+                // If the modal exists, get the prev button element.
+                if (modalshow) {
+                const prevButton = modalshow.querySelector(".prev-child-button");
+                // If the prev button exists, click it.
+                if (prevButton) {
+                    prevButton.click();
+                }
+                }
+            };
+            
+            function rightModalArrowPressed() {
+                // Get the modal element.
+                var modalshow = document.querySelector(".modal.show");
+                // If the modal exists, get the prev button element.
+                if (modalshow) {
+                const nextButton = modalshow.querySelector(".next-child-button");
+                // If the prev button exists, click it.
+                if (nextButton) {
+                    nextButton.click();
+                }
+                }
+            };
+            
+            function isModalShown() {
+                // Get the modal element.
+                const modal = document.querySelector(".modal.show");
+            
+                // Check if the modal has the "show" class.
+                return modal && modal.classList.contains("show");
+            };
+            
+            function isSpotlightModalShown() {
+                // Get the modal element.
+                const spotlight = document.getElementById("spotlight");
+                // Check if the modal has the "show" class.
+                return spotlight && spotlight.classList.contains("show");
+            };
+            
+            
+            document.onkeydown = function (evt) {
+                if (isSpotlightModalShown()) {
+            
+            
+                } else if (isModalShown()) {
+                // The modal is shown.
+                evt = evt || window.event;
+                switch (evt.keyCode) {
+                    case 37:
+                    leftModalArrowPressed();
+                        break;
+                    case 39:
+                    rightModalArrowPressed();
+                        break;
+                }
+                }
+                else {
+                // The modal is not shown.
+                evt = evt || window.event;
+                switch (evt.keyCode) {
+                    case 37:
+                    leftArrowPressed();
+                        break;
+                    case 39:
+                    rightArrowPressed();
+                        break;
+                }
+                }
+            
+            };
+        </script>
+
+    </div>
+    
+</div>

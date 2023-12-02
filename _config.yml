@@ -48,7 +48,7 @@ page_gen:
     extension: 'html' 
     filter: 'objectid'  
   - data: 'cccextant'
-    template: 'item-extant'
+    template: 'ccc_building'
     name: 'objectid'
     dir: 'structures'
     extension: 'html' 
