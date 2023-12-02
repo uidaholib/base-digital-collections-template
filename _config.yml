@@ -53,7 +53,7 @@ metadata: demo-compoundobjects-metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "University of Idaho Library Digital Initiatives"
+organization-name: "University of Idaho Library Digital Collections"
 organization-link: https://www.lib.uidaho.edu/digital/
 organization-logo-banner: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
 organization-logo-nav: https://www.lib.uidaho.edu/media/digital/liblogo_white.png
