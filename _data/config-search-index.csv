@@ -1,7 +1,7 @@
 dcterm,field
 title,title
 date,date
-creator,creator
+creator,photographer
 description,description
 subject,subject
 coverage,location
@@ -11,6 +11,6 @@ type,type
 format,format
 language,language
 rights,rightsstatement
-relation,findingaid
+relation,finding_aid
 publisher,publisher
 genre,display_template
