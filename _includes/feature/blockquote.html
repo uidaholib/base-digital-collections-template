@@ -1,0 +1,18 @@
+{% comment %}
+
+    Block quote
+
+    E.G. --> {% include feature/blockquote.html quote="Knowledge comes, but wisdom lingers" speaker="Alfred Lord Tennyson" source="Locksley Hall" %}
+
+    Options:
+    - "quote" = quote text, can use Markdown
+    - "speaker" = name of the person who said the quote
+    - "source" = title of the quote's source
+    - "source-link" = link to source
+
+{%- endcomment -%}
+
+<blockquote class="blockquote pt-3 pb-5">
+    <p class="mb-0">{{ include.quote | markdownify }}</p>
+    <footer class="blockquote-footer text-right">{% if include.speaker %}{{ include.speaker }}, {% endif %}{% if include.source %}<cite title="source Title">{% if include.source-link %}<a href="{{ include.source-link }}" target="_blank" rel="noopener">{% endif %}{{ include.source }}{% if include.source-link %}</a>{% endif %}</cite>{% endif %}</footer>
+</blockquote>
