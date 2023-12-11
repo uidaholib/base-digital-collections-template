@@ -8,8 +8,9 @@ subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
+digital_collection,Digital Collection,
 source,Source,,,,
-findingaid,Finding Aid,,true
+finding aid,Finding Aid,,true
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
