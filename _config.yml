@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /digital/demo
+baseurl: /digital/cnr
 # location of code, the full url to your github repository
 source-code: https://github.com/uidaholib/base-digital-collections-template
 
@@ -21,23 +21,23 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: College of Natural Resources Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: A collection of multimedia materials from the University of Idaho's College of Natural Resources (CNR)
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "The <a href='https://www.uidaho.edu/cnr' target='_blank'>College of Natural Resources (CNR)</a> has a long-standing history, beginning in 1909 and continuing to this present day. During the expanse of 100+ years, CNR has reshaped its mission and services, thanks to the leadership and vision of its Deans. This digital collection includes a majority of materials pertaining to the album <em>University of Idaho: College of Forestry, Wildlife and Range Sciences 1909-1984</em>. There are a wide breadth of featured material types: documents, correspondence, brochures, pictures, journals, and video and audio files."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: idaho;natural resources;forestry;university
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: University of Idaho Library
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: cnr
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
