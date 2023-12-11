@@ -1,0 +1,9 @@
+{% comment %}
+    Sidenote, numbered note on the side margin
+    Options:
+    - "text" = text for the side note -- this can be written in HTML to add links, etc. 
+    - "id" = a unique id (short phrase is best) to connect the location and note
+    - "text-link" = [optional] link for the entire note; you can also add links to certain words via writing the text in HTML
+    - "color" = [optional] a Bootstrap color (primary, secondary, success, danger, warning, info, light, dark)
+{%- endcomment -%}
+<label for="{{include.id}}" class="margin-toggle sidenote-number"></label><input type="checkbox" id="{{include.id}}" class="margin-toggle"><span class="sidenote {% if include.color %}text-{{ include.color }}{% endif %}">{% if include.text-link %}<a href="{{include.text-link }}" target="_blank" rel="noopener">{{include.text}}</a>{% else %}{{include.text}}{% endif %}</span>

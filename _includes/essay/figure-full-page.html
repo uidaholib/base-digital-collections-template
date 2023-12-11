@@ -1,0 +1,37 @@
+{% comment %}
+
+    Tufte css full width image 
+
+    E.G. --> {% include essay/figure-full-page.html objectid="demo_001" %}
+
+    Options: 
+    - "objectid" = several options below (required)
+        1. one objectid from this collection e.g. "demo_001" 
+        2. a full URL to an external image file, e.g. "https://www.lib.uidaho.edu/digital/images/fluffyclouds.jpg"
+        3. a relative link to an image file stored in this repository (that is not included in the collection), i.e. "/assets/img/evan.jpg"  
+        IMPORTANT NOTE: Options 2 and 3 require you to add an "alt" option (or "alt" options for multiple images) in order to allow for the accessibility enabled by the "alt" tag
+    - "alt" = alternative text describing the image. This is a required accessibility feature IF you are using an external URL or a relative link (options 2 and 3 above)--it will be automatically filled if providing an objectid. If you do not fill this in but fill in the "caption" option, the "caption" will be included as the images alt value. (optional)
+    - "caption" = for option 1 above, the figure include automatically adds the title of the item from your metadata. The caption option allows you to manually add a different caption for that option, or give the value false ('caption=false' - no quotes around false) for none. For options 2 and 3, captions will only be added if the caption variable is set. (optional)
+    - "link" = for option 1 above, the figure include automatically links to the item from your metadata. The link option allows you to manually add a different link for that image. For options 2 and 3, link will only be added if the link variable is set; otherwise, the link will be set to the external or relative image file. (optional)
+    - "style" = add any css style directly to a style tag on the img element (optional)
+
+{% endcomment %}
+{% assign i = include.objectid %}
+{% if i contains "/" %}
+    {%- capture image_src -%}{{ include.objectid | relative_url }}{%- endcapture -%}
+    {%- capture image_caption -%}{{ include.caption }}{%- endcapture -%}
+    {%- capture image_alt -%}{{ include.alt }}{%- endcapture -%}
+    {%- capture image_link -%}{{ include.link | default: image_src }}{%- endcapture -%}
+{% else %}
+    {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
+    {%- capture image_link -%}{{ '/items/' | append: figure.objectid | append: '.html' | relative_url }}{% endcapture %}
+    {%- capture image_caption -%}{{ include.caption | default: figure.title }}{%- endcapture -%}
+    {%- capture image_alt -%}{{ include.alt | default: figure.title }}{%- endcapture -%}
+    {%- capture image_src -%}{{ figure.object_location | default: figure.image_small | relative_url }}{% endcapture %}
+{% endif %}
+<figure class="fullwidth my-5">   
+    <a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}" target="_blank" rel="noopener">
+        <img class="figure-img img-fluid rounded" alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %}>
+    </a>
+    {% unless include.caption == false %}<figcaption class="h4 figure-caption float-none mb-5">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</figcaption>{%- endunless -%}
+</figure>

@@ -1,0 +1,47 @@
+{% comment %}
+
+    Tufte css margin note that appears in the margin near the location of the note. A feature image can be optionally added.
+
+    E.G. --> {% include essay/marginnote.html id="example1" text="example note text" link="https://example.com" %}
+
+    Options: 
+    - "id" = (required) a unique id (short phrase is best) to connect the location and note
+    - "text" = text for the note -- this can be written in HTML to add links, etc. If you are using an image, this is optional. 
+    - "link" = (optional) link for the entire note; you can also add links to certain words via writing the text in HTML
+    - "objectid" = (optional) use this option to add an image to the note. Can be one of the several options below:
+        1. one objectid from this collection e.g. "demo_001" 
+        2. a full URL to an external image file, e.g. "https://www.lib.uidaho.edu/digital/images/fluffyclouds.jpg"
+        3. a relative link to an image file stored in this repository (that is not included in the collection), i.e. "/assets/img/evan.jpg"  
+        IMPORTANT NOTE: Options 2 and 3 require you to add an "alt" option (or "alt" options for multiple images) in order to allow for the accessibility enabled by the "alt" tag
+    - "alt" = alternative text describing the image. This is a required accessibility feature IF you are using an external URL or a relative link (options 2 and 3 above)--it will be automatically filled if providing an objectid. If you do not fill this in but fill in the "caption" option, the "caption" will be included as the images alt value. (optional)
+
+        width: 70%
+
+        {% include essay/marginnote-image.html id="im-02" text="History of 1910 Forest Fires in Idaho and Western Montana." image="im-02"%}
+
+{% endcomment %}
+{% if include.objectid %}
+    {% assign i = include.objectid %}
+    {% if i contains "/" %}
+        {%- capture image_src -%}{{ include.objectid | relative_url }}{%- endcapture -%}
+        {%- capture text -%}{{ include.text }}{%- endcapture -%}
+        {%- capture image_alt -%}{{ include.alt }}{%- endcapture -%}
+        {%- capture image_link -%}{{ include.link | default: image_src }}{%- endcapture -%}
+    {% else %}
+        {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
+        {%- capture image_link -%}{{ '/items/' | append: figure.objectid | append: '.html' | relative_url }}{% endcapture %}
+        {%- capture text -%}{{ include.text | default: figure.title }}{%- endcapture -%}
+        {%- capture image_alt -%}{{ include.alt | default: figure.title }}{%- endcapture -%}
+        {%- capture image_src -%}{{ figure.image_small | default: figure.image_thumb | relative_url }}{% endcapture %}
+    {% endif %}
+{% endif %}
+<label for="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">
+<span class="marginnote">
+    {% if include.objectid %}<a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}" target="_blank" rel="noopener">
+        <img alt="{{ image_alt | default: text | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %} >
+    </a>
+    <br>
+    <span class="pt-4 figure-caption text-center">{% if include.link %}<a href="{{ include.link }}" target="_blank" rel="noopener">{{ include.text }}</a>{% else %}{{ include.text }}{% endif %}</span>
+    {% else %}{% if include.link %}<a href="{{ include.link }}" target="_blank" rel="noopener">{{ include.text }}</a>{% else %}{{ include.text }}{% endif %}{%- endif -%}
+</span>
