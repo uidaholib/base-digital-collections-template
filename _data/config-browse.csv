@@ -3,4 +3,5 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+box number,box number,true,,,
 identifier,,,true,Identifier
