@@ -18,11 +18,13 @@
     
 {%- endcomment -%}
 
+<h4>Videos from the Collection</h4>
+
 {%- assign carousel-max = include.max | default: 9 -%}
 {%- assign btn-color = include.btn-color | default: "primary" -%}
-{%- assign btn-text = include.btn-text | default: "View Item" -%}
+{%- assign btn-text = include.btn-text | default: "View Video" -%}
 {% if site.data.theme.carousel-child-objects == true %}
-{%- assign carousel-items = site.data[site.metadata] | where_exp: 'item','item.objectid' | where_exp: "item","item.image_small != nil or item.image_thumb != nil"-%}
+{%- assign carousel-items = site.data[site.metadata] | where_exp: 'item','item.objectid' | where_exp: "item",'item.image_small contains "youtube"'' -%}
 {% else %}
 {%- assign carousel-items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.parentid == nil' | where_exp: "item","item.image_small != nil or item.image_thumb != nil" -%}
 {% endif %}
