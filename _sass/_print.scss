@@ -1,0 +1,62 @@
+.tufte-print {
+
+    padding-left: 0;
+    @media (max-width: 760px)  {
+        padding-left:0;
+        
+    }
+    max-width: 100%;
+
+    article {
+        padding: 5rem 0rem;
+    }
+
+    blockquote p {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    blockquote footer p{
+        width: 100%;
+        font-size: 1.1rem;
+        text-align: right;
+    }
+
+    section > p,
+    section > footer,
+    section > table {
+        width: 100%;
+    }
+
+    /* 50 + 5 == 55, to be the same width as paragraph */
+    section > dl,
+    section > ol,
+    section > ul {
+        width: 100%;
+    }
+
+    figure {
+        max-width: 100%;
+        //margin: 0 0 3em 0;
+    }
+
+    figure.fullwidth figcaption {
+        margin-right: 0%;
+    }
+
+    .sidenote,
+    .marginnote {
+        float: none;
+        margin-right: 0;
+        width: 100%;
+        margin-top: 0.3rem;
+        margin-bottom: 0;
+        font-size: 1.1rem;
+        line-height: 1.3;
+        vertical-align: baseline;
+        
+    }
+
+
+
+}
