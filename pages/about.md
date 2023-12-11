@@ -8,26 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="gemphotos0349" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection consists of black and white negatives from PG 101, the Gem of the Mountains Yearbook Photograph Collection (1948-1967). *The Gem of the Mountains* was the official yearbook of the University of Idaho from 1903 to 2004. Featured photos in this digital collection depict U of I campus life and events including past Homecoming parades, graduations, field trips, football games, performances and glimpses inside various classrooms and campus buildings. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Over 100 volumes of *The Gem of the Mountains* have been digitized for online viewing. To view these yearbooks and for more information about the publication, please see [the University of Idaho Library's Gem of the Mountains Digital Yearbook Collection](https://www.lib.uidaho.edu/digital/gem/index.html).
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+**This digital collection is in the process of being digitized. Only a limited set of the boxes are contained in this collection.**
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+{% include feature/image.html objectid="gemphotos0642" width="75" %} 
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 

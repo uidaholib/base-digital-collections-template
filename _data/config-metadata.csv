@@ -12,5 +12,6 @@ source,Source,,,,
 findingaid,Finding Aid,,true
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
+format original,Format Original,,,,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
