@@ -1,0 +1,34 @@
+---
+title: Fiddle Contest Champions
+layout: page
+permalink: /champions.html
+custom-foot: js/custom-table-js.html
+---
+{% assign champs = site.data.fiddler_champions %}
+<h2>Fiddle Contest Champions</h2>
+
+<p>The table below presents past winners in various categories at the National Oldtime Fiddle Contest.</p>
+
+<div class="table-responsive-md">
+   <table id="item-table" class="table table-striped">
+      <thead>
+         <tr>
+            <th scope="col">Year</th>
+            <th scope="col">Division</th>
+            <th scope="col">Winner</th>
+            <th scope="col">Home State</th>
+         </tr>
+      </thead>
+      <tbody>
+      {% for c in champs %}
+      <tr>
+         <th scope="row">{{ c.year }}</th>
+         <td>{{ c.contest }}</td>
+         <td>{{ c.fiddler_name }}</td>
+         <td>{{ c.home_state }}</td>
+      </tr>
+      {% endfor %}
+      </tbody>
+   </table>
+</div>
+

@@ -2,6 +2,5 @@ field,index,display
 title,true,true
 date,true,true
 creator,true,false
+fiddler_name,true,false
 description,true,true
-subject,true,true
-location,true,false

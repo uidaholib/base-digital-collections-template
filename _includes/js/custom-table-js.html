@@ -1,0 +1,13 @@
+<link rel="stylesheet" type="text/css" href="{{ '/datatables/datatables.min.css' | prepend: site.digital-assets }}">
+<script type="text/javascript" language="javascript" src="{{ '/datatables/datatables.min.js' | prepend: site.digital-assets }}"></script>
+<script>
+    (function(){
+        $('#item-table').DataTable({
+            "lengthMenu": [[ 10, 25, 50, -1], [ 10, 25, 50, "All"]], 
+            "paging": true,
+            dom: 'B<"row mt-2"<"col-md-6"l><"col-md-6"f>>t<"row"<"col-md-6"i><"col-md-6"p>>', 
+            buttons: [ 'excelHtml5', 'csvHtml5' ],
+
+        });
+    })();
+</script>
