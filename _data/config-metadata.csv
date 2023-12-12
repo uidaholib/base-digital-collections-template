@@ -4,7 +4,7 @@ creator,Creator,,,DCTERMS.creator,creator
 archival date,Date Created (Archival Standard)
 date,,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
-fiddler_name,Fiddler,yes,,,
+fiddler_name,Fiddlers,yes,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 source,Source,,,,
