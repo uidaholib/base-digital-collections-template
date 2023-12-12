@@ -15,6 +15,7 @@ var items = [
         {% if i.sensitive %} "sensitive": {{ i.sensitive | jsonify }},{%- endif -%}
         {% if item.format %}"format": {{ item.format | jsonify }}, {%- endif -%}
         {% if item.image_alt_text %}"alt": {{ item.image_alt_text | escape | jsonify }}, {%- endif -%}
+        {% if item.sensitive %}"sensitive": {{ item.sensitive | jsonify }}, {% endif %}
         "title":{{ item.title | strip | escape | jsonify }},
         {% if item.parentid %}"parent": {{ item.parentid | jsonify }}, {%- endif -%}
         "id":{{ item.objectid | jsonify }} }{% unless forloop.last %},{% endunless %}{%- endfor -%}
@@ -56,6 +57,7 @@ function makeCard(obj) {
     }
     // title
     card += '<div class="card-body text-center">'+ warning +' <h4 class="card-title"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h4>';
+
     // icon thumb for item without image
     if(thumbIcon){
         card += '<p><a href="' + itemHref + '">' + thumbIcon + '</a></p>';
