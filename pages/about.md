@@ -8,26 +8,22 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="raney11" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About Franklin Raney;About The Collection" %}
 
-## About CollectionBuilder CSV
+# About Franklin Raney
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Franklin Chalmers Raney was born 23 October 1921 in Spokane, Washington. Graduating from Lewis and Clark High School in 1939, he went on to attend the University of Idaho between 1941 and 1943. While at the university Raney lived in the Idaho Club, a living cooperative built in 1935. He was also a member of the Christian Science Social Club known as the Sentinel Club.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+He left the university when World War II began and the army sent him to University of Chicago to finish his degree in Meteorology. Later, he earned a Master of Science degree from Washington State College (now Washington State University) and finally a PhD from University of California Berkeley.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+In 1966, Raney became an associate professor of Geography at Western Washington University, retiring 20 years later in 1986. He died 19 April 2009 in Bellingham, Washington.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+{% include feature/image.html objectid="raney30" %}
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+# About The Collection
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+This is a collection of images taken by Franklin Raney when he was a student at the University of Idaho. The full collection consists of 42 photographs and four negatives featuring images of the University of Idaho campus and professors, as well as scenes from East Moscow Mountain and the Coeur d'Alene National Forest. Materials date between 1927 and 1942. There is also one newspaper clipping on the preservation of the Moscow High School building. Mr. Raney donated the collection to the University of Idaho Library Special Collections in 1992. 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="raney02" %}
