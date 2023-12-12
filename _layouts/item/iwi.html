@@ -1,0 +1,80 @@
+---
+layout: default
+item-meta: true
+---
+<div class="container py-3">
+
+    <ul class="breadcrumb">
+        <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li class="breadcrumb-item"><a href="{{ '/browse.html' | relative_url }}">Browse</a></li>
+        <li class="breadcrumb-item active">{{ page.title | truncatewords: 10 }}</li>
+    </ul>
+
+    <h1>{{ page.title }}</h1>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card mb-4">
+                {% if page.image_small %}
+                <img src="{{ page.image_small }}" alt="Image of {{ page.title }}" class="card-img-top">
+                {% endif %}
+                <div class="card-body">
+                    <p class="card-text">
+                        <strong>Born:</strong> {% if page.birth contains '-' %}{{ page.birth | date: '%B %e, %Y' }}{% else %}{{ page.birth }}{% endif %}, {{ page.birth_place }}.<br>
+                        {% if page.death %}<strong>Died:</strong> {% if page.death contains '-' %}{{ page.death | date: '%B %e, %Y' }}{% else %}{{ page.death }}{% endif %}, {{ page.death_place }}.<br>{% endif %}
+                        {% assign topics = page.keywords | split: ";" %}
+                        {% for t in topics %}
+                        <a class="btn btn-secondary m-1 filter" href="{{ t | strip | url_param_escape | prepend: '/browse.html#' | relative_url }}">{{ t | strip }}</a> 
+                        {% endfor %}
+                    </p>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="col-md-8">
+
+            <p class="mb-2">
+                {{ page.description }}
+            </p>
+            
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="card mb-2">
+                <div class="card-header">Resources</div>
+                <div class="card-body">
+                    {% assign resources = page.resources | split: "|" %}
+                    <ul>
+                    {% for r in resources %}
+                        <li>{{ r }}</li>
+                    {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card mb-2">
+                <div class="card-header">Source</div>
+                <div class="card-body">
+                    <dl>
+                        <dt>Preferred Citation:</dt> 
+                        <dd>{{ page.title }}, {{ site.title }}, Digital Initiatives, University of Idaho Library, {{ page.url | absolute_url }}</dd>
+                        <dt>Record Contributor:</dt>
+                        <dd>{{ page.contributor }}</dd>
+                        <dt>Old IWI Link:</dt>
+                        <dd>{{ page.oldlink }}</dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    
+    </div>
+
+    {%- if site.data.theme.browse-buttons == true -%}
+        {% include item/browse-buttons.html %}
+    {%- endif -%}
+</div>

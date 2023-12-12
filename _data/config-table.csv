@@ -1,5 +1,7 @@
 field,display_name
-title,Title
-date,Date
-description,Description
-subject,Subjects
+title,Name
+birth,Born
+birth_place,Birth place
+death,Died
+death_place,Death place
+keywords,Categories

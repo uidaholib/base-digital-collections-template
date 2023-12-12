@@ -1,7 +1,7 @@
 field,index,display
 title,true,true
-date,true,true
-creator,true,false
-description,true,true
-subject,true,true
-location,true,false
+birth,true,true
+birth_place,true,false
+death_place,true,false
+short_description,true,false
+keywords,true,true
