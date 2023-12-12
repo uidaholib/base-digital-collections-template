@@ -40,6 +40,13 @@ author: evanwill
 metadata: iwi
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
+page_gen:
+  - data: 'iwi'
+    template: 'iwi'
+    name: 'objectid'
+    dir: 'women'
+    extension: 'html' 
+    filter: 'objectid'
 # page_gen:
 #   - data: 'demo-metadata'
 #     template: 'item'
