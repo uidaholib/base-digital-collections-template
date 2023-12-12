@@ -43,10 +43,7 @@ metadata: iwi
 page_gen:
   - data: 'iwi'
     template: 'iwi'
-    name: 'objectid'
-    dir: 'women'
-    extension: 'html' 
-    filter: 'objectid'
+
 # page_gen:
 #   - data: 'demo-metadata'
 #     template: 'item'
