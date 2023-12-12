@@ -2,3 +2,4 @@ field,display_name,btn,hidden,sort_name
 archival date,Date,,,Date
 fiddler_name,Fiddlers,
 identifier,,,true,Identifier
+subject,,,
