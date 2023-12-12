@@ -3,4 +3,6 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+location created,,,
+location built,,,
 identifier,,,true,Identifier
