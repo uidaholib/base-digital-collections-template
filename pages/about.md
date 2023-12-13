@@ -8,26 +8,14 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %} 
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The McCall Public Library Collection is a digital collection of local family history and subjects of interest. The documents were collected by the McCall Public Library and the Payette Lakes Progressive Club for over a half-century. This extensive collection of unique transcribed oral histories, obituaries, articles and photos filled up several filing cabinets in the Library. It began to be digitized in 2015, thanks to the Perc & Gladys Popsisil Shelton Foundation, the Idaho State Historical Society, and the McCall Local Option Tax funds, and was deposited in the University of Idaho digital collections starting in October 2016. Further work was supported by a grant from the Idaho Humanities Council in 2017. Thanks to the University of Idaho, all our funding sources and the many hours of volunteer work to get this project accessible to the community.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+<div class="clearfix"></div>
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
