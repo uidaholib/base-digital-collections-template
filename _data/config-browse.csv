@@ -1,5 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
+subject,,true
 creator,Creator,,,
 subject_kewyords,,true
 identifier,,,true,Identifier

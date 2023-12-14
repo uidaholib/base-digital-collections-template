@@ -4,5 +4,4 @@ date,true,true
 creator,true,false
 description,true,true
 subject,true,true
-subject_keywords,true,false
 location,true,false

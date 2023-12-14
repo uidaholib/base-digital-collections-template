@@ -4,7 +4,7 @@ creator,Creator,,,DCTERMS.creator,creator
 archival date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
-subject_keywords,Subjects,true,,DCTERMS.subject,keywords
+subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
