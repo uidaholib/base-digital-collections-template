@@ -7,17 +7,16 @@ layout: page
 
   <div class="col-md-8">
 
-    {% include index/description.html %}
+    {% include feature/video.html objectid="https://www.youtube.com/watch?v=cfl5UgwGRoc" %}
+    
     {% include index/carousel.html title="Sample Items" %}
     
   </div>
   <div class="col-md-4">  
 
+    {% include index/description.html %}
+
     {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="payette-blue" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-payette-blue" %}
     
     {% include index/objects.html %}
 
