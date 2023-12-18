@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/turning/turning264.jpg" %} 
+{% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/turningwheel/turning264.jpg" %} 
 
 {% include feature/nav-menu.html sections="About Turning of the Wheel;A Digital Collection of Events;Credits" %}
 
