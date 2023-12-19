@@ -5,6 +5,8 @@ layout: page
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 <div class="row">
 
+  <div class="col-12">{% include feature/alert.html text="Please visit the original <a href='https://www.lib.uidaho.edu/digital/turning/' class='alert-link'>Turning of the Wheel website</a> for the full context of this collection." color="success" align="center" %}</div>
+
   <div class="col-md-8">
 
     {% include feature/video.html objectid="https://www.youtube.com/watch?v=cfl5UgwGRoc" %}
