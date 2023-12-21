@@ -19,12 +19,12 @@ year,contest,fiddler_name,home_state
 1963,Grand National Champion,Lloyd Wanzer,Idaho
 1964,Junior (under 18),Vivian Alftin,Idaho
 1964,Ladies,Virginia Manes,Idaho
-1964,Senior,Lu Berline,
+1964,Senior,Lu Berline,Kansas
 1964,Grand National Champion,Cleo Persinger,Missippi
 1965,Junior (under 18),Vann Smith,Idaho
 1965,Ladies,Vivian Williams,Washington
 1965,Senior,Cliff Buker,Oregon
-1965,Grand National Champion,Byron Berline,
+1965,Grand National Champion,Byron Berline,Kansas
 1966,Junior (under 18),Vann Smith,Idaho
 1966,Ladies,Vivian Williams,Washington
 1966,Senior,Clark Kissinger,West Virginia
@@ -44,7 +44,7 @@ year,contest,fiddler_name,home_state
 1970,Junior (under 18),John Francis,Washington
 1970,Ladies,Vivian Skeans,Idaho
 1970,Senior,Alvin Sanderson,Washington
-1970,Grand National Champion,Byron Berline,
+1970,Grand National Champion,Byron Berline,Kansas
 1971,Junior (under 18),John Francis,Washington
 1971,Ladies,Vivian Skeans,Idaho
 1971,Senior,Alvin Sanderson,Washington
@@ -72,7 +72,7 @@ year,contest,fiddler_name,home_state
 1976,Senior,Jim Pinkston,California
 1976,Grand National Champion,Dick Barrett,Montana
 1977,Junior-Junior (under 13),Amy Kinney,
-1977,Ladies,Sheyla Wright,Washington
+1977,Ladies,Sheila Wright,Washington
 1977,Senior,Frazier Moss,Tennessee
 1977,Grand National Champion,Herman Johnson,Oklahoma
 1978,Junior-Junior (under 13),Randy Sloan,California
@@ -87,7 +87,7 @@ year,contest,fiddler_name,home_state
 1979,Senior,Benny Thomasson,Washington
 1979,Grand National Champion,Mark O'Connor,Tennessee
 1980,Junior-Junior (under 13),Kendra Ruwe,Idaho
-1980,Junior (under 18),Wes Westmorland,Texas
+1980,Junior (under 18),Wes Westmoreland,Texas
 1980,Ladies,Jeannette Beyer,California
 1980,Mens,Terry Field,Utah
 1980,Senior,Benny Thomasson,Washington
@@ -100,9 +100,9 @@ year,contest,fiddler_name,home_state
 1981,Grand National Champion,Mark O'Connor,Tennessee
 1982,Junior-Junior (under 13),Tiffany Wheeler,Oregon
 1982,Junior (under 18),Marilyn Lindley,New Mexico
-1982,Ladies,Jay Dean Warner,
+1982,Ladies,Jay Dean Warner,Washington
 1982,Mens,Doug Thomas,Washington
-1982,Senior,Myllie Barron,
+1982,Senior,Myllie Barron,"British Columbia, Canada"
 1982,Grand National Champion,John Francis,Washington
 1983,Small Fry (under 9),Megan Lynch,California
 1983,Junior-Junior (under 13),Michael Eisele,Washington
@@ -115,13 +115,13 @@ year,contest,fiddler_name,home_state
 1984,Junior-Junior (under 13),Ruston Ruwe,Idaho
 1984,Junior (under 18),Leslie Overland,Washington
 1984,Ladies,Lisa Barrett,Montana
-1984,Mens,Tim Housdon,Idaho
+1984,Mens,Tim Hodgson,Idaho
 1984,Senior,Jim Hoots,Oregon
 1984,Grand National Champion,Mark O'Connor,Tennessee
 1985,Small Fry (under 9),Jason Chieste,California
 1985,Junior-Junior (under 13),Megan Lynch,California
 1985,Ladies,Sherry Hill,Idaho
-1985,Mens,Tim Housdon,Idaho
+1985,Mens,Tim Hodgson,Idaho
 1985,Senior,Bill Yohey,Oregon
 1985,Grand National Champion,Dale Morris Jr.,Texas
 1986,Small Fry (under 9),Clint Gaylord,Oklahoma
@@ -133,14 +133,14 @@ year,contest,fiddler_name,home_state
 1986,Grand National Champion,Randy Rollard,California
 1987,Small Fry (under 9),Clint Gaylord,Oklahoma
 1987,Junior-Junior (under 13),Megan Lynch,California
-1987,Junior (under 18),Danita Kast,Idaho
+1987,Junior (under 18),Danita Rast,Idaho
 1987,Ladies,Leslie Overland,Washington
 1987,Mens,Joe Sites,Idaho
 1987,Senior,Tiny Moore,California
 1987,Grand National Champion,Jimmie Don Bates,Texas
 1988,Small Fry (under 9),Luke Bulla,California
 1988,Junior-Junior (under 13),Roberta Rast,Idaho
-1988,Junior (under 18),Danita Kast,Idaho
+1988,Junior (under 18),Danita Rast,Idaho
 1988,Ladies,Tonya Rast,Idaho
 1988,Mens,Joe Sites,Idaho
 1988,Senior,Dick Barrett,Montana
@@ -161,7 +161,7 @@ year,contest,fiddler_name,home_state
 1990,Grand National Champion,Rudi Booher,Oregon
 1991,Small Fry (under 9),Katrina Pearce,Idaho
 1991,Junior-Junior (under 13),Luke Bulla,Oregon
-1991,Junior (under 18),Roberta Kast,Idaho
+1991,Junior (under 18),Roberta Rast,Idaho
 1991,Young Adult,Amy Stukenholtz-Prescott,Idaho
 1991,Adult,Joe Sites,Idaho
 1991,Senior,Carl Parnell,California
@@ -169,29 +169,29 @@ year,contest,fiddler_name,home_state
 1991,Grand National Champion,Tony Ludiker,Washington
 1992,Small Fry (under 9),Kristal Howard,California
 1992,Junior-Junior (under 13),Luke Bulla,Oregon
-1992,Junior (under 18),Roberta Kast,Idaho
+1992,Junior (under 18),Roberta Rast,Idaho
 1992,Young Adult,Melissa Harley,California
 1992,Adult,Dale Morris,Texas
 1992,Senior,E.J. Hopkins,Texas
-1992,Senior-Senior,Paul Andrews,Alaska
+1992,Senior-Senior,Paul Andrews,Arkansas
 1992,Grand National Champion,Matthew Hartz,Texas
 1993,Small Fry (under 9),Kiira Mancasola,California
 1993,Junior-Junior (under 13),Jenny Anne Bulla,Washington
 1993,Junior (under 18),Luke Bulla,Washington
-1993,Young Adult,Gary Schah,Washington
+1993,Young Adult,Gary Schuh,Washington
 1993,Adult,Joe Sites,Idaho
 1993,Senior,Norman Soloman,Texas
 1993,Senior-Senior,Marvin Johnson,California
 1993,Grand National Champion,Tony Ludiker,Washington
 1994,Small Fry (under 9),Kala Mancasola,California
 1994,Junior-Junior (under 13),Tashina Clarridge,California
-1994,Junior (under 18),Colt Tijoton,California
-1994,Young Adult,Roberta Rast,
+1994,Junior (under 18),Colt Tipton,California
+1994,Young Adult,Roberta Rast,Idaho
 1994,Adult,Pete Martin,Washington
 1994,Senior,Hughie Smith,California
 1994,Senior-Senior,Dick Barrett,Montana
 1994,Grand National Champion,Tony Ludiker,Washington
-1995,Small Fry (under 9),Tristan Clarridge,
+1995,Small Fry (under 9),Tristan Clarridge,California
 1995,Junior-Junior (under 13),Katrina Pearce,Idaho
 1995,Junior (under 18),Luke Bulla,Washington
 1995,Young Adult,Levi Dennis,Oklahoma
@@ -200,23 +200,23 @@ year,contest,fiddler_name,home_state
 1995,Senior-Senior,Dick Barrett,Montana
 1995,Grand National Champion,Colt Tipton,California
 1996,Small Fry (under 9),Jed Bulla,Washington
-1996,Junior-Junior (under 13),Billy Jarrett Contraras,Tennessee
+1996,Junior-Junior (under 13),Billy Contreras,Tennessee
 1996,Junior (under 18),Jessica Ford,California
-1996,Young Adult,Roberta Rast,
+1996,Young Adult,Roberta Rast,Idaho
 1996,Senior,Hughie Smith,California
 1996,Senior-Senior,Dick Barrett,Montana
-1996,Grand National Champion,Luke Bulla,
+1996,Grand National Champion,Luke Bulla,Washington
 1997,Small Fry (under 9),Natalie Padilla,Montana
 1997,Junior-Junior (under 13),Regina Leigh Mathews,Texas
 1997,Junior (under 18),Bethany Dick,Montana
-1997,Young Adult,Roberta Rast,
+1997,Young Adult,Roberta Rast,Idaho
 1997,Adult,Gary Lee Moore,Washington
 1997,Senior,E.J. Hopkins,Texas
 1997,Senior-Senior,Clara Murphy,Washington
 1997,Grand National Champion,Jimmie Don Bates,Texas
 1998,Small Fry (under 9),Alex Duncan,Idaho
 1998,Junior-Junior (under 13),Luke Price,Idaho
-1998,Junior (under 18),Katie Glassmon,Colorado
+1998,Junior (under 18),Katie Glassman,Colorado
 1998,Young Adult,Gayla Tanaka,Idaho
 1998,Adult,Carl Hopkins,Texas
 1998,Senior,J.C. Broughton,Oklahoma
@@ -229,7 +229,7 @@ year,contest,fiddler_name,home_state
 1999,Adult,Nancy Padilla,Montana
 1999,Senior,Vivian Williams,Washington
 1999,Senior-Senior,Dick Barrett,Montana
-1999,Grand National Champion,Shane Cook,
+1999,Grand National Champion,Shane Cook,"Ontario, Canada"
 2000,Small Fry (under 9),Alex Duncan,Idaho
 2000,Junior-Junior (under 13),Brook Wallace,Texas
 2000,Junior (under 18),Kimber Ludiker,Washington
@@ -238,7 +238,7 @@ year,contest,fiddler_name,home_state
 2000,Senior,John Melnichuk,Washington
 2000,Senior-Senior,Archie Mylnek,Colorado
 2000,Grand National Champion,Danita Rast,Idaho
-2001,Small Fry (under 9),Haden Dunca,Idaho
+2001,Small Fry (under 9),Haden Duncan,Idaho
 2001,Junior-Junior (under 13),Alex Duncan,Idaho
 2001,Junior (under 18),Luke Price,Idaho
 2001,Young Adult,Malinda Debry,Utah
@@ -246,7 +246,7 @@ year,contest,fiddler_name,home_state
 2001,Senior,Hughie Smith,California
 2001,Senior-Senior,Archie Mylnek,Colorado
 2001,Grand National Champion,Danita Rast,Idaho
-2002,Small Fry (under 9),Haden Dunca,Idaho
+2002,Small Fry (under 9),Haden Duncan,Idaho
 2002,Junior-Junior (under 13),Hulda Quebe,Texas
 2002,Junior (under 18),Grace Quebe,Texas
 2002,Young Adult,Melissa Thistlewaite,California
@@ -254,7 +254,7 @@ year,contest,fiddler_name,home_state
 2002,Senior,John Melnichuk,Washington
 2002,Senior-Senior,Dick Barrett,Montana
 2002,Grand National Champion,Tristan Clarridge,California
-2003,Small Fry (under 9),Haden Dunca,Idaho
+2003,Small Fry (under 9),Haden Duncan,Idaho
 2003,Junior-Junior (under 13),Alex Duncan,Idaho
 2003,Junior (under 18),Seth Mattison,Idaho
 2003,Young Adult,Megan Lynch,California
@@ -283,7 +283,7 @@ year,contest,fiddler_name,home_state
 2006,Senior,John Melnichuk,Washington
 2006,Senior-Senior,Hughie Smith,California
 2006,Grand National Champion,Tristan Clarridge,California
-2007,Small Fry (under 9),Kiarra Saito- Beckman,
+2007,Small Fry (under 9),Kiarra Saito- Beckman,Oregon
 2007,Junior-Junior (under 13),Sedra Bistodeau,Minnesota
 2007,Junior (under 18),James Schlender,Montana
 2007,Young Adult,Liddy Voetberg,Washington
@@ -303,51 +303,51 @@ year,contest,fiddler_name,home_state
 2009,Young Adult,Bill Jones,Tennessee
 2009,Adult,Laura Cash,Tennessee
 2009,Senior,Sam Sloan,California
-2009,Grand National Champion,Kimber Ludiker,
-2010,Small Fry (under 9),Regina Scott,
-2010,Junior-Junior (under 13),Celeste Johnson,
-2010,Junior (under 18),Mia Orosco,
-2010,Young Adult,Andrew Donald,
-2010,Adult,Andy Emert,
-2010,Senior,Bobbi Nagel,
+2009,Grand National Champion,Kimber Ludiker,Washington
+2010,Small Fry (under 9),Regina Scott,Oklahoma
+2010,Junior-Junior (under 13),Celeste Johnson,Colorado
+2010,Junior (under 18),Mia Orosco,Texas
+2010,Young Adult,Andrew Donald,Arizona
+2010,Adult,Andy Emert,Oregon
+2010,Senior,Bobbi Nagel,Washington
 2010,Senior-Senior,Hughie Smith,California
-2010,Grand National Champion,Kimber Ludiker,
-2011,Small Fry (under 9),Toren Sarsen,
-2011,Junior-Junior (under 13),Celeste Johnson,
-2011,Junior (under 18),Eischen Harkins,
-2011,Young Adult,"Aarun Carter,",
-2011,Adult,Andy Emert,
-2011,Senior,Gary Lee Moore,
+2010,Grand National Champion,Kimber Ludiker,Washington
+2011,Small Fry (under 9),Toren Sarsen,Colorado
+2011,Junior-Junior (under 13),Celeste Johnson,Colorado
+2011,Junior (under 18),Eischen Harkins,Colorado
+2011,Young Adult,Aarun Carter,Colorado
+2011,Adult,Andy Emert,Oregon
+2011,Senior,Gary Lee Moore,Washington
 2011,Senior-Senior,Hughie Smith,California
 2011,Grand National Champion,Katrina Nicolayeff,Idaho
 2012,Small Fry (under 9),Grace Partridge,Idaho
-2012,Junior-Junior (under 13),Vance Voetberg,
-2012,Junior (under 18),Kiarra Saito-Beckman,
-2012,Young Adult,Eischen Hawkins,
-2012,Adult,Tobi Magruder,
-2012,Senior,Gary Lee Moore,
+2012,Junior-Junior (under 13),Vance Voetberg,Washington
+2012,Junior (under 18),Kiarra Saito-Beckman,Oregon
+2012,Young Adult,Eischen Hawkins,Colorado
+2012,Adult,Tobi Magruder,Montana
+2012,Senior,Gary Lee Moore,Washington
 2012,Senior-Senior,Hughie Smith,California
 2012,Grand National Champion,Mia Orosco,Texas
 2013,Small Fry (under 9),Grace Partridge,Idaho
-2013,Junior-Junior (under 13),River Lee,
+2013,Junior-Junior (under 13),River Lee,Arkansas
 2013,Junior (under 18),Laura Waters,Idaho
-2013,Young Adult,Andrew Donald,
+2013,Young Adult,Andrew Donald,Arizona
 2013,Adult,Tony Ludiker,California
-2013,Senior,Gary Lee Moore,
+2013,Senior,Gary Lee Moore,Washington
 2013,Senior-Senior,Larry Struble,Colorado
 2013,Grand National Champion,Katrina Nicolayeff,Idaho
 2014,Small Fry (under 9),Christopher Neary,Oregon
 2014,Junior-Junior (under 13),Regina Scott,Oklahoma
 2014,Junior (under 18),Justin Sherfey,Washington
 2014,Young Adult,Hannah Grace King,Montana
-2014,Adult,Gary Schuh,
-2014,Senior,B. Starr McMullen,
+2014,Adult,Gary Schuh,Oregon
+2014,Senior,B. Starr McMullen,Oregon
 2014,Senior-Senior,Vivian Williams,Washington
 2014,Grand National Champion,Luke Price,Oregon
 2015,Small Fry (under 9),Logan Davis,Idaho
 2015,Junior-Junior (under 13),Ridge Roberts,Texas
 2015,Junior (under 18),Celeste Johnson,Colorado
-2015,Young Adult,Natalie Koob,Colorado
+2015,Young Adult,Natalie Koob Padilla,Colorado
 2015,Adult,Megan Lynch-Chowning,Tennessee
 2015,Senior,John Francis,Washington
 2015,Senior-Senior,Hughie Smith,California
@@ -357,54 +357,54 @@ year,contest,fiddler_name,home_state
 2016,Junior (under 18),Celeste Johnson,Colorado
 2016,Young Adult,Justin Sherfey,Washington
 2016,Adult,Cody Stadeimaier,Colorado
-2016,Senior,Aaron Lowe,
+2016,Senior,Aaron Lowe,Washington
 2016,Senior-Senior,Mabel Vogt,Idaho
 2016,Grand National Champion,Katrina Nicolayeff,Idaho
-2017,Small Fry (under 9),Lillian Arnold-Mages,
+2017,Small Fry (under 9),Lillian Arnold-Mages,Pennsylvania
 2017,Junior-Junior (under 13),Grace Partridge,Idaho
 2017,Junior (under 18),Regina Scott,Oklahoma
-2017,Young Adult,Abigail Stepper,
+2017,Young Adult,Abigail Stepper,Washington
 2017,Adult,Jacies Sites,Idaho
 2017,Senior,John Francis,Washington
 2017,Senior-Senior,Vivian Williams,Washington
 2017,Grand National Champion,Luke Price,Oregon
-2018,Small Fry (under 9),Brie Dietrich,
-2018,Junior-Junior (under 13),Teo Quale,
-2018,Junior (under 18),Ridge Roberts,
-2018,Young Adult,Will MacDonald,
+2018,Small Fry (under 9),Brie Dietrich,Arizona
+2018,Junior-Junior (under 13),Teo Quale,California
+2018,Junior (under 18),Ridge Roberts,Texas
+2018,Young Adult,Will MacDonald,Arizona
 2018,Adult,Cody Stadeimaier,Colorado
 2018,Senior,John Francis,Washington
 2018,Senior-Senior,Vivian Williams,Washington
 2018,Grand National Champion,Katrina Nicolayeff,Idaho
-2019,Small Fry (under 9),Josephine Arnold Mages,
-2019,Junior-Junior (under 13),Teo Quale,
-2019,Junior (under 18),Grace Partridge,
-2019,Young Adult,Celeste Johnson,
-2019,Adult,Jacie Sites,
-2019,Senior,Joe Sites,
+2019,Small Fry (under 9),Josephine Arnold Mages,Pennsylvania
+2019,Junior-Junior (under 13),Teo Quale,California
+2019,Junior (under 18),Grace Partridge,Idaho
+2019,Young Adult,Celeste Johnson,Colorado
+2019,Adult,Jacie Sites,Idaho
+2019,Senior,Joe Sites,Idaho
 2019,Senior-Senior,Vivian Williams,Washington
 2019,Grand National Champion,Katrina Nicolayeff,Idaho
-2021,Small Fry (under 9),Thomas Richards,
+2021,Small Fry (under 9),Thomas Richards,Oregon
 2021,Junior-Junior (under 13),Tristan Paskvan,Texas
 2021,Junior (under 18),Jesse Quintana,Colorado
-2021,Young Adult,Aarun Carter,
-2021,Adult,Cody Stadelmaier,
+2021,Young Adult,Aarun Carter,Colorado
+2021,Adult,Cody Stadelmaier,Colorado
 2021,Senior,Nancy Padilla,Montana
 2021,Senior-Senior,Howard Marshall,Missippi
 2021,Grand National Champion,Katrina Nicolayeff,Idaho
-2022,Small Fry (under 9),Sawyer Dietrich,
-2022,Junior-Junior (under 13),Mckenna Petersen,
+2022,Small Fry (under 9),Sawyer Dietrich,Arizona
+2022,Junior-Junior (under 13),Mckenna Petersen,Texas
 2022,Junior (under 18),Jesse Quintana,Colorado
-2022,Young Adult,Makaela Shippy-Ruggs,
-2022,Adult,JayDean Ludiker,
-2022,Senior,Sheila Wright,
-2022,Senior-Senior,Starr Mcmullen,
+2022,Young Adult,Makaela Shippy-Ruggs,Idaho
+2022,Adult,JayDean Ludiker,Washington
+2022,Senior,Sheila Wright,Washington
+2022,Senior-Senior,Starr McMullen,Oregon
 2022,Grand National Champion,Luke Price,Oregon
-2023,Small Fry (under 9),Sawyer Dietrich,
-2023,Junior-Junior (under 13),Max Francis,
+2023,Small Fry (under 9),Sawyer Dietrich,Arizona
+2023,Junior-Junior (under 13),Max Francis,"British Columbia, Canada"
 2023,Junior (under 18),Jesse Quintana,Colorado
-2023,Young Adult,Julian Oliver,
-2023,Adult,Gary Schuh,
+2023,Young Adult,Julian Oliver,Colorado
+2023,Adult,Gary Schuh,Oregon
 2023,Senior,Aaron Lowe,Washington
-2023,Senior-Senior,Starr McMullen,
+2023,Senior-Senior,Starr McMullen,Oregon
 2023,Grand National Champion,Luke Price,Oregon
