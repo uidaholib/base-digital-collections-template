@@ -16,11 +16,11 @@ pdf-full-text: true
     "id": "{{ site.baseurl | slugify }}",
     "title": {{ site.title | jsonify }},
     "url": "{{ '/' | absolute_url }}",
-    "image": "{{ site.data.featured_item.src | relative_url }}", 
-    "description": "{{ site.description }}",
+    "image": "{{ site.data.featured_item.src | absolute_url }}", 
+    "description": {{ site.description | jsonify }},
     {% if site.organization-name %}
     "publisher": { 
-        "name": "{{ site.organization-name }}", 
+        "name": {{ site.organization-name | jsonify }}, 
         "url": "{{ site.organization-link }}", 
         "logo": "{{ site.organization-logo-banner }}" 
     },{%- endif -%}
