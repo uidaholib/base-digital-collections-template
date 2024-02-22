@@ -8,14 +8,14 @@
 {%- assign formats = items | map: 'format' -%}
 {%- assign formats_uniq = formats | uniq -%}
 { 
-    "title": {{ site.title | jsonify }},
+    "title": "{{ site.title }}",
     "url": "{{ '/' | absolute_url }}",
-    "image": "{{ site.data.featured_item.src | absolute_url }}", 
-    "description": {{ site.description | jsonify }},
+    "image": "{{ site.data.featured_item.src | relative_url }}", 
+    "description": "{{ site.description }}",
     "publisher": { 
-        "name": {{ site.organization-name | jsonify }}, 
+        "name": "{{ site.organization-name }}", 
         "url": "{{ site.organization-link }}", 
-        "logo": "{{ site.organization-logo-banner | absolute_url }}" 
+        "logo": "{{ site.organization-logo-banner }}" 
     },
     "date_start": "{{ date-range | first }}",
     "date_end": "{{ date-range | last }}",
