@@ -5,7 +5,7 @@
 
 {%- endcomment -%}
 <a class="spotlight gallery-img" data-download="true" title="{{ page.title | escape }}" href="{{ page.object_location | relative_url }}">
-    <img src="{{ page.image_small | relative_url }}" alt="{{ page.image_alt_text | default: page.description | default: page.title | escape }}" class="img-fluid {% if page.sensitive %}blur{% endif %}">
-    {% if page.sensitive %}<div class="text-danger small">Warning: This image is of a graphic nature and may be upsetting to some viewers. Clicking the image will present a large, clear version of the image.</div>{% endif %}
+    {% if page.sensitive %}<div class="text-danger small">Warning: This image is of a graphic nature and may be upsetting to some viewers. Click here to view the large image.</div>{% else %}
+    <img src="{{ page.image_small | relative_url }}" alt="{{ page.image_alt_text | default: page.description | default: page.title | escape }}" class="img-fluid">{% endif %}
     <div><small class="text-dark">Click to view full screen</small></div>
 </a>
