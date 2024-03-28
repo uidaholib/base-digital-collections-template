@@ -15,7 +15,7 @@ There are a handful of treasures on display in the President’s Office in the A
 
 {% include feature/image.html objectid="silver-gold003" width="50" %} 
 
-The Silver and Gold Book was created to represent the newly-formed community of Moscow at the World’s Columbian Exposition of 1893, intended to mark the 400th anniversary of Columbus landing in the Americas. The identities of Moscow and the University of Idaho have been interwoven from the very beginning. Moscow was incorporated in 1887 and just two years later the territorial legislature chose to locate the land-grant university there. The Silver and Gold Book not only captured the significance of the university, it also made use of materials and motifs that were central to Idaho’s economy and demographics. The silver and gold were mined from north Idaho’s Coeur d’Alene district, while the rubies and opals were sourced from nearby locations. Engravings of wagon trains and locomotives were ways to acknowledge changes in technology that were evident even in Idaho’s short history of Euro-American settlement.  
+The Silver and Gold Book was created to represent the newly-formed community of Moscow at the World’s Columbian Exposition of 1893, intended to mark the 400th anniversary of Columbus landing in the Americas. The identities of Moscow and the University of Idaho have been interwoven from the very beginning. Moscow was incorporated in 1887 and just two years later the territorial legislature chose to locate the land-grant university there. The Silver and Gold Book not only captured the significance of the university, it also made use of materials and motifs that were central to Idaho’s economy and demographics. The silver and gold were mined from North Idaho’s Coeur d’Alene district, while the rubies and opals were sourced from mines within the region. Engravings of wagon trains and locomotives represented changes in technology that were bringing settlers to the newly formed state of Idaho.
 
 {% include feature/image.html objectid="silver-gold028;silver-gold030" width="50" %} 
 
@@ -24,9 +24,9 @@ As was the case in many communities, a group of women assumed responsibility for
 It has generally been understood that the group of organizing women was in fact the Pleiades Club, which originally consisted of seven faculty wives with a shared interest in art and literature. That the book was commissioned in 1893 and the club only officially formed in March of 1894 complicates facts somewhat. The founding members were Mrs. Jennie P. Gault, Mrs. Martha Fox, Mrs. Kate R. Henderson, Mrs. C.W. McCurdy, Mrs. Sarah Cowan Ostrander, Mrs. Ellen Roe Aldrich, and Mrs. Millicent Carter Bonebright. Mrs. Mary E. Forney became a member in 1896. 
 
 {% include feature/image.html objectid="silver-gold021" width="50" %}
-{% include feature/image.html objectid="silver-gold035" width="75" %}
+{% include feature/image.html objectid="silver-gold035" width="75" caption="Pleiades Club members in 2023" %}
 
-Following display at the World’s Columbian Exposition, the book was returned to Moscow and officially gifted to the University of Idaho. It was in the President’s Office in the original Administration Building on March 30th, 1906 when the structure caught fire. Rafe Gibb’s account of the fire, published in 1962’s Beacon for Mountain and Plain, is engaging and informative: 
+Following display at the World’s Columbian Exposition, the book was returned to Moscow and officially gifted to the University of Idaho. It was in the President’s Office in the original Administration Building on March 30th, 1906 when the structure caught fire. Rafe Gibb’s account of the fire, published in 1962’s *Beacon for Mountain and Plain*, is engaging and informative: 
 
 
 {% include feature/blockquote.html quote="<p>“Students pleaded for permission to enter the Library and save books, but [President] MacLean shook his head violently.</p>
