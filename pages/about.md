@@ -8,26 +8,22 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="latahsites0070" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Project" %}
 
-## About CollectionBuilder CSV
+## About the Project
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This historic map project was a collaboration between the [Latah Preservation Commission](https://latahcountyid.gov/commissions/) (LPC) and the University of Idaho Library. Each site was selected and described by commission volunteers, originally for a [printed touring map](https://api.latah.id.us/web/DownloadFileEx?filename=Latah%20County%20Historic%20Touring%20Map.pdf). The map was developed in 2004 and updated in 2013 and 2018. In 2023, the commission once again revised site descriptions to reflect changes in building use or ownership. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+{% include feature/image.html objectid="latahsites0012" %}
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+The printed map was not able to include photographs of the sites, and it was difficult to widely distribute copies of the publication to county residents and visitors. This digital version of the touring map includes contemporary photos of each location as well as historic images to illustrate the ongoing significance of the highlighted structures and landmarks. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+A majority of the contemporary photos were taken by **Cameron Nielsen**, while completing a fellowship with the Library’s [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/) department. Donors to the Library Dean’s Excellence Fund made the project possible. Significant volunteer assistance was also provided by members of the Latah Preservation Commission. The LPC works to preserve, promote, and educate the public about the historic physical fabric of Latah County, Idaho.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+{% include feature/image.html objectid="latahsites0083" %}
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+LPC commission pursues its mission by submitting nominations to the National Register of Historic Places, installing smart signage at historic sites, conducting walking tours, writing brochures, printing flyers, designating historic sites/districts, and supporting Idaho’s heritage organizations. 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The commission is a [Certified Local Government](https://history.idaho.gov/clg/) that receives funding from Latah County and the National Park Service. 
