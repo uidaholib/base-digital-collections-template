@@ -23,10 +23,10 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # title of site appears in banner
 title: Latah County Historic Places
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Historic Map by the Latah Preservation Commission
+tagline: Historic Sites Map by the Latah Preservation Commission
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "This project includes a historic sites touring map as well as contemporary and historic images of the locations to illustrate the ongoing significance of landmarks and structures"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: Latah County; Idaho; historic tour; historic map
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
