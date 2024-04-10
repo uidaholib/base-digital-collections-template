@@ -1,5 +1,5 @@
 ---
-layout: home-infographic
+layout: map
 title: Home
 permalink: /
 ---

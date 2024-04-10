@@ -11,7 +11,7 @@ item-meta: true
 
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a class="text-dark" href="{{ '/' | relative_url }}">Home</a></li>
-        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/browse.html' | relative_url }}">Places</a></li>
+        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/browse.html' | relative_url }}">Sites</a></li>
         <li class="breadcrumb-item active text-dark" aria-current="page">{{ page.title | truncatewords: 10 }}</li>
     </ol>
     <div class="my-0 h5 small">{{ page.display_template | replace: "_", " " | upcase }} {% if page.display_template == "compound_object" or page.display_template == "multiple" %}{% assign children = site.data[site.metadata] | where_exp: 'item','item.parentid == page.objectid' %} ({{ children | size }} Items){% endif %}</div>
@@ -32,7 +32,7 @@ item-meta: true
                 <a class="m-3" href="{{ t | strip | url_param_escape | prepend: '/browse.html#' | relative_url }}">{{ t | strip }}</a>
                 {% endfor %}
             </p>
-            <p><a href="{{ '/map.html?location=' | append: page.latitude  | append: ',' | append: page.longitude | append: '&marker=' | append: page.objectid | relative_url }}" class="btn btn-outline-primary">View on Full Map</a></p>
+            <p><a href="{{ '/index.html?location=' | append: page.latitude  | append: ',' | append: page.longitude | append: '&marker=' | append: page.objectid | relative_url }}" class="btn btn-outline-primary">View on Full Map</a></p>
             
         </div>
         <div class="col-md-7">
@@ -47,6 +47,7 @@ item-meta: true
                     </a>
                 </div>
                 {% endfor %}
+                <div class="col-12 text-center"><p class="my-5"><small>Click images to view full screen</small></p></div>
 
             </div>
 
