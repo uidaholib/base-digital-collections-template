@@ -14,7 +14,7 @@ credits: true
 
 ## About the Project
 
-This historic map project was a collaboration between the [Latah Preservation Commission](https://latahcountyid.gov/commissions/) (LPC) and the University of Idaho Library. Each site was selected and described by commission volunteers, originally for a [printed touring map](https://api.latah.id.us/web/DownloadFileEx?filename=Latah%20County%20Historic%20Touring%20Map.pdf). The map was developed in 2004 and updated in 2013 and 2018. In 2023, the commission once again revised site descriptions to reflect changes in building use or ownership. 
+This historic map project was a collaboration between the [Latah Preservation Commission](https://latahcountyid.gov/commissions/) (LPC) and the University of Idaho Library. Each site was selected and described by commission volunteers, originally for a [printed touring map]({{ '/items/latahsites0093.html' | relative_url }}). The map was developed in 2004 and updated in 2013 and 2018. In 2023, the commission once again revised site descriptions to reflect changes in building use or ownership. 
 
 {% include feature/image.html objectid="latahsites0012" %}
 
