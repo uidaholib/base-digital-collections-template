@@ -2,7 +2,7 @@
 # Excerpt of Interview - The Settle Family during the Spanish Influenza transcript
 ---
 
-# Excerpt of Interview - The Settle Family during the Spanish Influenza 
+# Excerpt of Interview - The Settle Family during the Spanish Influenza [transcript]
 
 00:00:00:00 - 00:00:04:18
 Unknown Interviewer: It was that bad flu epidemic at the beginning of or during.

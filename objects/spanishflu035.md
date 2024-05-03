@@ -2,7 +2,7 @@
 # Excerpt of Interview - World War I, the Red Cross, and Moscow during the Influenza Outbreak transcript
 ---
 
-# Excerpt of Interview - World War I, the Red Cross, and Moscow during the Influenza Outbreak
+# Excerpt of Interview - World War I, the Red Cross, and Moscow during the Influenza Outbreak [transcript]
 
 00:00:00:00 - 00:00:21:13
 Unknown Interviewer:
