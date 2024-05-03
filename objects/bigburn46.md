@@ -2,7 +2,7 @@
 # Oral History - Ione "Pinkie" Adair, part 1
 ---
 
-# Oral History - Ione "Pinkie" Adair, part 1
+# Oral History - Ione "Pinkie" Adair, part 1 [transcript]
 
 00:00:00:00 - 00:00:49:15
 Sam Schrager:

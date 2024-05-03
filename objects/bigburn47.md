@@ -2,7 +2,7 @@
 # Oral History - Ione "Pinkie" Adair, part 2 
 ---
 
-# Oral History - Ione "Pinkie" Adair, part 2 
+# Oral History - Ione "Pinkie" Adair, part 2 [transcript]
 
 00:00:00:00 - 00:00:43:10
 Ione "Pinkie" Adair:
