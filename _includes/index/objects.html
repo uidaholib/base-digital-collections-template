@@ -1,5 +1,5 @@
 {%- assign templates = site.data[site.metadata] | where_exp: 'item','item.parentid == nil ' | map: "display_template" -%}
-{%- assign types = "image;audio;video;pdf;panorama;record;compound_object;multiple" | split: ";" -%}
+{%- assign types = "historic_site;image;audio;video;pdf;panorama;record;compound_object;multiple" | split: ";" -%}
 <div class="card mb-3" >
   <div class="card-body">
     <h2 class="card-title h5">Objects</h2>
@@ -8,7 +8,8 @@
       {%- assign count = templates | where_exp: 'item','item contains t' | size -%}
       {% if count > 0 %}
       {{ count }}      
-      {% case t %}
+      {% case t %}{% when 'historic_site' %} 
+      <a class="text-dark" href="{{ 'image' | prepend: '/browse.html#' | relative_url }}">Historic Sites <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-image"/></svg></a><br>
       {% when 'image' %} 
       <a class="text-dark" href="{{ 'image' | prepend: '/browse.html#' | relative_url }}">Image{% if count > 1 %}s{% endif %} <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-image"/></svg></a><br>
       {% when 'audio' %}
