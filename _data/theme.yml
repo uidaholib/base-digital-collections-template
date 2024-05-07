@@ -8,11 +8,11 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: latahsites0083
+featured-image: https://objects.lib.uidaho.edu/latahsites/genesee-valley-lutheran-church-3_opt.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: bottom # Default is top
+home-banner-image-position: center # Default is top
 # optional: add content alert on the home page to indicate offensive material is present in the collection
 content-alert: false # true / false
 
