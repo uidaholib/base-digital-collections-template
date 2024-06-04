@@ -1,0 +1,49 @@
+---
+# custom layout for Calnon interview
+layout: item/item-page-base
+---
+
+<div class="row mt-3">
+
+    <div class="col-md-7" >
+        <div class="card mb-2">
+            <div class="card-body">
+                <h2 class="card-title">August 13, 2013, Meridian, Idaho</h2>
+                <p class="card-text">Duration: 1 hr 32 min</p>
+                <p class="card-text">Soon after his 95th birthday, Mark Calnon (b. 1918) was interviewed by film maker Denise Bennett regarding his personal history as a WWII pilot and Prisoner of War. The interview is available for listening on this page, or is downloadable as video, audio, or transcript.</p>
+                <h3 class="card-title">Oral History Audio</h3>
+                <p class="text-center">
+                    <audio controls class="mp3-item-player w-100">
+                        <source src="https://objects.lib.uidaho.edu/calnon/calnon11.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </p>
+                <p><button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTranscript" aria-expanded="false" aria-controls="collapseExample">View Transcript</button></p>
+                <div class="collapse mt-3" id="collapseTranscript">
+                    <div class="card card-body text-start">
+                        {% assign transcript = site.pages | where: 'path', 'objects/calnon_transcript.md' | first %}
+                        {{ transcript.content | markdownify }}
+                    </div>
+                </div>
+
+                <h3 class="card-title">Downloads</h3>
+                <p><em>Please note the large file sizes.</em></p>
+                <div class="text-center my-2">
+                    <a href="https://objects.lib.uidaho.edu/calnon/calnon33.mp4" class="btn btn-outline-payette-blue m-2">Low Quality Video (650.4 MB)</a>
+                    <a href="https://objects.lib.uidaho.edu/calnon/calnon22.mp4" class="btn btn-outline-payette-blue m-2">High Quality Video (8.69 GB)</a>
+                    <br>
+                    <a href="https://objects.lib.uidaho.edu/calnon/calnon11.mp3" target="_blank" class="btn btn-outline-payette-blue m-2">Audio MP3 (80.5 MB)</a>
+                    <a href="https://objects.lib.uidaho.edu/calnon/calnon52.pdf" target="_blank" class="btn btn-outline-payette-blue m-2">PDF Text Transcript</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-5">
+        <figure class="figure">
+            <img class="figure-img img-fluid rounded" alt="Photo of Mark Calnon on his 95th Birthday" src="https://objects.lib.uidaho.edu/calnon/small/calnon1_sm.jpg">
+            <figcaption class="figure-caption text-center"><a href="{{ '/items/calnon1.html' | relative_url }}">Mark Calnon on his 95th Birthday</a></figcaption>
+        </figure>
+    </div>
+
+</div>
