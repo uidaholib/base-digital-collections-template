@@ -5,22 +5,22 @@
 pdf-full-text: true
 # alternatively, use a "full-text" column in the metadata with "true" to select items individually
 ---
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
+{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.title' -%}
 {%- assign raw-dates = items | map: 'date' | compact | uniq -%}
 {%- capture clean-years -%}{% for date in raw-dates %}{% if date contains "-" %}{{ date | strip | split: "-" | first }}{% elsif date contains "/" %}{{ date | strip | split: "/" | last }}{% else %}{{ date | strip }}{% endif %}{% unless forloop.last %};{% endunless %}{%- endfor -%}{%- endcapture -%}
 {%- assign date-range = clean-years | remove: " " | split: ";" | uniq | sort  -%}
 {%- assign formats = items | map: 'format' -%}
-{%- assign formats_uniq = formats | uniq -%}
+{%- assign formats_uniq = formats | uniq | compact -%}
 {%- assign fields = site.data.config-search-index -%}
 { "collection": {
     "id": "{{ site.baseurl | slugify }}",
     "title": {{ site.title | jsonify }},
     "url": "{{ '/' | absolute_url }}",
-    "image": "{{ site.data.featured_item.src | relative_url }}", 
-    "description": "{{ site.description }}",
+    "image": "{{ site.data.featured_item.src | absolute_url }}", 
+    "description": {{ site.description | jsonify }},
     {% if site.organization-name %}
     "publisher": { 
-        "name": "{{ site.organization-name }}", 
+        "name": {{ site.organization-name | jsonify }}, 
         "url": "{{ site.organization-link }}", 
         "logo": "{{ site.organization-logo-banner }}" 
     },{%- endif -%}
