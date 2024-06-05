@@ -10,24 +10,28 @@ credits: true
 
 {% include feature/jumbotron.html objectid="cougar-dave_100" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About David (Cougar Dave) Lewis" %}
 
-## About CollectionBuilder CSV
+## About the Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This digital collection consists of correspondence, photographs, newspaper clippings, and legal documents related to David (Cougar Dave) Lewis, his ranch and cabin in the Idaho Primitive Area, and materials related to Jess and Dorothy Taylor's purchase of Lewis' ranch. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Items include the 1935 property purchase agreement between Lewis and Taylor, letters from hunters referring to Lewis as "Uncle Dave," newspaper clippings Lewis kept, photographs and interviews of Jess and Dorothy Taylor, and correspondence regarding the University of Idaho's purchase of Taylor Ranch, now the [Taylor Ranch Wilderness Station](https://www.uidaho.edu/cnr/taylor-wilderness-research-station).  
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+{% include feature/pdf.html objectid="cougar-dave_002" width="50" %}
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Lewis' papers were originally contained in a tin box left behind at Lewis' ranch after he left in 1936. In 1969, Jess and Dorothy Taylor donated the papers to the University of Idaho College of Forestry, which in turn gave the materials to the U of I Library. 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## About David (Cougar Dave) Lewis
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="cougar-dave_047" width="75" %}
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Although very little is known about David Lewis' early life, [conversations with Jess Taylor](https://lib.uidaho.edu/digital/cougar-dave/browse.html#interviews) revealed some facts: David Lewis served in the Civil War, scouted for Captain Benteen at the Battle of Little Bighorn, and was in charge of the ammunition train during the Sheepeater Campaign of 1879. Around 1870, David Lewis settled in the Big Creek area where he lived alone for 50 years in the Idaho wilderness and occasionally acted as a guide to hunting parties. 
+
+In 1910, Lewis was named a predatory animal hunter by the Forest Service. He subsequently gained the nickname, "Cougar Dave," killing over 1,000 cougars in his lifetime. In the fall of 1934, Jess Taylor met Dave Lewis and purchased Lewis' ranch. After staying with the Taylor's the following winter, Lewis returned back to the ranch in spring of 1936. At 93 years old, he left his ranch alone and died of pneumonia after reaching Cascade, Idaho.
+
+This about page has been adapted from the [finding aid](https://archiveswest.orbiscascade.org/ark:/80444/xv35232/) by Judith Nielsen.
+
+### Related Collections ###
+
+- [Taylor Ranch Log Book Collection](https://www.lib.uidaho.edu/digital/taylor/about.html)
