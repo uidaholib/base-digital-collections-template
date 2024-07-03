@@ -21,12 +21,12 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: David (Cougar Dave) Lewis Papers
+title: Cougar Dave Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Photographs, correspondence, interviews, and scrapbook materials related to "Cougar Dave" and Taylor Ranch. 
+tagline: Photographs, correspondence, interviews, and scrapbook materials related to David Lewis (i.e. Cougar Dave) and Taylor Ranch. 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection includes photographs and documents related to Dave (Cougar Dave) Lewis and the purchase of Taylor Ranch. Also included are interviews with Jess and Dorothy Taylor, who purchased Cougar Dave's ranch, and documents regarding the University of Idaho's purchase of the property from the Taylors."
+description: "This collection includes photographs and documents related to David Lewis (i.e. Cougar Dave) and the purchase of Taylor Ranch. Also included are interviews with Jess and Dorothy Taylor, who purchased Cougar Dave's ranch, and documents regarding the University of Idaho's purchase of the property from the Taylor Family."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
