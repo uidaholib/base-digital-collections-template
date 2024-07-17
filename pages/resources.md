@@ -6,6 +6,8 @@ permalink: /resources.html
 
 # Resources
 
+History resources useful for researching Idaho Women.
+
 ## Websites 
 
 *Note: most of these links are archived sources from Internet Archive*
