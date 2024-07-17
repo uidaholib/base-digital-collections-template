@@ -12,24 +12,31 @@ credits: true
 
 ## About Idaho's Women of Influence
 
-Idaho's Women of Influence is meant to correct an imbalance in the preserved historical data on women's contribution to Idaho history.
+Idaho's Women of Influence (IWI) is meant to correct an imbalance in the preserved historical data on women's contribution to Idaho history by providing a browseable database of information.
+IWI is open to all women connected to Idaho by birth, residence, work, or any other significant factor whose positive efforts and accomplishments contributed significantly to the quality of life in their community, the state, or the world. 
 
-Started in 2014, IWI was the vision of researchers Annie Gaines and Mike Bullard, and first implemented on [Open Journal Systems](https://pkp.sfu.ca/ojs/) at [University of Idaho Library](https://www.lib.uidaho.edu/) (see [archived IWI site](https://web.archive.org/web/20141127194855/http://journals.lib.uidaho.edu/index.php/IWI/index)). 
-Originally intended as both a database of important women in the history of the state of Idaho and the home for a peer-reviewed scholarly journal on the same topic, Idaho's Women of Influence is open to all women connected to Idaho by birth, residence, work, or any other significant factor whose positive efforts and accomplishments contributed significantly to the quality of life in their community, the state, or the world. 
+<img src="https://www.lib.uidaho.edu/digital/objects/iwi/iwi_logo.jpg" class="img-fluid d-block mx-auto rounded mb-4">
 
+Started in 2014, IWI was the vision of researchers Annie Gaines and Mike Bullard (see [archived IWI site](https://web.archive.org/web/20141127194855/http://journals.lib.uidaho.edu/index.php/IWI/index)). 
+It was originally intended as both a database of important women in the history of the state of Idaho and the home for a peer-reviewed scholarly journal on the same topic.
 However, after changes to infrastructure and staffing, the unmaintained original version became inaccessible. 
-**This version preserves the original content and provides the opportunity to add new entries.**
 
-<img src="https://www.lib.uidaho.edu/digital/objects/iwi/iwi_logo.jpg" class="img-fluid d-block mx-auto">
+This digital collection preserves the original content.
+
+### Guidelines
 
 Database entries may be submitted online by librarians, educators, museum staff, tribal authorities, women's organizations, or others researching this area.
 Each entry must be accompanied by one to five published or otherwise publicly available sources of information. 
-Contributors to the database are also encouraged to create or update [Wikipedia](https://www.wikipedia.org/) articles on the women as well.
 
-**Disclaimer:** 
+Researchers are also encouraged to create or update [Wikipedia](https://www.wikipedia.org/) articles on the women as well.
+
+Please contact Special Collections and Archives at <libspec@uidaho.edu> with questions or contributions.
+
+### Disclaimer
+
 *While an effort is made to ensure that all information is responsibly and accurately contributed, it is not possible for the publishers to check every fact.
 This database is meant to grow into a broad starting point for research about these individuals and their lives.
 Users should check facts and report mistakes, or provide additional information and resources when available.*
 
-**Interested in contributing?**
-Visit the [submit page]({{ '/submit.html' | relative_url }}) to learn more.
+<a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_eqZdsQyel8sKBAG?source_link={{ page.url | absolute_url }}" target="_blank" rel="noopener" class="btn btn-sm btn-outline-primary">Contact us about a record</a>
+
