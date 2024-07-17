@@ -54,6 +54,7 @@ item-meta: true
                     </ul>
                 </div>
             </div>
+            <p class="my-3"><a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_eqZdsQyel8sKBAG?source_link={{ page.url | absolute_url }}" target="_blank" rel="noopener" class="btn btn-sm btn-outline-secondary">Contact us about this record</a></p>
         </div>
 
         <div class="col-md-6">
@@ -61,12 +62,10 @@ item-meta: true
                 <div class="card-header">Source</div>
                 <div class="card-body">
                     <dl>
-                        <dt>Preferred Citation:</dt> 
-                        <dd>{{ page.title }}, {{ site.title }}, Digital Initiatives, University of Idaho Library, {{ page.url | absolute_url }}</dd>
-                        <dt>Record Contributor:</dt>
-                        <dd>{{ page.contributor }}</dd>
-                        <dt>Old IWI Link:</dt>
-                        <dd>{{ page.oldlink }}</dd>
+                        <dt>Citation:</dt> 
+                        <dd>{{ page.title }}, {{ site.title }}, Digital Collections, University of Idaho Library, {{ page.url | absolute_url }}</dd>
+                        {% if page.contributor %}<dt>Record Contributor:</dt>
+                        <dd>{{ page.contributor }}</dd>{% endif %}
                     </dl>
                 </div>
             </div>
