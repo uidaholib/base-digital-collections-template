@@ -10,18 +10,18 @@
 # site domain, full URL to the production location of your collection
 url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /digital/demo
+baseurl: /digital/pses
 # location of code, the full url to your github repository
 source-code: https://github.com/uidaholib/base-digital-collections-template
 
 # url to the shared assets folder on mainweb
-digital-assets: https://www.lib.uidaho.edu/assets
+digital-assets: https://www.lib.uidaho.edu/digital/pses
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Plant, Soil, and Entomological Sciences records
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
@@ -30,14 +30,14 @@ description: "CollectionBuilder-CSV is a template for creating digital collectio
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Kate Morrison
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: pses 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
