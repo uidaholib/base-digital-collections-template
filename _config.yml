@@ -23,10 +23,10 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # title of site appears in banner
 title: Plant, Soil, and Entomological Sciences records
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Images of insects and parasites studied for their role in plant disease.
+tagline: Images of insects and parasites photographed and studied for their roles in plant disease
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: Materials from the Plant, Soil, and Entomological Sciences records show images of a variety of insects and parasites which were photographed between the mid-1930s and the mid-1960s. They were photographed as part of research being done at the time by the College of Agriculture and Life Sciences at the University of Idaho.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho; history; insects;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
