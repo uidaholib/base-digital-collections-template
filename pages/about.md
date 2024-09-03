@@ -25,6 +25,8 @@ The University of Idaho is the only university in the Pacific Northwest and Inte
 
 It is estimated that fewer than 2% of insect specimens in current collections have been digitized. Digitalized collections can help enable researchers across the world to identify and investigate knowledge gaps within their areas of expertise. Digitalized collections have led to the discovery of insects once thought to be extinct and have facilitated the advancement in ecological niche modeling (Short et al., 2018). This digital collection hopes to serve as a valuable and historical resource to the underrepresented data pool of entomology. 
 
+*More detailed information about the collection and its contents can be found in the collection's [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv489597)*
+
 ### Sources
 
 [^1]: ["What is Phytopathology or Plant Pathology"](https://www.apsnet.org/about/Pages/WhatisPhytopathology.aspx){:target="_blank" rel="noopener"}, The American Phytopathological Society (APS).
