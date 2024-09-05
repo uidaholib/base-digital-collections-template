@@ -8,26 +8,20 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="ug135-scrapbook1-page66.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+## About the Collection
 
-## About CollectionBuilder CSV
+By Brian Tibayan, 2024 Strong Fellow
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The WWAMI (Washington, Wyoming, Alaska, Montana, Idaho) collection documents the comprehensive history of the WWAMI medical education program, highlighting its development, implementation, and significant impact from 1971 to 1975. This collaborative effort, involving the University of Idaho and other institutions across five states, is captured through 162 items including photographs, letters, newspaper clippings, press releases, and memos. The collection underscores key milestones, student experiences, field trips, clinical rotations, and the contributions of faculty and community partners. It vividly portrays the program's efforts to address rural healthcare shortages, enhance medical training, and foster inter-institutional collaboration. Furthermore, the collection delves into the planning and approval processes, educational curriculum, influence on rural healthcare, community and institutional support, and addresses challenges, criticisms, cultural interactions, diversity, achievements, personal stories, and financial and administrative aspects. This rich historical perspective illustrates the program's transformative role in regional medical education.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+{% include feature/image.html objectid="ug135-scrapbook1-page161.jpg" width="75" %} 
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+More detailed information about the collection and its contets can be found in the collection's [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv759233)
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+### Additional Links
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+[University of Idaho WWAMI Education Program](https://www.uidaho.edu/academics/wwami)
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+[University of Washington Medical Education Program](https://www.uwmedicine.org/school-of-medicine/md-program/wwami)
