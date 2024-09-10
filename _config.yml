@@ -29,6 +29,7 @@ tagline: A database of important women in the history of the state of Idaho
 description: "A database of important women in the history of the state of Idaho" 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: "Idaho; women; history"
+
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: evanwill
 
