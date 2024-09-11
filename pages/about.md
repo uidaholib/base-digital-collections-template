@@ -18,7 +18,7 @@ The WWAMI (Washington, Wyoming, Alaska, Montana, Idaho) collection documents the
 
 {% include feature/image.html objectid="ug135-scrapbook1-page161.jpg" width="75" %} 
 
-More detailed information about the collection and its contets can be found in the collection's [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv759233)
+More detailed information about the collection and its contents can be found in the collection's [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv759233)
 
 ### Additional Links
 
