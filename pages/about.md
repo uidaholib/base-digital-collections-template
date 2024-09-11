@@ -25,3 +25,4 @@ More detailed information about the collection and its contents can be found in 
 [University of Idaho WWAMI Education Program](https://www.uidaho.edu/academics/wwami)
 
 [University of Washington Medical Education Program](https://www.uwmedicine.org/school-of-medicine/md-program/wwami)
+
