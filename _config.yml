@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu/
+url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /digital/wwami
 # location of code, the full url to your github repository
@@ -23,12 +23,12 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # title of site appears in banner
 title: WWAMI Scrapbook
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Washington, Wyoming, Alaska, Montana and Idaho Medical Program Scrapbook
+tagline: Washington, Wyoming, Alaska, Montana, and Idaho Medical Program Scrapbook
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: WWAMI Scrapbook from 1971 to 1975.
+description: A scrapbook of photos, correspondence, and clippings documenting WWAMI's early years from 1971 to 1975.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest; medical; education
+keywords: medical education; WWAMI program; idaho; history; inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Brian Tibayan
 
