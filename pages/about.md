@@ -27,7 +27,9 @@ This rich historical perspective helps illustrate the program's transformative r
 
 {% include feature/image.html objectid="ug135-scrapbook1-page161" width="75" %} 
 
-*Note:* the program was called "WAMI" until 1996 when Wyoming joined adding the second "W" to the acronym. 
+The view the entire scrapbook as a single PDF, visit the [complete scrapbook page]({{ '/items/wwami_full.html' | relative_url }}).
+
+**_Please Note:_** the program was called "WAMI" until 1996 when Wyoming joined adding the second "W" to the acronym. 
 
 More detailed information about the full collection and its contents can be found in the [WWAMI records finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv759233).
 
