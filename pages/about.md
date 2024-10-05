@@ -12,7 +12,11 @@ credits: true
 
 {% include feature/alert.html text="Please visit the original <a href='https://www.lib.uidaho.edu/digital/turning/' class='alert-link'>Turning of the Wheel website</a> for the full context of this collection." color="success" align="center" %}
 
-{% include feature/nav-menu.html sections="About Turning of the Wheel;A Digital Collection of Events;Credits" %}
+## About this Collection
+
+This collection gathers the items originally found in <a href='https://www.lib.uidaho.edu/digital/turning/'>Turning of the Wheel website</a>, which documented the Humanities Colloquium Series in 2011-2012. In turn, some of that content was drawn from an even <a href="https://web.archive.org/web/20120306135511/https://www.webpages.uidaho.edu/humanities/index.htm">earlier version of the site</a>. Please visit the original website to understand the full context of the items. 
+
+The content below is copied from the original site.
 
 ## About Turning of the Wheel
 
@@ -36,7 +40,7 @@ To address these intriguing albeit ambitious questions you're invited to take a 
 
 With the help of many talented individuals and generous organizations throughout the University, the events that occurred during the 2011-2012 Humanities Colloquium series were videotaped and photographed for future use and preservation in a digital archive. This website is the outcome of that work.
 
-The videos and photos, as well as the slides and papers presented, have been archived and uploaded into the the University of Idaho Library's Digital Collections. The talks, performances, and discussions are linked to the right. They can also be accessed via the dropdown menu at the top of each page, and the entire database can be searched using the search box above. Much of the material used here was appropriated from the series' original website, which can be accessed here.
+The videos and photos, as well as the slides and papers presented, have been archived and uploaded into the the University of Idaho Library's Digital Collections. The talks, performances, and discussions are linked to the right. They can also be accessed via the dropdown menu at the top of each page, and the entire database can be searched using the search box above. Much of the material used here was appropriated from the series' original website, which can be accessed <a href="https://web.archive.org/web/20120306135511/https://www.webpages.uidaho.edu/humanities/index.htm">here</a>.
 
 ## Credits
 
