@@ -26,9 +26,10 @@ title: The Selway-Bitterroot Wilderness History Project
 tagline: Archive of documents, photographs, and interviews from the Selway-Bitterroot Wilderness
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This digital collection of documents, photographs, and interviews accompanies <a class='payette-blue' target='_blank' href='https://sbw.lib.uidaho.edu/index.html'>The Selway-Bitterroot Wilderness History Project</a>. " 
+description: "A collection of documents, photographs, and interviews from The Selway-Bitterroot Wilderness History Project." 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest;selway-bitterroot wilderness
+keywords: selway-bitterroot wilderness; idaho; history; inland northwest
+
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
