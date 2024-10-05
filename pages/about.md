@@ -64,4 +64,4 @@ All videos, images, and documents have been archived by the University of Idaho 
 
 ### Turning of the Wheel Course
 
-Along with a 1-credit seminar, a 3-credit course, built around the theme of this series, was held during the Spring Semester 2012.  See Lindsey Anderson's paper in response to the Series and its theme. 
+Along with a 1-credit seminar, a 3-credit course, built around the theme of this series, was held during the Spring Semester 2012.  See Lindsey Anderson's paper in response to the Series and its theme.
