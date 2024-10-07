@@ -28,7 +28,7 @@ tagline: Celebrating Fitzgerald's fashion and style through her clothing, photog
 # this description might appear in search result lists, keep around 160 characters max
 description: "Ella Jane Fitzgerald, also known as 'the first lady of song,' is loved by jazz listeners worldwide. This collection features Fitzgerald's iconic wardrobe and highlights the stories and creators behind some of her famous clothing."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: jazz;Ella Fitzgerald;fashion
+keywords: jazz; Ella Fitzgerald; fashion
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
