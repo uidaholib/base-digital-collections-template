@@ -82,7 +82,7 @@ desc 'Generate derivative image files from collection objects'
 task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :compress_originals] do |_t, args|
   # set default arguments
   args.with_defaults(
-    thumbs_size: '300x300',
+    thumbs_size: '450x',
     small_size: '800x800',
     density: '300',
     missing: 'true',
