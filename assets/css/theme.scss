@@ -11,6 +11,22 @@ $base-font-size: {{ site.data.theme.base-font-size | default: "1.1em" }};
 $text-color: {{ site.data.theme.text-color | default: "#111" }};
 $link-color: {{ site.data.theme.link-color | default: "#00AEC7" }};
 
+body {
+  @if $base-font-family != "" { font-family: $base-font-family; }
+  @if $base-font-size != "" { font-size: $base-font-size; }
+  @if $text-color != "" { color: $text-color; }
+}
+a {
+  /* remove link underline */ 
+  text-decoration: none;
+  @if $link-color != "" { 
+      color: $link-color; 
+      &:hover {
+          @if $text-color != "" { color: $text-color; }
+      }
+  }
+}
+
 /* theme colors pulled from config-theme-colors */
 {% assign btns = site.data.config-theme-colors | where_exp: "item","item.color != nil" %}
 {% if btns != empty %}
@@ -30,4 +46,4 @@ $theme-colors: map-merge(
 @import "theme-colors", "theme-utilities";
 {% endif %}
 
-@import "base", "pages", "custom";
+@import "custom";

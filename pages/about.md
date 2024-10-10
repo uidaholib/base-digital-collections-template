@@ -8,9 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% for c in site.data.config-theme-colors %}
+[test {{ c.color_class }}](#){:.btn .btn-{{ c.color_class }}}<br>
+[test {{ c.color_class }}](#){:.btn .btn-outline-{{ c.color_class }}}
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV" %}
+{% endfor %}
 
 ## About CollectionBuilder CSV
 
