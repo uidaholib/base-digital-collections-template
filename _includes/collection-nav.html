@@ -33,7 +33,7 @@
                 {%- endfor -%}
             </ul>
             
-            {% include nav-search-lunr.html %}
+            {% if site.central-search == true %}{% include nav-search-elastic.html %}{% else %}{% include nav-search-lunr.html %}{% endif %}
             
         </div>
     </div>
