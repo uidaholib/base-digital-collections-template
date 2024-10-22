@@ -1,5 +1,5 @@
 ---
-title: Locations
+title: Cities
 layout: cloud
 permalink: /locations.html
 # Default locations page is configured in "_data/theme.yml"
@@ -8,7 +8,7 @@ cloud-fields: site.data.theme.locations-fields
 button: outline-palouse
 ---
 
-## Browse Locations
+## Browse Cities
 
 Use this word cloud visualization to browse locations.
 Word size is determined by frequency and all words link to a corresponding collection search.
