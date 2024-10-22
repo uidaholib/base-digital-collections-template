@@ -1,19 +1,62 @@
 ---
-# basic image item layout
-# Displays image_small if available, with fall back to object_location. 
-# Adds gallery view to open images full screen using object_location, with fall back to image_small.
-layout: item/sanborn-base
+# custom layout for sanborn maps
+layout: default
+# item-meta adds rich meta markup to the page on production build
+item-meta: true
 gallery: true
+custom-foot: js/modal-hash-js.html
 ---
+{% assign children = site.data[site.metadata] | where_exp: 'item','item.parentid == page.objectid' %}
+<div class="container py-3">
 
-<div class="mb-4">
-
-    {% include item/sanborn-map-gallery.html %}
+    {% include item/breadcrumbs.html %}
     
-    <div class="my-3">
+    <h2 class="mb-3">{{ page.city }}, {{ page.county }} County, {{ page.date | split: '-' | first }}</h3>
 
-        {% include item/download-buttons.html %}
+    <div class="row justify-content-center">
+
+        <div class="col-md-8">
+            {% if children.size > 0 %}
+            <div class="mb-4">
+                
+                {% include item/child/sanborn-item-gallery.html %}
+
+                <div class="my-2">
+                    {% include item/child/compound-item-download-buttons.html %}
+                </div>
+            </div>
+            {% else %}
+            <div class="mb-4">
+
+                {% include item/sanborn-map-gallery.html %}
+                
+                <div class="my-3">
+
+                    {% include item/download-buttons.html %}
+
+                </div>
+
+            </div>
+            {% endif %}
+        </div>
+
+        <div class="col-md-4" id="metadata">
+
+            {% include item/metadata.html %}
+
+        </div>
+
+        <div class="col-md-5 py-4">
+            {% include item/citation-box.html %}
+        </div>
+        {% if page.rights or page.rightsstatement %}
+        <div class="col-md-5 py-4">
+            {% include item/rights-box.html %}
+        </div>
+        {% endif %}
 
     </div>
+
+    {% include item/browse-buttons.html %}
 
 </div>
