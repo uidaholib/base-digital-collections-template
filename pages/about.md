@@ -44,6 +44,6 @@ The Sanborn Maps started to be replaced by line carding in about the 1950s. Howe
 
 Researchers use these maps to study patterns of growth and change within the various towns and cities as well as how specific buildings may have changed over time. Historic preservationists use the maps to assess the significance of old buildings and understand the building uses and how they may have changed over time. Archaeologists use them to trace the history of locations of excavation sites to understand the material culture found at the site. Environmental site assessors use the maps to inspect sites for certain conditions and to help with planning potential projects. Genealogists even consult the maps to trace their ancestors’ locations.  
 
-### Sources
+## Sources
 
 The Library of Congress, "Introduction to the Sanborn Map Collection," accessed August 31, 2023, [https://www.loc.gov/rr/geogmap/sanborn/san4a1.html](https://www.loc.gov/rr/geogmap/sanborn/san4a1.html)
