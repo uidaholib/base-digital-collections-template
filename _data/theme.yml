@@ -37,20 +37,6 @@ locations-min: 1 # min size for subject cloud, too many terms = slow load time!
 locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
-# CITIES PAGE
-#
-cities-fields: city # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
-cities-min: 1 # min size for subject cloud, too many terms = slow load time!
-cities-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
-
-##########
-# COUNTIES PAGE
-#
-counties-fields: county # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
-counties-min: 1 # min size for subject cloud, too many terms = slow load time!
-counties-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
-
-##########
 # MAP PAGE
 #
 # see _data/map-config.csv for field display options
@@ -75,9 +61,9 @@ year-nav-increment: 5 # set increments to auto gen nav years
 # 
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,date,description,subject,county,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
+metadata-export-fields: "group_count,title,creator,date,year,subject,description,county,city,location,latitude,longitude,type,format,display_template,object_full"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,location,county"
+metadata-facets-fields: "subject,location,city,county"
 
 ##########
 # Compound Objects 
