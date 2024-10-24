@@ -37,3 +37,4 @@ The digital collection was created by Courtney E. Berge.
 [^1]: Legacy.com. “Ernest Day Obituary (2008) - Boise, ID - Idaho Statesman.” Legacy.com, Legacy, 17 Feb. 2008, www.legacy.com/obituaries/idahostatesman/obituary.aspx?n=ernest-e-day&amp;pid=103580940&amp;fhid=6416. Originally published by the Idaho Statesman.
 
 [^2]: Stahl, Greg. Idaho Mountain Express: Ernie Day Was Giant of Idaho Conservation - February 29, 2008, archives.mtexpress.com/index2.php?ID=2005119601. 
+
