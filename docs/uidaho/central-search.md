@@ -3,7 +3,7 @@
 We have a custom centralized search application "elasticlibrary" at https://digital.lib.uidaho.edu/
 
 This document outlines the process for configuring our digital collections to use the Search app. 
-The full technical details are explained in "docs/uidaho/search-json.md", 
+The full technical details are explained in "docs/uidaho/search-json.md".
 
 ## Overview 
 
@@ -15,9 +15,9 @@ Once the collection is fully QC-ed and ready for public launch, maintainers will
 
 Adding a collection to the central search is three steps:
 
-1. configure "search.json" and deploy
-2. add to Search Sources
-3. opt in to "central-search" to add search box to nav and deploy
+1. configure "search.json" and deploy.
+2. add to Search Sources.
+3. opt in to "central-search" to add search box to nav and deploy.
 
 ### 1. Configure search.json mapping
 
