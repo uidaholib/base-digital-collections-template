@@ -6,12 +6,13 @@ layout: page
 <div class="row">
   <div class="col-md-12">
     <div class="h4 mb-4 text-center">
-      <strong>Search by Document Type:</strong>
-      <a class="btn btn-outline-payette-blue ml-2 mr-2" type="button" href="{{ 'subject files' | escape | prepend: '/browse.html#' | relative_url }}">Subject Files</a>
-      <a class="btn btn-outline-payette-blue" type="button" href="{{ 'family history files' | escape | prepend: '/browse.html#' | relative_url }}">Family History Files</a>
+      <strong>Browse by Document Type:</strong>
+      <a class="btn btn-outline-palouse m-2" href="{{ '/browse.html' | relative_url }}#Subject%20Files">Subject Files</a>
+      <a class="btn btn-outline-palouse m-2" href="{{ '/browse.html' | relative_url }}#Family%20History%20Files">Family History Files</a>
+      <a class="btn btn-outline-palouse m-2" href="{{ '/browse.html' | relative_url }}#Images">Images</a>
     </div>
 
-    {% include feature/alert.html text="**Please note:** The items featured in this collection are held by the McCall Public Library. The materials are *only available for download at computers inside the McCall Public Library*. Please contact <library@mccall.id.us>{:.alert-link} with questions." color="info" %}
+    {% include feature/alert.html text="**Please note:** The items featured in this collection are held by the McCall Public Library. The materials are **only available for download at computers inside the McCall Public Library**. Please contact <library@mccall.id.us>{:.alert-link} with questions." color="info" %}
   </div>
 
   <div class="col-md-8">
