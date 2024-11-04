@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
-year span,Dates,,,
+year_span,Dates,,,
 subject,,true
 identifier,,,true,Identifier
 person of interest,,,true
 location,Location,,
-file type,,true
-document type,,,true
+file_type,,true
+document_type,,,true

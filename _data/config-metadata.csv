@@ -3,7 +3,7 @@ title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 description,Description,,,DCTERMS.description,description
 person of interest,Person of Interest,,,DCTERMS.creator,creator
-file type,File Type,true
+file_type,File Type,true
 start_date,Start Date,,,DCTERMS.created,dateCreated
 end_date,End Date,
 archival date,Date Created (Archival Standard)
@@ -11,7 +11,7 @@ date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 date is approximate,Approximated Date
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
-document type,Document Type,
+document_type,Document Type,
 publisher,Publisher,
 latitude,Latitude
 longitude,Longitude
