@@ -1,4 +1,5 @@
 ---
+# customized
 # basic image item layout
 # Displays image_small if available, with fall back to object_location. 
 # Adds gallery view to open images full screen using object_location, with fall back to image_small.
@@ -7,12 +8,18 @@ gallery: true
 ---
 
 <div class="card mb-4 text-center">
-
-    {% include item/image-gallery.html %}
     
     <div class="card-body">
 
+        <p>{% include item/item-thumb.html %}</p>
+
+        <div class="mt-2">
+
+        {% include feature/alert.html text='Please note: Full Download is limited to computers inside McCall Public Library only!' color='warning' align='center' %}
+
         {% include item/download-buttons.html %}
+
+        </div>
 
     </div>
 
