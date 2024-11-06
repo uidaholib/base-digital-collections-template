@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+The Barnard-Stockbridge Collection features nearly 4,000 photographs selected from the over 200,000 nitrocellulose and glass plate negatives taken by Nellie Stockbridge and T.N. Barnard during the years 1894-1964. The photos vividly depict life in the Wallace/Kellogg mining area.
+
 ### T. N. Barnard
 
 In 1889, Thomas N. Barnard and his wife moved to Wallace, Idaho where he established his photo studio. The studio was destroyed in a fire in 1890 with a small amount of his negatives surviving. Most of the photographs taken in the early years "included landscapes, placer workings, townscapes, and panoramic views" of Wallace and Murray Idaho, taken on 5 x 7 and 8 x 10 dry-plate negatives. Barnard made most of his living from his landscape photographs, which were for sale to the general public and commissioned portraits.
