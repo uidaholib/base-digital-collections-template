@@ -32,6 +32,7 @@ In 1910, Lewis was named a predatory animal hunter by the Forest Service. He sub
 
 This about page has been adapted from the [finding aid](https://archiveswest.orbiscascade.org/ark:/80444/xv35232/) by Judith Nielsen.
 
-### Related Collections ###
+### Related Collections
 
 - [Taylor Ranch Log Book Collection](https://www.lib.uidaho.edu/digital/taylor/about.html)
+
