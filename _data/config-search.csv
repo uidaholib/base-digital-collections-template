@@ -5,3 +5,6 @@ creator,true,false
 description,true,true
 subject,true,true
 location,true,false
+features,true,false,
+county,true,false,
+region,true,false
