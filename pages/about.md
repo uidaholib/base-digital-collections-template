@@ -11,7 +11,8 @@ credits: true
 {% include feature/jumbotron.html objectid="ug138_1_1_006.jpg" %} 
 
 ## Digital Collection-Insects and Parasites 
-By Kate Morrison
+
+*By Kate Morrison*
 
 Plant pathology is a specialized field focused on the study of plant diseases. This field is vital to protecting our worldwide food security from pests and disease. This highly interdisciplinary science encompasses knowledge of botany, microbiology, molecular biology, crop science, soil science, ecology, genetics, biochemistry, physiology, and entomology.[^1]  
 
