@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="crbp1040" %} 
 
-{% include feature/nav-menu.html sections="About the Collection;Dams Depicted in the Collection;The Columbia Basin Project;Research Value;" %}
+{% include feature/nav-menu.html sections="About the Collection;Dams Depicted in the Collection;The Columbia Basin Project;Research Value" %}
 
 ## About the Collection
 
