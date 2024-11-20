@@ -42,14 +42,10 @@ After being acquired by the Milwaukee Land Company (a subsidiary of Milwaukee Ro
 
 ---
 
-#### Related Collections ####
+### Related Collections
 
 For more information, see the following digital collections:
 
 {% include feature/button.html text="Potlatch Lumber Company Photograph Collection" link="https://www.lib.uidaho.edu/digital/plcphotos/" color="success" %}
 
 {% include feature/button.html text="Potlatch Historical Society Collection" link="https://www.lib.uidaho.edu/digital/phs/" color="success" %}
-
-
-
-
