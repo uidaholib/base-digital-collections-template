@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="trees76" %} 
 
-{% include feature/nav-menu.html sections="About the Collection;About the Book;About John B. Miller;" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Book;About John B. Miller" %}
 
 ## About the Collection
 
@@ -40,3 +40,4 @@ To learn more of Miller's story, listen to an interview from the [Latah County O
 {% include feature/button.html text="John B. Miller Oral History Interview" link="https://www.lib.uidaho.edu/digital/lcoh/people/miller_john.html" color="info" size="lg" %}
 
 [^1]: John B. Miller, *The Trees Grew Tall* (Publisher not identified, 1972).
+
