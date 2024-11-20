@@ -24,8 +24,6 @@ He returned to Moscow in 1919, briefly working on the city survey crew. From 192
 
 The photographs provide a careful documentary record of life, activities, and scenes in Moscow and nearby Latah County. Many of the images were copied from family photographs that would otherwise be inaccessible today. Researchers and students now have access to a remarkable historical record through Mr. Ott's generosity to the University of Idaho Library.
 
---Greg Schroeder, Contributing Writer.
+-- Greg Schroeder, Contributing Writer.
 
 {% include feature/image.html objectid="ott100" width="75" %}
-
-
