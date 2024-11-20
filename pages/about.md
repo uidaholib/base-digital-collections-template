@@ -50,4 +50,3 @@ For more information on the Tabor collection, please see the *[George W. Tabor P
 
 [^3]: Hanson, Nancy Lee. [George Tabor: The life and times of an original Wallace pioneer]({{ '/items/tabor0365.html' | relative_url }}), *Shoshone News Press.* {{ '/items/tabor0365.html' | absolute_url }}.  
 
-
