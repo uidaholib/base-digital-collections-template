@@ -11,7 +11,7 @@ features,Features,true,
 flight_line,Flight Line,true,
 aerial-type,Photograph Type,true,
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
+location,Location,true,,contentLocation
 latitude,Latitude
 longitude,Longitude
 source,Source

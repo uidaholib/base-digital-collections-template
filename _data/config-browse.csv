@@ -6,3 +6,6 @@ aerial-type,,true
 features,,,true
 flight_line,,,true
 identifier,,,true,Identifier
+county,,true
+region,,true
+features,,true
