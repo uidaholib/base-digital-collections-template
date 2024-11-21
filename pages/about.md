@@ -29,4 +29,3 @@ Aerial photography became a very useful tool for war efforts to show enemy movem
 {% include feature/image.html objectid="aerial370" width="75" %}
 
 Aerial photographs have been taken by commercial as well as state and national governmental sources, such as the U.S. Geological Service, Bureau of Land Management, National Park Service, and all branches of the military. Advances in geospatial technology have vastly improved the amount of data that can be collected and interpreted through aerial photography. 
-
