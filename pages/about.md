@@ -111,5 +111,3 @@ Another massive mine in the Coeur d’Alene Mining district was the Hecla Mining
 [^8]: Jack G. Peterson and Susan E. Skog, [*Profiles: A Portrayal of Idaho's Mining Industry*](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71127080850001451) (Boise: Idaho Mining Association, 198-), 6.
 
 [^9]: Jack G. Peterson and Susan E. Skog, [*Profiles: A Portrayal of Idaho's Mining Industry*](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71127080850001451) (Boise: Idaho Mining Association, 198-), 8.
-
-<div class="clearfix"></div>
