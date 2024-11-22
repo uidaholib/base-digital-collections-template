@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="lchsphotos22" %} 
 
-{% include feature/nav-menu.html sections="About the Collection;About Bovill;Sources;" %} 
+{% include feature/nav-menu.html sections="About the Collection;About Bovill;Sources" %}
 
 ## About the Collection
 
