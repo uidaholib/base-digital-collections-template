@@ -18,6 +18,13 @@ source-code: https://github.com/uidaholib/base-digital-collections-template
 digital-assets: https://www.lib.uidaho.edu/assets
 
 ##########
+# Search Setting
+#
+# set to true to use elastic search box in nav. Collection search.json must be added to the search Sources! Check config-search-index for configuration.
+# if collection is not in the index, leave blank to use local lunr search instead.
+central-search: 
+
+##########
 # SITE SETTINGS
 #
 # title of site appears in banner
@@ -28,7 +35,7 @@ tagline: Materials depicting the impact of the "Spanish Flu" on the University o
 # this description might appear in search result lists, keep around 160 characters max
 description: "In 1918, a virulent strain of influenza affected approximately 500 million individuals worldwide. The disease reached the University of Idaho in October of that year, prompting the university to cancel activities, enact a quarantine, and encourage the use of gauze face masks. The 1918 Flu Pandemic Collection brings together correspondence, reports, news articles, oral histories, and other materials that highlight the local response to the 1918 pandemic."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: University of Idaho;history;flu
+keywords: University of Idaho; history; flu pandemic
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Courtney Berge
 
