@@ -3,9 +3,10 @@
 #
 # set all PDFs to index full-text?
 pdf-full-text: true
-# alternatively, use a "full-text" column in the metadata with "true" to select items individually
+# alternatively, use a "extract_full_text" column in the metadata with "true" to select items individually or opt out with "false"
+# individual items can be excluded by using a column named "search_index" and value set to "false"
 ---
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.title' -%}
+{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.title and item.search_index != "false"' -%}
 {%- assign raw-dates = items | map: 'date' | compact | uniq -%}
 {%- capture clean-years -%}{% for date in raw-dates %}{% if date contains "-" %}{{ date | strip | split: "-" | first }}{% elsif date contains "/" %}{{ date | strip | split: "/" | last }}{% else %}{{ date | strip }}{% endif %}{% unless forloop.last %};{% endunless %}{%- endfor -%}{%- endcapture -%}
 {%- assign date-range = clean-years | remove: " " | split: ";" | uniq | sort  -%}
@@ -34,9 +35,9 @@ pdf-full-text: true
 [ {% for item in items %}
     { {% for f in fields %}{% if item[f.field] %}{{ f.dcterm | jsonify }}: {{ item[f.field] | jsonify }},{% endif %}{%- endfor -%}
     {% if item.image_thumb %}"thumb": "{{ item.image_thumb | absolute_url }}",{%- endif -%}
-    {% if item.object_transcript %}"transcript": {% assign transcript_type = item.object_transcript | slice: 0,1 %}{% if transcript_type == '/' %}{% assign transcript_location = item.object_transcript | remove_first: '/' %}{% assign transcript = site.pages | where: 'path', transcript_location | first %}{{ transcript.content | markdownify | strip_html | jsonify | replace: '\n', ' ' }}{% else %}{{ item.object_transcript | markdownify | strip_html | jsonify | replace: '\n', ' ' }}{% endif %},{%- endif -%}
+    {% if item.object_transcript and item.extract_full_text != 'false' %}"transcript": {% assign transcript_type = item.object_transcript | slice: 0,1 %}{% if transcript_type == '/' %}{% assign transcript_location = item.object_transcript | remove_first: '/' %}{% assign transcript = site.pages | where: 'path', transcript_location | first %}{{ transcript.content | markdownify | strip_html | normalize_whitespace | jsonify }}{% else %}{{ item.object_transcript | markdownify | strip_html | normalize_whitespace | jsonify }}{% endif %},{%- endif -%}
     {% if item.object_location %}"file": "{{ item.object_location | absolute_url }}",{%- endif -%}
-    {% if page.pdf-full-text == true and item.format contains 'pdf' %}"text": true,{% elsif item.full-text == true %}"text": true,{%- endif -%}
+    {% if page.pdf-full-text == true and item.format contains 'pdf' and item.extract_full_text != 'false' %}"extract_full_text": true,{% elsif item.extract_full_text == 'true' %}"extract_full_text": true,{%- endif -%}
     "collectionid": "{{ site.baseurl | slugify }}",
     "objectid": "{% if item.parentid %}{{ item.parentid }}#{% endif %}{{ item.objectid }}",
     "url": "{{ '/items/' | absolute_url }}{% if item.parentid %}{{ item.parentid }}.html#{{ item.objectid }}{% else %}{{ item.objectid }}.html{% endif %}" }{% unless forloop.last %},{% endunless %}{% endfor %}

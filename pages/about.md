@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="expforsav276" %} 
 
-{% include feature/nav-menu.html sections="About the Collection" %}
-
 ## About the Collection
 
 The Experimental Forest and Savenac Nursery Photo Archive contains photographs related to or depicting the establishment of two Forest Service Experimental Forests in north Idaho, Priest River and Deception Creek, and the Savenac Nursery in Montana. These images were taken over almost 80 years, from 1910 to 1989, and depict the people, places, and machinery of forest workers in Northern Idaho and Northwestern Montana.
