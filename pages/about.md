@@ -61,4 +61,3 @@ The physical collections are held by [Special Collections and Archives](https://
 [^9]: Ibid.
 
 [^10]: “Marguerite Laughlin, 84, Moscow Businesswoman.” *The Lewiston Tribune*, January 4, 1993, [https://lmtribune.com/obituaries/marguerite-laughlin-moscow-businesswoman/article_0a4f0e30-138f-5e02-856a-c926a91b624a.html](https://lmtribune.com/obituaries/marguerite-laughlin-moscow-businesswoman/article_0a4f0e30-138f-5e02-856a-c926a91b624a.html). (Archived: [https://perma.cc/R9VC-FF4G](https://perma.cc/R9VC-FF4G))
-
