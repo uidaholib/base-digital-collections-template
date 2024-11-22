@@ -7,8 +7,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="silver-gold011" %} 
 
-{% include feature/nav-menu.html sections="About the Collection" %}
-
 ## About the Collection
 
 There are a handful of treasures on display in the President’s Office in the Administration Building on University of Idaho’s Moscow campus. Along with many special objects like the Centennial Mace, there is a small and beautiful jewelry box glittering behind glass. Known as the Silver and Gold Book for its style and materials, the box is best appreciated when viewed from many angles. It is a precious piece of University history, however, and so opportunities to inspect the Silver and Gold Book are limited. That is why the University of Idaho Library has created this digital collection of high resolution photographs, to highlight intricate details and provide background information about a unique and important piece of U of I’s past.  
