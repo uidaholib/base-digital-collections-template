@@ -32,5 +32,3 @@ Postcards originated in Europe in the late nineteenth century as an inexpensive 
 - Hathaway, William. [Idaho Falls: 15 Historic Postcards](http://uidaho.worldcat.org/title/idaho-falls-15-historic-postcards/oclc/268794654&referer=brief_results). Charleston, SC: Arcadia Pub, 2008.
 - Lear, B. A. (January 31, 2008). [Wishing They Were There: Old Postcards and Library History](http://www.jstor.org/stable/25549458). Libraries & the Cultural Record, 43, 1, 77-100.
 - Prochaska, David, and Jordana Mendelson. [Postcards: Ephemeral Histories of Modernity](http://uidaho.worldcat.org/title/postcards-ephemeral-histories-of-modernity/oclc/367422770&referer=brief_results). University Park, Pa: Pennsylvania State University Press, 2010.
-
-
