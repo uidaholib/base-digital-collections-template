@@ -10,13 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="craigmountain042" %}
 
-### About the Digital Collection 
+## About the Digital Collection 
 
 This digital collection consists of blueprints, maps, and correspondence from MG 12, the Craig Mountain Lumber Company Records collection. The items are from Box 01 of the collection, held by [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/).  
 
 {% include feature/image.html objectid="craigmountain046" width="75" %}
 
-### About Craig Mountain Lumber Company
+## About Craig Mountain Lumber Company
 
 In 1909, a group of Wisconsin pioneers built the Craig Mountain Lumber Company and sawmill in Lewis County, Idaho with the company’s head office located in Spokane, Washington. The company also constructed a railroad to connect to the Camas Prairie Line. Production ensued and the first log was sawed on July 4, 1910, and a new town was built near the mill. The town was later consolidated with Winchester, Idaho. 
 
