@@ -25,4 +25,3 @@ Robert E. Higgins was a scientist and an artist. Born in Boise, Professor Higgin
 {% include feature/image.html objectid="higgins7" width="75"%}
 
 As an agronomist, Professor Higgins specialized in the control of noxious weeds. As a photographer, he specialized in landscapes and portraits. During his lifetime, Professor Higgins’ photographs were accepted in over 70 juried international salons, and he had one-artist exhibitions in Idaho, Washington, and California. He was active in the Photographic Society of America, Snake River Camera Club, Idaho Falls Camera Club, and the Boise Photographic Society. He and wife Miriam reared three children, Roberta, Janette, and Brian. Professor Higgins passed away January 24th, 2000. 
-
