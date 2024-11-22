@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection;References;" %}
+{% include feature/nav-menu.html sections="About the Collection;References" %}
 
 ## About the Collection
 
@@ -24,12 +24,8 @@ William Allen ("Al") Stonebraker was born in Aden, California, in 1879 to parent
 
 Many of Al Stonebraker's businesses revolved around the Idaho [mining]({{ '/browse.html#mining' | relative_url }}) boom at the turn of the twentieth century. The Chamberlain Basin homestead was originally built as a working ranch to supply beef to the mining communities along the Salmon River, and was one of the only ranches to exist after the mining boom in nearby Thunder Mountain. The Stonebraker property also included a mining prospect nearby for copper, gold and silver.
 
-<br>
-
 <div class="row justify-content-md-center">
-
 <iframe src="https://www.google.com/maps/d/embed?mid=zMkSt552ZeaQ.kUIwGBWg0b_Q" class="col-md-10" marginheight="10" width="500" height="500"></iframe>
-
 </div>
 
 <br>
@@ -73,3 +69,4 @@ Some of Al Stonebraker's siblings occur within this history. A few facts worth m
 - Federal Writers' Project. Idaho, *Idaho, a Guide in Word and Picture*. (Caldwell, Idaho: Caxton Printers, 1937).
 - *Mining Reporter*, 1902-1904.
 - Newspaper articles from the *Spokesman Review* and *Spokane Daily Chronicle*.
+
