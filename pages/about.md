@@ -11,6 +11,7 @@ credits: true
 {% include feature/jumbotron.html %} 
 
 ## About the {{site.title}}
+
 {% include feature/image.html objectid="whitepine40" width="25" %}
 
 ### The Photographs
@@ -27,5 +28,3 @@ The book is a culmination of a six year research project by two retired forester
 In compiling the date for White Pine, Strong and Webb spent many tedious hours copying information on sawmill locations and output, mill and lumberyard fires, and other historical material from old newspapers and lumber trade journals. They also spent many interesting hours interviewing old-timers--former lumbermen--who were active in Northern Idaho in the early days of lumbering. 
 
 Copies of *White Pine: King of Many Waters* may be found at the University of Idaho Library. 
-
-<div class="clearfix"></div>
