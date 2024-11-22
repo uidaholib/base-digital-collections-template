@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="fisher270" %} 
 
-{% include feature/nav-menu.html sections="About the Collection;Brief History of the Nez Perce War of 1877;About Stanton Gilbert Fisher;Sources;" %}
+{% include feature/nav-menu.html sections="About the Collection;Brief History of the Nez Perce War of 1877;About Stanton Gilbert Fisher;Sources" %}
 
 ## About the Collection
 
