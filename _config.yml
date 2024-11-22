@@ -18,6 +18,13 @@ source-code: https://github.com/uidaholib/base-digital-collections-template
 digital-assets: https://www.lib.uidaho.edu/assets
 
 ##########
+# Search Setting
+#
+# set to true to use elastic search box in nav. Collection search.json must be added to the search Sources! Check config-search-index for configuration.
+# if collection is not in the index, leave blank to use local lunr search instead.
+central-search: 
+
+##########
 # SITE SETTINGS
 #
 # title of site appears in banner
@@ -28,7 +35,7 @@ tagline: Materials from the life of Mark B. Calnon, World War II Pilot and Priso
 # this description might appear in search result lists, keep around 160 characters max
 description: "The Mark Brooks Calnon Collection consists materials from 2nd. Lt. Mark Brooks Calnon, including memorabilia relating to his experiences in World War II as a pilot and prisoner of war. The collection includes photographs, documents, an oral history (audio/video/transcript), and a copy of Calnon's book, Some Lived, Some Died It Was Understood."  
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: photographs, pow, wwii, telegram, oral history, letters
+keywords: photographs; prisoner of war; WWII; oral history; letters
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 

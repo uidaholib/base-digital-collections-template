@@ -3,7 +3,7 @@ title: Materials
 layout: cloud
 permalink: /materials.html
 cloud-fields: site.data.theme.subjects-fields
-button: outline-payette-blue
+button: outline-clearwater
 ---
 
 ## Browse Materials
