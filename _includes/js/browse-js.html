@@ -11,7 +11,7 @@ var items = [
     {% for item in items %}
     { {% for f in fields %}{% if item[f.field] %}{{ f.field | escape | jsonify }}:{{ item[f.field] | strip | jsonify }}, {%- endif -%}{%- endfor -%}
         {% if item.image_thumb %}"img": {{ item.image_thumb | relative_url | jsonify }}, {%- endif -%} 
-        {% if item.display_template %}"template": {{ item.display_template | replace: "_"," " | jsonify }}, {%- endif -%}
+        {% if item.display_template %}"template": {{ item.display_template | jsonify }}, {%- endif -%}
         {% if item.format %}"format": {{ item.format | jsonify }}, {%- endif -%}
         {% if item.image_alt_text %}"alt": {{ item.image_alt_text | escape | jsonify }}, {%- endif -%}
         {% if item.sensitive %}"sensitive": {{ item.sensitive | jsonify }}, {% endif %}
@@ -20,7 +20,7 @@ var items = [
         "id":{{ item.objectid | jsonify }} }{% unless forloop.last %},{% endunless %}{%- endfor -%}
 ];
 
-{% include js/get-icon.js %}
+{% include helpers/get-icon.js %}
 
 /* function to create cards for each item */ 
 function makeCard(obj) {
@@ -83,7 +83,7 @@ function makeCard(obj) {
     if(obj.template && obj.template != "") {
         mediaIcon = getIcon(obj.template,obj.format,"hidden");
         card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(obj.template) + '">' + 
-        obj.template.toUpperCase() + ' ' + mediaIcon + '</a></small></p>';
+        obj.template.toUpperCase().replace("_"," ") + ' ' + mediaIcon + '</a></small></p>';
     }
     // view button
     card += '<hr><a href="' + itemHref + '" class="btn btn-sm btn-light" title="link to ' + obj.title + '">View Full Record</a>';
