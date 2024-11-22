@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Exhibit;World War II and Japanese Incarceration;The End of the War and Japan's Reconstruction" %} 
  
-# About the Exhibit
+## About the Exhibit
 
 December 7, 1941 the Japanese military bombed Pearl Harbor thus pulling the United States into World War II. Entering the war had drastic and unforeseen consequences on many living in the country. Not only were many people now preparing for war, but a sector of the population saw their rights infringed upon and were forced to relocate from their homes. Deemed a potential threat to the security of the United States, Italian and German immigrants, as well as those of Japanese ancestry living on the West Coast were forcefully relocated to incarceration and internment camps further inland, two of which were located in Idaho. Though Italian and German immigrants were also targeted, those of Japanese ancestry, including many American citizens, faced forced removal in larger numbers. 
 
@@ -128,4 +128,3 @@ Even before receiving President Morito's letter, the University of Idaho has had
 
 [^13]: [About the Borah Foundation](https://perma.cc/R6BT-7FMG), University of Idaho Borah Foundation & Symposium, https://www.uidaho.edu/class/borah/about. Accessed 22 October 2020.
 
-{:mt-4 border-top}
