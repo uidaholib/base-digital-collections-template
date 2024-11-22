@@ -10,7 +10,7 @@ credits: true
 
 # About the Collection
 
-{% include essay/marginnote.html id="cnr003" objectid="cnr003" text="University of Idaho: College of Forestry, Wildlife and Range Sciences 1909-1984, an Album"%} 
+{% include essay/marginnote.html id="cnr003" objectid="cnr003" text="University of Idaho: College of Forestry, Wildlife and Range Sciences 1909-1984, an Album"%}
 
 The [College of Natural Resources (CNR)](https://www.uidaho.edu/cnr){:target="_blank" rel="noopener"} has a long-standing history, beginning in 1909 and continuing to this present day. The College has drastically evolved during this time, initially beginning in 1909 as the Department of Forestry within the College of Agriculture, then transitioning into a School in 1917, and eventually becoming its own College in 1953. Alongside its various name changes during the expanse of 100+ years, CNR has reshaped its mission and services, thanks to the leadership and vision of its Deans.
 
