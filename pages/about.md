@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="lcheritage419" %} 
 
-{% include feature/nav-menu.html sections="About the Collection" %} 
-
 ## About the Collection
 
 The Latah County Common Heritage Collection was driven by funding from a National Endowment for the Humanities (NEH) [Common Heritage Grant](https://www.neh.gov/news/press-release/2015-04-20#:~:text=The%20National%20Endowment%20for%20the%20Humanities%20(NEH)%20today%20announced%20a,wider%20public%20and%20for%20posterity.) awarded to the University of Idaho Library in 2016. 
@@ -41,6 +39,3 @@ Many thanks to them as well.
 
 For more information about Latah County, visit the [Latah County Historical Society website](https://www.latahcountyhistoricalsociety.org/).
 For more information about the National Endowment for the Humanities (NEH), visit the [NEH website](https://www.neh.gov/).
-
-<div class="clearfix"></div>
-
