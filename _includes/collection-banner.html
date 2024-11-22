@@ -25,7 +25,7 @@
 </style>
 <div id="home-banner" class="container-fluid mb-0 p-0">
     <div id="home-title-box" class="position-relative" >
-        <a class="d-none d-md-block position-absolute top-0 end-0 p-3 liblogo-corner bg-dark bg-opacity-75" href="https://www.lib.uidaho.edu/" title="University of Idaho Library home" target="_blank" rel="noopener">
+        <a class="d-none d-md-block position-absolute top-0 end-0 p-3 liblogo-corner bg-dark bg-opacity-75" href="https://www.lib.uidaho.edu/digital/" title="University of Idaho Library Digital Collections">
             <img alt="University of Idaho Library" src="https://www.lib.uidaho.edu/media/digital/liblogo_transparent.png" >
         </a>
         <div class="p-2 text-center text-white bg-dark bg-opacity-75">
@@ -48,7 +48,7 @@
         </div>
         {% if site.organization-logo-banner %}
         <div class="col-md-2 d-none d-lg-block text-end">
-            <a class="btn btn-outline-light" href="{{ site.organization-link }}" title="{{ site.organization-name | escape }} home" target="_blank" rel="noopener">
+            <a class="btn btn-outline-light" href="{{ site.organization-link }}" title="{{ site.organization-name | escape }}">
                 <img class="img-fluid" src="{{ site.organization-logo-banner | relative_url }}" alt="{{ site.organization-name | escape }}" >
             </a>
         </div>
