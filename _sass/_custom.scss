@@ -16,3 +16,7 @@
 .btn-outline-primary, .btn-outline-pride-gold {
     color: #191919;
 }
+// tweak active color
+.dropdown-menu {
+    --bs-dropdown-link-active-bg: #5E48FF;
+}
