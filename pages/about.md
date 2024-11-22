@@ -54,5 +54,3 @@ The University of Idaho Library also holds an internment camp diary written in J
 More information regarding the diary can be found [here](http://www.lib.uidaho.edu/special-collections/dm/dm1997.htm). 
 
 The Shitamae Family Letters Collection which contains letters from the Mindioka Incarceration Camp can be found [here](https://www.lib.uidaho.edu/digital/shitamae/).
-
-<div class="clearfix"></div>
