@@ -18,6 +18,13 @@ source-code: https://github.com/uidaholib/base-digital-collections-template
 digital-assets: https://www.lib.uidaho.edu/assets
 
 ##########
+# Search Setting
+#
+# set to true to use elastic search box in nav. Collection search.json must be added to the search Sources! Check config-search-index for configuration.
+# if collection is not in the index, leave blank to use local lunr search instead.
+central-search: 
+
+##########
 # SITE SETTINGS
 #
 # title of site appears in banner
@@ -28,7 +35,7 @@ tagline: Photographs of plants from Northern Idaho and Washington, 1932-1938.
 # this description might appear in search result lists, keep around 160 characters max
 description: "This collection contains photographs taken by Thomas R. Ashlee and Geoffrey Coope of plants in Idaho and Washington. Some of the images in this collection were used in an educational display of local botany sponsored by Ashlee and Coope in 1933. The exhibit featured large glass photographic plates showcasing the flora of Latah County and greater North Idaho. It was displayed at the University of Idaho Library as a way to increase student interaction."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;washington;flora;plants;botany;photography;film;negatives;correspondence
+keywords: idaho; washington; flora; plants; botany; photography; negatives; correspondence
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: U of I Library Special Collections and Archives
 
