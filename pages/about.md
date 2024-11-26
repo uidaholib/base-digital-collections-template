@@ -8,21 +8,19 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/thayer/mg5792_018-007" %} 
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV" %}
 
-## About CollectionBuilder CSV
+## About this collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Sheldon Z. Thayer worked for Idaho Power and opened a photo studio in Hagerman, Idaho. He was know for large black and white framed landscapes of Idaho. Some were hand-colored by Vernice and signed S. Z. Thayer.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+This collection contains digitized copies of various photos by Thayer and some correspondence by the Thayer family.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+## Historical Note
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Sheldon Zadok Thayer was born on July 10, 1902 in Toledo, Oregon. Oreta Vernice (Averil) Thayer was born on April 22, 1905 in Falls City, Oregon. After their marriage, they moved their young family to Hailey, Idaho around 1935. The family consisted of Sheldon Zadok Thayer, Oreta Vernice (Averil) Thayer, their son, Averill Thayer, and their daughters, Virginia Walta Thayer, Joan Walta Thayer, and Janice Thayer. It also included Sheldon's mother, Effie Crosno Thayer.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+The family later moved to Hagerman, Idaho.  Sheldon died on July 22, 1988 and Vernice on December 2, 1998.
+
