@@ -1,5 +1,5 @@
 ---
-title: About
+title: Senator James McClure
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
