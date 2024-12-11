@@ -32,7 +32,7 @@ Themes of this digital collection include nature conservation and protection, en
 
 Anyone interested in further researching Senator McClure's life and career is invited to contact the University of Idaho Special Collections and Archives at libspec@uidaho.edu. 
 
-{% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/jam/small/mg400_682_19353_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/jam/small/mg400_172_6585-004" %} 
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV" %}
 
