@@ -10,6 +10,8 @@ credits: true
 
 James Albertus McClure was born on the 27th of December 1924 in Payette, Idaho. He was born to William Robertson McClure, Sr. and Marie Freehafer McClure. He was the third of four children. He was born following brothers William Jr. and Raymond, and in 1930 they were joined by younger sister Elizabeth. McClure joined the United States Navy during World War II after which he earned his J.D. degree from the University of Idaho in 1950. While attending the University of Idaho, he met Louise Miller of Nezperce, Idaho and they were married on the 23 September 1950. Following graduation, he returned to Payette and joined his father's law practice. From 1950 to 1956 he served as a prosecuting attorney of Payette County and from 1953 to 1966 as the city attorney for Payette. James and Louise had three children: Marilyn, Kenneth, and David. 
 
+{% include feature/image.html objectid="jam038" %}
+
 McClure served in the Idaho State Senate for three terms, 1961-1966. In 1966, he was elected to the United States House of Representatives, serving the 1st District of Idaho, winning reelection in 1968 and 1970. In 1972, Idaho elected McClure to the United States Senate, a position he held until 1991. His committee assignments included the House Interior and Insular Affairs Committees, the Senate Energy and Natural Resources Committee, the Interior Subcommittee of the Senate Appropriations Committee, the Senate Rules Committee, the Senate Republican Steering Committee, the Helsinki Commission on Human Rights, and the Senate Select Committee to investigate the Iran-Contra Affair.  
 
 Following his retirement from the Senate, McClure and his colleagues Jack Gerard and Tod Neuenschwander formed the consulting firm McClure, Gerard, & Neuenschwander, Inc., based in Washington, D.C.  
@@ -17,6 +19,8 @@ Following his retirement from the Senate, McClure and his colleagues Jack Gerard
 During his time at the University of Idaho, Senator McClure was a Vandaleer and a member of Sigma Nu fraternity. He was inducted into the University of Idaho's Alumni Hall of Fame in 1974. He received the Distinguished Idahoan Award from the University in 1995 and that same year the newly constructed home of the College of Mines and Earth Resources was dedicated as the James A. McClure Hall.  
 
 Both Senator and Mrs. McClure served on the University of Idaho Foundation and on the College of Law Advisory Board, as members of the College of Letters, Arts and Social Sciences Advancement Council and as members of the Lionel Hampton International Jazz Festival Advisory Board. In 2001, the James and Louise McClure Endowment for the Sciences and Public Policy was created. 2005 saw them receiving the U of I President's Medallion in recognition of their contributions to the cultural, economic, scientific and social advancement of Idaho and its people, and their exceptional service to the state and nation. They served as the grand marshals for the University of Idaho Homecoming parade in 2007 and that same year were recognized by the University for their significant contributions by the renaming of the Bureau of Public Affairs Research to the James A. and Louise McClure Center for Public Policy Research.  
+
+{% include feature/image.html objectid="jam039" %}
 
 McClure and his wife, Louise, made their retirement home in Boise, Idaho, until his death in 2011. Louise McClure died in 2021.  
 
