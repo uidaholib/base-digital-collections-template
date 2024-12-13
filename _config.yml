@@ -22,7 +22,7 @@ digital-assets: https://www.lib.uidaho.edu/assets
 #
 # set to true to use elastic search box in nav. Collection search.json must be added to the search Sources! Check config-search-index for configuration.
 # if collection is not in the index, leave blank to use local lunr search instead.
-central-search: 
+central-search: true
 
 ##########
 # SITE SETTINGS
