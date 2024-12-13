@@ -30,10 +30,10 @@ central-search:
 # title of site appears in banner
 title: Senator James McClure
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Sampling of materials relating to Senator James McClure
+tagline: Sampling of materials relating to Senator James McClure.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Sampling of materials relating to Senator James McClure.
+description: The Senator James McClure digital collection, developed in recognition of Senator McClure's 100th birthday, includes a selection of materials from the University of Idaho Special Collections and Archives that reflect the life and career of Senator McClure.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho; history; politics
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
