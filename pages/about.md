@@ -8,7 +8,9 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 {% include feature/jumbotron.html objectid="jam042" %}
+
 ## About the collection
+
 This digital collection, compiled in recognition of Senator McClure's 100th birthday, includes a selection of materials from the University of Idaho Special Collections and Archives' collections related to Senator McClure, primarily the <a href="https://archiveswest.orbiscascade.org/ark:80444/xv95388">James A. McClure papers</a> and the <a href="https://archiveswest.orbiscascade.org/ark:80444/xv927544">Senator James A. McClure collection</a>.  Senator McClure began donating his political papers to the University of Idaho Special Collections and Archives following his retirement in 1990. Additional materials have been donated in the time since. 
 
 
@@ -17,6 +19,7 @@ This digital collection, compiled in recognition of Senator McClure's 100th birt
 Themes of this digital collection include: nature conservation and protection, specifically related to the creation of Hells Canyon National Recreation Area; energy; McClure's senatorial duties and relations with constituents; and McClure's post-senatorial career. McClure's contributions to the funding and development of the University of Idaho are also highlighted.  
 
 ## Senator James McClure: a brief biography
+
 James Albertus McClure was born on the 27th of December 1924 in Payette, Idaho. He was the third of four children born to William Robertson McClure, Sr. and Marie Freehafer McClure. McClure joined the United States Navy during World War II after which he earned his J.D. degree from the University of Idaho in 1950. While attending the University of Idaho, he met Louise Miller of Nezperce, Idaho while they were both performing with the Vandaleers. James proposed in February 1950 and the two were married on the 23 of September 1950. 
 
 Following graduation, he returned to Payette and joined his father and grandfather's law practice. From 1950 to 1956 he served as a prosecuting attorney of Payette County and from 1953 to 1966 as the city attorney for Payette. James and Louise had three children: Marilyn, Kenneth, and David. 
@@ -41,14 +44,11 @@ McClure and his wife, Louise, made their retirement home in Boise, Idaho, until 
 
 {% include feature/image.html objectid="jam039" %}
 
-
 Anyone interested in further researching Senator McClure's life and career is invited to contact the University of Idaho Special Collections and Archives at <libspec@uidaho.edu>. 
 
 ## Sources
 
-1: [James A. McClure](https://perma.cc/5XZZ-4LZW), James A. and Louise McClure Center for Public Policy Research, retrieved 11 December 2024.
-
-2: [James A. McClure papers finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv95388), University of Idaho Special Collections and Archive, retrieved 11 December 2024.
-
-3: [Senator James A. McClure collection finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv927544), University of Idaho Special Collections and Archive, retrieved 11 December 2024.
+- [James A. McClure](https://perma.cc/5XZZ-4LZW), James A. and Louise McClure Center for Public Policy Research, retrieved 11 December 2024.
+- [James A. McClure papers finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv95388), University of Idaho Special Collections and Archive, retrieved 11 December 2024.
+- [Senator James A. McClure collection finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv927544), University of Idaho Special Collections and Archive, retrieved 11 December 2024.
 
