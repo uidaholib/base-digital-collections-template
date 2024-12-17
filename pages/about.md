@@ -32,7 +32,7 @@ In an era of entrenched, seemingly mutually-exclusive, partisan politics, respec
 To address these intriguing albeit ambitious questions you're invited to take a journey through a series of talks and performances, exhibits and readings, interactive discussions and experiences that occurred throughout the Fall and Spring semesters of 2011-12. Our Humanities Exploration will draw from the university - its students and faculty - to help inform and celebrate the university - its students and faculty - and beyond. Let's see what awaits. I'm honored to be your guide.
 
 {% endcapture %}
-{% include feature/blockquote.html quote=quote speaker="Rodney Frey, Distinguished Humanities Professor" %}
+{% include feature/blockquote.html text=quote speaker="Rodney Frey, Distinguished Humanities Professor" %}
 
 ## A Digital Collection of Events
 
