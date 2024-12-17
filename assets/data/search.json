@@ -35,7 +35,7 @@ pdf-full-text: true
 [ {% for item in items %}
     { {% for f in fields %}{% if item[f.field] %}{{ f.dcterm | jsonify }}: {{ item[f.field] | jsonify }},{% endif %}{%- endfor -%}
     {% if item.image_thumb %}"thumb": "{{ item.image_thumb | absolute_url }}",{%- endif -%}
-    {% if item.object_transcript and item.extract_full_text != 'false' %}"transcript": {% assign transcript_type = item.object_transcript | slice: 0,1 %}{% if transcript_type == '/' %}{% assign transcript_location = item.object_transcript | remove_first: '/' %}{% assign transcript = site.pages | where: 'path', transcript_location | first %}{{ transcript.content | markdownify | strip_html | jsonify | replace: '\n', ' ' }}{% else %}{{ item.object_transcript | markdownify | strip_html | jsonify | replace: '\n', ' ' }}{% endif %},{%- endif -%}
+    {% if item.object_transcript and item.extract_full_text != 'false' %}"transcript": {% assign transcript_type = item.object_transcript | slice: 0,1 %}{% if transcript_type == '/' %}{% assign transcript_location = item.object_transcript | remove_first: '/' %}{% assign transcript = site.pages | where: 'path', transcript_location | first %}{{ transcript.content | markdownify | strip_html | normalize_whitespace | jsonify }}{% else %}{{ item.object_transcript | markdownify | strip_html | normalize_whitespace | jsonify }}{% endif %},{%- endif -%}
     {% if item.object_location %}"file": "{{ item.object_location | absolute_url }}",{%- endif -%}
     {% if page.pdf-full-text == true and item.format contains 'pdf' and item.extract_full_text != 'false' %}"extract_full_text": true,{% elsif item.extract_full_text == 'true' %}"extract_full_text": true,{%- endif -%}
     "collectionid": "{{ site.baseurl | slugify }}",
