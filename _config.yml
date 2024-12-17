@@ -79,7 +79,7 @@ organization-logo-nav: https://www.lib.uidaho.edu/media/digital/liblogo_white.pn
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
-exclude: [docs/, Rakefile, README.md, LICENSE, CODEOWNERS, utilities/]
+exclude: [docs/, Rakefile, rakelib/, README.md, LICENSE, CODEOWNERS, utilities/]
 # compress CSS output
 sass:
   style: compressed
