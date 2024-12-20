@@ -16,13 +16,13 @@ This digital collection, compiled in recognition of Senator McClure's 100th birt
 
 {% include feature/image.html objectid="jam025" width="50" %}
 
-Themes of this digital collection include: nature conservation and protection, specifically related to the creation of Hells Canyon National Recreation Area; energy; McClure's senatorial duties and relations with constituents; and McClure's post-senatorial career. McClure's contributions to the funding and development of the University of Idaho are also highlighted.  
+The digital collection highlights McClure's involvement with nature conservation and energy projects. It also showcases McClure's senatorial duties and relations with constituents, his post-senatorial career, and his contributions to the funding and development of the University of Idaho are also highlighted.  
 
 ## Senator James McClure: a brief biography
 
-James Albertus McClure was born on the 27th of December 1924 in Payette, Idaho. He was the third of four children born to William Robertson McClure, Sr. and Marie Freehafer McClure. McClure joined the United States Navy during World War II after which he earned his J.D. degree from the University of Idaho in 1950. While attending the University of Idaho, he met Louise Miller of Nezperce, Idaho while they were both performing with the Vandaleers. James proposed in February 1950 and the two were married on the 23 of September 1950. 
+James Albertus McClure was born on the 27th of December 1924 in Payette, Idaho. He was the third of four children born to William Robertson McClure, Sr. and Marie Freehafer McClure. McClure joined the United States Navy during World War II, and then earned his J.D. degree from the University of Idaho in 1950. While attending the University of Idaho, he met Louise Miller of Nezperce, Idaho while they were both members of the Vandaleers. James proposed in February 1950 and the two were married on the 23 of September 1950. 
 
-Following graduation, he returned to Payette and joined his father and grandfather's law practice. From 1950 to 1956 he served as a prosecuting attorney of Payette County and from 1953 to 1966 as the city attorney for Payette. James and Louise had three children: Marilyn, Kenneth, and David. 
+Following graduation, James returned to Payette and joined his father and grandfather's law practice. From 1950 to 1956 he served as a prosecuting attorney of Payette County and from 1953 to 1966 as the city attorney for Payette. James and Louise had three children: Marilyn, Kenneth, and David. 
 
 {% include feature/image.html objectid="jam038" %}
 
