@@ -51,4 +51,5 @@ Anyone interested in further researching Senator McClure's life and career is in
 - [James A. McClure](https://perma.cc/5XZZ-4LZW), James A. and Louise McClure Center for Public Policy Research, retrieved 11 December 2024.
 - [James A. McClure papers finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv95388), University of Idaho Special Collections and Archive, retrieved 11 December 2024.
 - [Senator James A. McClure collection finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv927544), University of Idaho Special Collections and Archive, retrieved 11 December 2024.
+- [Idaho Experience: James McClure: Idaho's Humble Giant]( https://video.idahoptv.org/video/james-mcclure-idahos-humble-giant-tsffaq/), Idaho Public Television, retrieved December 2024.
 
