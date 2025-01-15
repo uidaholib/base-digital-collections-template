@@ -6,7 +6,8 @@ date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 date is approximate,Approximated Date
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
+location,Location,true,,,contentLocation
+features,Features,true,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 collection,Source Collection

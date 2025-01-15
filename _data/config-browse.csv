@@ -3,4 +3,5 @@ date,Date,,,Date
 creator,Photographer,,,
 subject,,true
 location,,true
+features,Features,true
 identifier,,,true,Identifier
