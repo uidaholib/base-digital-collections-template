@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: demo_001
+featured-image: https://objects.lib.uidaho.edu/mosher/moshercover2.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
@@ -40,8 +40,8 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 # MAP PAGE
 #
 # see _data/map-config.csv for field display options
-latitude: 35.51350288751135 #to determine center of map
-longitude: -80.11808087676253 #to determine center of map
+latitude: 38.28265414943063 #to determine center of map 
+longitude: -80.83118857226995 #to determine center of map
 zoom-level: 6 # zoom level for map 
 map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery, OpenStreetMap_Mapnik
 map-search: true # not suggested with large collections
