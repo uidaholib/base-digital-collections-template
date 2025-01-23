@@ -1,7 +1,0 @@
-I up & poked a long I kept traviling along be hing of our Regment More then five Miles I finley Come on to a old Camp ground whare thare hed ben a Reigment Camped the nite be for & thare was Some Mules that hed ben worne out & turned loose & I looked over tho ground & found some Straps [ ] bridled the best one of the mules & put on the blanksets & got on & Road along up with the Regment So I Road all the way through we was .26. days on the Road. I do not think we will be pade off before the first of March. Father you Most take good Care of the Sheep & keep every one & if I live to Come home I will have a good flock. fore they will be a grate helpe to me. Speshely if I Shood not Come out of the Army all Rite. & if I Should not live to Come home they will be a benefite to you. tell Mr. Kindell he to Save that 20. acers of land for me & I will by it of him. Mother [ ] Most write as Soon as you get this letter & write all of the news & let me now how you are a giting along & how much you owe. [ ] Most excuse me fore this time & I will try to do better next time. tell Clarrisa to write & Marah. Ambroes can tell them what to write. Ezra you Most be a good boy & George must be [ ] boy & not Sware nor quorel withe Ezra. So good by to you all fore this time. 
-
-Raycide Mosher. Co. A. 1st Mich= Eng= & Mecn Savannah, Georgia. 
-
-yours dear parents.
-
-Father eate ~~tow~~ two or three fride Cakes for me will you next bach

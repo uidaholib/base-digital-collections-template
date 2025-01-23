@@ -1,5 +1,0 @@
-Cartersville Georga September. 28. 1864
-
-Dear Father & Mother,
-
-I Set down with plesure to write a fue lines to you. I am well at presant & I hope thes fue lines will find you all in good helth. I am to Cartersville now 40 Miles from Alanta but the Most of our Ridgement has gone to alanta  all but a fue that was not able to march & we are a going in a fue days on the Cars  we are agoing to moove every thing the Sick & the Curnel & all are agoing to alanta with in five or Six miles of the place. My helth is better then it was when I first Come to the Compney from bridgeport. I way one hundred & 34. My general wate is one hundred & .40. We have not ben pade of yet. but I think we will be pade when we get Mooved. we do not get much to eat now but Sowbeley & bread Coffee & tea. but I Can Stand it very well & live in hopes of better times. thare

@@ -1,3 +1,0 @@
-I shall be here I dont now how long un till I get able to dutey I Shall Stay till the middle of April if not longer I Shant be in no herry my time is pasing of let me be whare I will the 14 of April will be four monthes  I dont expect get eney pay un till go to my Reg= for the docter has got my diseriptive list he is to the Regment & they ~~do~~ may not pay after & do get back for 2. monts  Sume Say that thay dont pay un till we have ben in Six monts. but when they do pay I will Send I home the longer they wate the more thare will be. I expect they I wont get but 13 dollars a month 
-
-I hope that this ~~ware~~ war will Close up by next fall but it May last three year  the relble

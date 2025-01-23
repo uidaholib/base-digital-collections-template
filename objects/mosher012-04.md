@@ -1,1 +1,0 @@
-Mother you must Send me Some dride berries if you have got eney. Mother you must not worey about me for I Shall git along Some how  I like it better then i did here the wether is so worm. So good bey  Raycide Mosher  your Son
