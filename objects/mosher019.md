@@ -1,0 +1,7 @@
+Bridgeport Augast the 4. 1864
+
+Dear Sister,
+	
+I write a fue linds this morning to you  I am giting quite Smart and I hope thes fue lines will find you well. and the Rest of the folks. Clarisa here is a paper I Send to you to Read  I get a paper every fue days thare is a man that fetches them around every fue days & gives them to the Solders in the hospital Father they Say that wheat is worth two dollars a bushel  I hope it will keep so till you Can Sell ours  it will fetch quite a little bit of money i ~~wood~~ would like to be thare and drive fread & John and plow & get in a good pece of wheat this fall. Father you must keep the Seed of that wheat for I bleve that is a good kind. Mother you must drey Som fruit and if I Stay here this winter I want to have you Send me a box with Some buter and dride fruit this fall. O Sume of your butter would go so nice to eat on bread for we dont have none. you can Send a box of butter and fruit that will way 40. pounds for three dollars bey express. I must go to my Compney in a fue days & try it a gine and See if I Can Stanit If I Can git along till nest Spring I in hopes this ~~ware~~ war will be over bey then. I dont See how the South Can hold out eney longer if we get Richmon ~~it will~~ it will give them ~~puty~~ pretty hard one. wal I must Close my little letter. So good by to you all write ofton & I will try & do the Same. Mother you Must write two & Father must write. 	
+
+Raycide Mosher

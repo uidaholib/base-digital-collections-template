@@ -1,0 +1,3 @@
+Mother you must drey Som fruit and if I Stay here this winter I want to have you Send me a box with Some buter and dride fruit this fall. O Sume of your butter would go so nice to eat on bread for we dont have none. you can Send a box of butter and fruit that will way 40. pounds for three dollars bey express. I must go to my Compney in a fue days & try it a gine and See if I Can Stanit If I Can git along till nest Spring I in hopes this ~~ware~~ war will be over bey then. I dont See how the South Can hold out eney longer if we get Richmon ~~it will~~ it will give them ~~puty~~ pretty hard one. wal I must Close my little letter. So good by to you all write ofton & I will try & do the Same. Mother you Must write two & Father must write. 	
+
+Raycide Mosher
