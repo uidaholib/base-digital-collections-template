@@ -1,0 +1,3 @@
+Raleigh Northcarlina April 24. 1865
+
+Dear Sister, & all the Rest of the folks, I Reseved your kind & welcom letter & was very glad to here that you are well. I am well harty as can be. I got your letter last night & was very glad it was a big one & I will try to Satisfy you all if I can all though I am Slow & hard to ~~Complise~~ Acomplish eney thing & I am Setting on my bunk writing on my nees I have Jest ate my dinner & at two o clock we have to drill untill four. we are Camped nere Raleigh the Capital of Northcarlina it is Small place about like lancing our Camp is in a nice little pine grove we heve Clende the ground off nice & I expect this will be the Camp we will haft to polece

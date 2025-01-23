@@ -1,0 +1,1 @@
+this or not but i hope that you can  Ella livs up North Whar She did when you was hear. The boys ar all singel yet and ar wilen to see to Mother and the famley and to keep them to geather. for it was pa wishes. now ant adline i want you to rite often to us for we ar so lonley
