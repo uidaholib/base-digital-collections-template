@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Bridgeport July the 29. 1864
 
 Dear Sister,

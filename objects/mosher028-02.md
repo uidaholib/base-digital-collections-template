@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 I have Sent home 40 dollars by Dave Livingston he lives in Spring port nere James preston  I mite went back in the Convelast camp to Chattanooga but I do not like to go back in the Rear I hed drother be with the Compeney. you may not here from me untill Spring you must keep up good courige all of you fore I beleve the thing will Come all Rite one of thes days. I do not like to a Round thes Convelest Camps & hospitals fore they have a good dele of duty to do. I am very Sorry that I Sent fore a box but never mind I will get along my helth is very good now & I think I will be better if keep with the Regiment. I think the war will be over by next Spring we will git plenty to eat

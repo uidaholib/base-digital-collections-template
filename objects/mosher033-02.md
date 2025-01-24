@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 We heve not hed much fiting the army gest be fore we got to goldsboro Generl Shermon fit hard one half day be fore they drove them back  we was Rite in Site of the fite our Men throud up brest works & we Remaned in them 2 days put up our tents but we did not have Much to eat 2 day or 3 day but pop Corn & meat. the Rebels are a bout plade out I think. We Shant Stay here long then we are going to Richmond Verginia. General Grant is thare & Shirmon is going to help him, the 20. Core 15th. Core 17. Core 14. Core they go through the State in 3 Collams eat up & disstroy every thing & burn bildins fences to Fayetteville we tore down Some large brick bildins & Some of the way tore up Railrode. Generl Shirmon Says this war will end in ~~fore~~ four Monts from now. I hope Sooner.

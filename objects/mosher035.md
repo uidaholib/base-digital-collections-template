@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Goldsberro North Carlina April 6.
 
 Dear Mother,

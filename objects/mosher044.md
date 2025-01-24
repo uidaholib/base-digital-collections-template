@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 [undated]
 
 Dear Sister Clarrissa Mosher,

@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Racide Mosher
 
 Febuary the 20. 1864

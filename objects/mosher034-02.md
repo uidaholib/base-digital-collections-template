@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 Mother you wrote that Jemes preston was going to Menisota to by a farm & that he wanted you to Sell out and go to. Father you Can Sell the place & go I think it is a good Contery go out thare & by land anuf for us both thare lots of praie land & you want to by nere Some timber if you Can by Cheap by about 3 hundred acers. I want one hundred & fifty acers will make me a good farme. but be Shure to by the land nere the timber & a bout one hundred acers of timber & by nere uncle Jemes. I hed Jest as lives you wood go as not for I want to git out of that water hole/black bird hole. & then the nighbors. It may be late to go now but I gess not if James gone you Can go gest as well

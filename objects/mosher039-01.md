@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Louisville June the .29. 1865
 
 Dear Sister.. I Set down to improve my time a fue Moments in writing to you to let you now that I am well as useal & I hope thes fue lines will you well & the rest of the folkes. Clara I was down town ~~town~~ to day & I got My like ness takon & I will Send it in this letter I do not thin it is So good a wone as the one to home but it looks very well I heve hed my hair Shingeld Sence heve ben in the Army well Clara you must excuse me for this time for I Cant write Much this time for I am in a hurry for we are a going to moove to morrow it is Most knight now. we are going to knashville tennessee 180 miles

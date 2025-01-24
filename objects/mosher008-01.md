@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Nashville April the 17th. 1864
 
 Dear Parents,

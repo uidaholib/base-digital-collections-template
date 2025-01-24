@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 put on the box like this Raycide Mosher Co. A. 1st Mich= Eng= & Mech= Atlanta Georga in Care of Cap. J.W. Williamson

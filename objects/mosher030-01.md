@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 [N.B. A photograph was enclosed in this letter and a portion of the image remained on the paper obstructing the writing]
 
 Savannah, Ga. January 15th. 1865

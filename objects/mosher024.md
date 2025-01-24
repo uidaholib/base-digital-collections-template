@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Cartersville Georga September. 28. 1864
 
 Dear Father & Mother,

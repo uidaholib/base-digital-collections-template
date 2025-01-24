@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Claria the letter you wrote is first Rate writing you improve very fast. the boys Spend a grate dele of money Some of them hant got over being tite yet but it dos not truble me eney for I do not drink I pour it down you now how that is. & as fore Smoking I do a heap of I Recion  
 
 Clarisa I ~~will~~ wish you would git your like ness takon & Send to me  

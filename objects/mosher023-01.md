@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Dansville Gorga September the 18th. 1864
 
 Dear Father & Mother,

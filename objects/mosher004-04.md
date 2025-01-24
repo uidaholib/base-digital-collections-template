@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 Railrode thare is foure Compneys here to gether. Co. A. F. G. H. and thare is a Ridgment of negroes not fer of & there is a regment of Cavery back from whare we ~~Come~~ mooved from  we are rite in the woods  the wether is Cold here now now in is Cold nights the ground freezes Sume. Tennessee is a hiley & maunttanios Contery and fool of rocks thare is Some plow land in the valeys but I had drother have our place the whole of tennessee & be blidge to live here  the land the most of in wont rase

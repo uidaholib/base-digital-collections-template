@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Alma April. the 1 1889
 
 Dear aunt and unkel

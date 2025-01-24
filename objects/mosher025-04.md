@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 by male the box & things 30. or 40. pounds will be hevey a nuf. 
 
 ten pounds of butter 

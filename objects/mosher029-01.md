@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 December the .18. 1864
 
 Dear Parents.

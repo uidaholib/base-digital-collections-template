@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 tow weeks  thare is Some that has ben here three weeks. & it is to late now to get to my Compney to get pade this pay day first of September So I will do with out till next time. So I must stay Contented. My pardner ~~has ben~~ that I bunk with Sayes the way is to keep ~~quite~~ quiete is the way to do & they will Send when they get Redy. So I will Stay in my little dog tent & make my Self Contented  I expect thare is Some letters for me to the Co. & i heve not herd from you Sence I Sent the 25 dollars but if you answer this direct to the Compney them that wrote to the hospital they will be Sent to the Co. I herd that wheat is two dollars a bushal. Father you must git Some Cut for my Sheep & git along

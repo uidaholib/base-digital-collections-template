@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Bridgeport Augast the 4. 1864
 
 Dear Sister,

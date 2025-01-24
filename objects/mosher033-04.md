@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 for this time & bad Riting  So good by for this time Write Soon yours 
 
 Harry Mosher, Clarence 

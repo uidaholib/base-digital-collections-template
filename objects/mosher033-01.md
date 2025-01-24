@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 [N.B. Strikethroughs and corrections in pencil appear to have been a later addition by someone other than Raycide Mosher and are not reflected in this transcription.]
 
 March the .25. 1865.

@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 but my helth is good I have no direreh nor panes in the bowels  I heve ben all Rite Since I left Collumba Southcarlina I do not tend Sick Calls eney more & I Can eat most eney thing Shape of food. our food is hard tack very little meet Salt meet now & then kill a beef so poor that it wont make blubbers on the water when boilt. we hav Coffee Suger. that is all. we have ben Some days when on the March three days on parched Corn & meet but them hard times did not fect me atoll for I was not with the Regiment  I wood keep be hind with the train wagons train & the men hed to work hard go thrue water up to ther waste some times & fix Roads & help out the wagons. but I worked it

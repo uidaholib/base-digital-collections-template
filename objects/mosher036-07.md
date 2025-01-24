@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 from the first of January. 
 
 Wal I Shall haft to quit my Scribiling  Father take good Care of the Sheep Sheer them mark them thare is 35 to Shere this Spring if thare was 10 lames last Spring  I hope I Shall be thare to Se to them my Selfe be fore long.

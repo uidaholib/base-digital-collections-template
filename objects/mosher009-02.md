@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Rite Sholder & So down in to my right Sid  I have hade a pain in my head for three day & my back is very week & I hant worth nothing, I hope thes fue linds will find you all.
 
 Father I have sent you two pair of gray Shirts two pair of drowers one gray pair one red pair one of the Shirts & one pair of the drowers I have wore about two week  I drowed them when I was to the hospital two the Sanatry Commishion house  thay dont Cost eney thing So I rote a order & the docter sind it & I went and drowed Shirt & pair drowers and be fore I Came out of the hospital they Chenged docters & then I rote another order & went & and went & drowed another pair they are better then the army Shirts.

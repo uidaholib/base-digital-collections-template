@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 March tuesday the 29. 1864
 
 Nashville General Hospitle No. 19

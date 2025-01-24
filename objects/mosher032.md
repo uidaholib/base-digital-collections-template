@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Beufort, South Carlina. January 29, 1865
 
 Dear Father & Mother,

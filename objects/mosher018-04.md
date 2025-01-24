@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 hard here now and it is about half past three O Clock and the male hase gone out So I mite as well write this page down. but I will take a drink of ~~whi~~ wine first... 
 
 Clarisa here is a track for you to Reed. Saved for Nothing. 

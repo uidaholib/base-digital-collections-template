@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 thare is wards 1. 2. & 3 I am in the 2 ward  thare is one hundred & fiftey beds in a ward thay are all numbered My bed is .207. the lower room is a Cook room & tables set for them to eat that is well a nuf to go down Sters to eat but you dont haft to go dow a tall if we hant a mint to fore they fetch up the bred & butter & plates & put them on a table but the bred put it on the plates butter outher eatables & fetch it to your bed put it on a stand that sets to the head of the bed and we Can eat all we want if we are well a nuf  thay fetch tea & Coffee if a man is able to walk a round thay will fetch his vituls to him. the docter Comes once a day a round to your bed & see how you are & gives orders a man that out medeson fetches it your bed orr coll our number. Reed the other Sheet.

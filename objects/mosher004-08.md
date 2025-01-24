@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Raycide Mosher 
 
 1st Engrs & Mechs

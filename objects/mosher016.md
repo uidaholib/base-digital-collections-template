@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 [N.B. Although dated May, this letter was actually written in June]
 
 Bridgeport May 5th 1864

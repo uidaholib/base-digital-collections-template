@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Dear Sister and Brother
 
 I take my pen in hand to informe you that I am not very well at presant but hope that thes fue linds will find you all well and little Maud. I have ben sick fore a bout a week or more but not so sick be what I could eat and get a Round. It is Raney to day and wet so that I am blidge to keep in my tent so I thought that I would write a fue linds. 

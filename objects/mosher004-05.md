@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 eney thing  the timber is very good white oak and grubey and gravel and rocks  we have Muels here to work with draw in the per visions and the negroes have them to draw dire on the railrode. I have gest got my tent fixt up and a bed mad up from the ground  thare is 8. Men in a tent I whish that you Could have got my letter that I wrote the first of Febuary  I wrote to have you send my hat in the trunk  I must have me a hat the hats that the Men drow

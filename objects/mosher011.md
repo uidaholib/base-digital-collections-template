@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Tiney Crick. Alabama  May the 10th 1864
 
 Dear Father & Mother, Sisters & brothers

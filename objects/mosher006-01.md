@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 March the 29th 1864
 
 Dear Father & Mother

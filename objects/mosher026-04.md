@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Has a number of our boys that has ben Sick as well as my Sefl & Some of them died. & they ware once tuf & well. thare is Some old men here thare is ~~in~~ one in my tent that is 50 years old he name is dart. he lives to Grand Rapids. Price Witting lives ~~to~~ in Cullumby Jackson. Co. he lives nere old Osbrucks. he is 49  one other man ~~Solom~~ Solmon W. Phillips ~~lives~~ his home is in ~~Vermont~~ Vermont. Father we have not ben pade of yet but the boys think we will be pade when the old boys go out there time is out the .29 of this month  I wish you would Send me a fue Stamps in your next letter Write as Soon as you get this. Number it number one Same as this. Send the box to atlanta if you hand Send it for it may Come Sooner. So good by Father & Mother. Sisters & brothers yours W.R. Mosher
 
 I hed one letter from Clara She is well Send the butter, ten pound onions & dride apple ginger 1/2 pound bottle of pepper sauce, pail of persures. O it will be So good Mother

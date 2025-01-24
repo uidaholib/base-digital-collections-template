@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 I wonder if Morier got my letter I wrote a letter to her the time Clarisa wrote for her I direct it to Marier Austin Albion Calhoun, Mich and I wrote a letter to Austin along in March and I hant herd wether they have got them or not  So if they are home puty ofton they Can here from me for I heve not hed no truble in Sending them bane. I dont want them to take my letters out of the post office that I Write home. 
 
 I think like a nuf this war will be over this fall or next Spring I hope the wheat will turn out well So that my half and the wool of from the Sheep and 40 dollars that you pade of the Mortage will pay you up on the Mortage I give you and then you Can pay the other Mortgage. I shall send you Some money every pay day pay you for taking

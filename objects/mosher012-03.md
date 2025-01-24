@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 Father when I send the money I wish you would go to docter hovey & tell him how I am & have him fix some medeson for the eresyplus & you Send it by Mc & send me a box of pills that is good to Clens the Sistem for I am billious

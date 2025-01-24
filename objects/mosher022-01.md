@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Dansville Gorga Augast 30. 1864
 
 Dear Father & Mother,

@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 you must all write and write all of the news you can  I haft to take my letter out of my pocet every day & Read it. I think if was here in he wouldent bey much with ten Cents for every thing here is very hie wood is .12. dollars per Cord. but the Solders will ~~bey~~ Spend thare money as fast as thay get it for Sume thing to eat & drink  it beets all how fast thay spend money  one dollar dont go So fere here as a half of dollar would here to home & they steel from one a nother like every thing. Some loose money all they have got some knapsack & blanks & over Cots & ~~evert~~ every thing else. but I hant lost eney thing yet

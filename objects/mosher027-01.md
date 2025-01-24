@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Atlanta November the 1. 1864
 
 Dear Father & Mother

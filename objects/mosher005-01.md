@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Febuary Monday the 22. 1864
 
 Dear Father and Mother

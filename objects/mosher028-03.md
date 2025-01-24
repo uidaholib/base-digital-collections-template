@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 thrugh the Contry on our March
 
 Mother you most not worry a bout me for I Shall Come out all Rite I think... 

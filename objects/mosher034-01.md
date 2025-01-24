@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Goldsboro Northcarlina March. the 27 1865
 
 Dear Father & Mother,

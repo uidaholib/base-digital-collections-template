@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 fix up the tents & make my bung & tinker around. Some time I am out to Role Coll & if dont git out McMaster never Sayes eney thing he favers me all he Can. the Most of the boys have got ther bunks made & fixt for winter  we have puty Cold nites & Some Cold & windy days. we tare down houses & make bunks & flower in our tents & build up the Sides of the tent two or three feet & Strech the tent ~~ofre~~ over it. thare is .8. men in a tent my tent is .8. four bunks. My bunk mate is fred kimmer he lives a half mile South of daveses Chool hous he is a big Stout man but he has not ben able to do much more then I have Sence we have ben in the Survise. the helthest men we have git Sick & Run clere down & hant able to do nothing. thare

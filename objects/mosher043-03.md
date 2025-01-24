@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 but I Shall haft to Stay do the best I can. 
 
 Father you most git hay a knuf to last you this winter & keep the Sheep. I wont be thare time to do eney thing a bout giting hay. 

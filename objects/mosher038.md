@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Luisville Kentucy. June the 17. 1865
 
 Dear Sister, I Set down with pleasher to answer your letter I Jest got I am well & harty & I am glad to here that you are all well  We are in camp nere luisville we left Washington the 9. of June took the Cares for parkersburg on the ohio River then got on the ~~bot~~ boat & went down the River to Luisville. here we lay in Campe dosile & do not no what they are agoing to do with ous. they heve musterd out all of the Sixty two men & one ~~yers~~ year men thare was Some over .40 went out of our Compney they was musterd out be fore we left Washington & Sent home. & the talk was then that we Soon wood be musterd out but I do not now  they heve not musterd out eney 3 years men yet in eney of the others Rigments they think they are a keeping ous on the Count of the war in Mexico but I do not no I am Shure. the Surcomstances looks now as if they was agoing to keep ous a while longer  the offerces hant made a nuf yet Dam ther Stinking Soles if we Could go in to battle once I wood make Some of them bite the dust it is worse then being in prision a dam Site... 

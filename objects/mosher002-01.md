@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Nashville January the 31. 1864
 
 Dear father & Mother

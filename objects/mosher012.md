@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 May the 10th. 1864
 
 Dear Sister

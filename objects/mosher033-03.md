@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 Father you may ~~Shere~~ have the wool of the Sheep & give me the increase. for I May haft to Stay My time out. if the war Shoud last. You must Rite as Soon as you get this & write oft of the & how you are a git ing a long & how things are. docter ~~K~~ King is here he is one of our doctters. wal I Shall to Stop writing & fix up my tent a little the wether is warm, the peach trees are in fool bloom Northcarlina and Southcarlina is low flat wet Swampy land. I thought that hom is wone of the pooerst placees in the world but I heve found out that our land is gest as good as eney in the South I heve made up my Mind to be Contented with My one home if I ever git home. Mouther excuse me

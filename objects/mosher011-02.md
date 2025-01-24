@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 off  we Can here thare guns  when we get through here we are going to moove to bridgeport  we will moove in about two weeks  for a fue days back I have felt well & wade as much as I ever did but I have not ben able to work  I need Sume pills I am billious  for two days now I have ben Sick but able to be around & that is about all. ~~Father I sent you~~ My blude is very bad  it must be the ersyplus in my blud for when I exersise eney thare is a ~~hete~~ heat ness runs through my vanes as if I stood in a hot fire. the wether is warme here & nice when we get hungery for beef we go out in the Contery & Shoot down the first good beef we Come acroust  Care it in to Camp. we have

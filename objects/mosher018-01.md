@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Bridgeport Augest the 3, 1864
 
 Dear Father and Mother

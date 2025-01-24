@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Tiney Crick Alabama
 
 May the .21th. 1864

@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
  up on the Mortgage that you have on my land with what money I have Sent you & the wool of from the Sheep  Write & let me now how things are how you are a giting along. I do not now wether I will be pade this time or not the pay Master has not Come a Round yet. My. We have had orders March to atlanta at a hour worning when Colled apon that is 60. miles South of us  the place we have Jest got from the Rebels. if Ambroes wants to go on to my land & build a Shanty he Can try it I will help him all I Can he may go on & Clere the land & I will pay him well for it. When I am pade I will Send Some money to bey a Cow & you May bey her if you dont want the youse of here he Can ~~he Can~~ take her to keep ~~for the use of~~ father you must take good care

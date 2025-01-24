@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Dettroit barax. Jan. 15. 1864
 
 Dear father and Mother

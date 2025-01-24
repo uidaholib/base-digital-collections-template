@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 I took of one of the gray shirts and the red drowers & done them up to Send them with Mc for he was a going to start the next morning & I discoverd that I had Some red pempls on me & I thought was a ere Sypurls. the docter ~~tel~~ Sed that thare would be no danger bound them out then ~~that~~ hang them out thare they Could are good it would be purfickly Safe for I had not got it bad anuf to give it then & Soon as I found out that I had it thought I would to you & let now how it was for in the mornind g when Mc. start of I did not no that it was the small pox but I have it very lite the says luckley that ~~had~~ I had ben vaxnated so that it wont make eney pits on

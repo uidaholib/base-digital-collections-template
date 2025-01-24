@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 tuesday March the 29. 1864
 
 here is one Side I fer got fill out So now Sence I have eaton my dinner I will write a little More. I herd that Marih had lost her Child the .22. of febuary McMaster herd from home his wife wote about it. I think that if Ambron Ostin dont go to work and try to do Sume thing that I would have Merih Come home and leeve him in tirely and not have eney thing to do with him atoll  She will be a good deal beter of then whe will to drag her life out with him  She will be a help to you and Clarrase Can to Scool more. You must rite all of the news you Can  I expect the Sheep have all got lambs bey this time  I hope you will have good luck for they are the best property we have got. you wont have the other letter Much before this. Raycide Mosher. 

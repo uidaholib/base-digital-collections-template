@@ -1,1 +1,4 @@
+---
+# text from typescript transcript
+---
 & I never was going to have eney thing. but keep quiete & dont Say eney thing let them wiggle. & keep your one Side of the fence that is the best way I think. put your money to good use & dont drink eney whiskey for it is very bad Stuf it hes made a good meney very Sick & they hed to go to the hospital in our Rigiment. Father I am glad you heve got a good teme & I hope you will git over the lame back So as to do your work I would like to be thare to helpe you first Rate but I dont think I will be to home much be fore the first of September but I hope nest month. when I Come home I would like to go to Minisota & See the land thare for I bleve we Coud do better thare then to home for ~~git~~ it is part priary land & part timber. git each of ous a farm. then we wont have eney grubs to bother go Rite on & plow ten acers without eney Swamp hole on it

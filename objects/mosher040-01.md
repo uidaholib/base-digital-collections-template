@@ -1,3 +1,6 @@
+---
+# text from typescript transcript
+---
 Nashville Tennessee
 
 July the .7th. 1865.
