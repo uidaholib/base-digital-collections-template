@@ -1,14 +1,4 @@
 ---
 # text from typescript transcript
 ---
-hole then you are in now. but Still I do not like to be mooving around a farm of one hundred & fifty acers of good plow land then we Can farm it at better advaned & keep Stold & live & engoy better helth. When I Come home I will go and See it & I Can tell whether I Can live there or not as Son I put my eye on it...
-
-Wal I Most Close fore this time Father I am Sorry you heve hed So bad luck with my Sheep but it cant be help I Suspose  last yere you wrote to me that I hed ten lambes that wood make me 35 Sheep through out the old wone that I put in with the lambs when I left. So then this yere they hant hed but five lambes if thare hant but .40...  
-
-Write as you can. tell Am he Must not git Rich of from that nelt dire place. Mother you Most take time & write for I am anshous here from you as you are from Me. 
-
-yours Dear Parents, 
-
-R. Mosher. 
-
-Nashville, Tenn
+& they Say that Minisota is a very helthy State mild Climate it being on the west of lake Michigan. We Can Can go thare & Settle down Some whare nere a good place not far from James. & we Can keep Cowes & cattle to better advaneg & horses Sheep hogs  you can Sell your land & mine to gether & Sell the Sheep hores Cowes evry thing but what you Can pack in to ar three Chests put abord of the Cares ~~twente~~ wont Cost a grate ele to go in that way & then when we git thare we Can by a Coupple yoke of Cattle & tow Cows So we will have Some thing to work with. we want to Seell out this fall & go. So as to begin work in the Spring. & it would be a good thing for Am Osten to go & git him a farm land will be Cheap ant that western Country is going to be Settled now very fast after the war. I Swar you Cant git in a worse
