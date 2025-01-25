@@ -10,7 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/mosher/moshercover.jpg" %} 
 
-{% include feature/nav-menu.html sections="Biography;The Collection" %}
+{% include feature/nav-menu.html sections="The Collection;Biography" %}
+
+## The Collection
+
+In 1978, Jerry and Chrys VanDalsen discovered Raycide Mosher's Civil War letters in the "Paddock House" in Farmington, Washington. The VanDalsens donated the letters to the University of Idaho Library in 1983. [The Raycide Mosher Civil War Letters collection](https://archiveswest.orbiscascade.org/ark:80444/xv56094) held by the University of Idaho Special Collections and Archives includes 44 letters written by Raycide Mosher between January 15, 1864, and August 18, 1865; an 1899 letter to Raycide's wife, Adeline Mosher, from her niece, Ada May Kirby; photocopies of Raycide Mosher's federal military service records; typed transcripts of Raycide Mosher's letters; and assorted secondary research related to the 1st Michigan Engineers and Mechanics Regiment. 
+
+This digital collection seeks to make Raycide Mosher's letters more accessible, providing images of the original letters with accompanying transcriptions.
 
 ## Biography
 
@@ -22,28 +28,22 @@ As Mosher describes in his letters, Company A departed Michigan in late January 
 
 Raycide Mosher married Adeline (nee Davis) in Michigan in 1867, and the couple eventually moved to California to farm. Raycide Mosher died in Napa County, California, in November 1891.
 
-Raycide Mosher's letters are a window into the quotidian elements of service in the Union Army during the later phases of the Civil War. Mosher's attention is trained largely on illness, food, pay, the layout of camps and hospitals, and family affairs back home. Well-known patterns and events associated with the Civil War, such as high rates of death by illness and Sherman's March to the Sea, are illustrated through Mosher's observations and experiences. 
-
-## The Collection
-
-In 1978, Jerry and Chrys VanDalsen discovered Raycide Mosher's Civil War letters in the "Paddock House" in Farmington, Washington. The VanDalsens donated the letters to the University of Idaho Library in 1983. [The Raycide Mosher Civil War Letters collection](https://archiveswest.orbiscascade.org/ark:80444/xv56094) held by the University of Idaho Special Collections and Archives includes 44 letters written by Raycide Mosher between January 15, 1864, and August 18, 1865; an 1899 letter to Raycide's wife, Adeline Mosher, from her niece, Ada May Kirby; photocopies of Raycide Mosher's federal military service records; typed transcripts of Raycide Mosher's letters; and assorted secondary research related to the 1st Michigan Engineers and Mechanics Regiment. 
-
-This digital collection seeks to make Raycide Mosher's letters more accessible, providing images of the original letters with accompanying transcriptions. 
+Raycide Mosher's letters are a window into the quotidian elements of service in the Union Army during the later phases of the Civil War. Mosher's attention is trained largely on illness, food, pay, the layout of camps and hospitals, and family affairs back home. Well-known patterns and events associated with the Civil War, such as high rates of death by illness and Sherman's March to the Sea, are illustrated through Mosher's observations and experiences.  
 
 ___
 
 #### Sources:
 
-California, Probate Estate Case Files, 1864-1920. Ancestry.com. [https://www.ancestry.com/search/collections/8639/records/5083376](https://www.ancestry.com/search/collections/8639/records/5083376)
+1. Ancestry.com, [California, Probate Estate Case Files, 1864-1920](https://www.ancestry.com/search/collections/8639/records/5083376)
 
-Enderlin, Dean A. Civil War Veterans Buried in Tulocay Cemetery, Napa, California. [https://freepages.rootsweb.com/~enderlin/history/cw/napa/tulocay-cwburials.html](https://freepages.rootsweb.com/~enderlin/history/cw/napa/tulocay-cwburials.html). (Archived: [https://perma.cc/XU9U-657G](https://perma.cc/XU9U-657G))
+2. Ancestry.com, [Michigan, County Marriage Records, 1822-1940](https://www.ancestry.com/search/collections/61374/records/370506). 
 
-Michigan, County Marriage Records, 1822-1940. Ancestry.com. [https://www.ancestry.com/search/collections/61374/records/370506](https://www.ancestry.com/search/collections/61374/records/370506). 
+3. Ancestry.com, [Raside Mosher](https://www.ancestry.com/search/collections/6742/records/14643319)
 
-Pvt. Raycide Mosher. Find a Grave. [https://www.findagrave.com/memorial/18000086/raycide-mosher](https://www.findagrave.com/memorial/18000086/raycide-mosher). (Archived: [https://perma.cc/F999-XVZE](https://perma.cc/F999-XVZE))
+4. Ancestry.com, [Raycide Mosher. American Civil War Research Database](https://www.ancestry.com/search/collections/1555/records/1512617)
 
-Raside Mosher. 1880 United States Federal Census. Ancestry.com. [https://www.ancestry.com/search/collections/6742/records/14643319](https://www.ancestry.com/search/collections/6742/records/14643319)
+5. Enderlin, Dean A., [Civil War Veterans Buried in Tulocay Cemetery, Napa, California](https://freepages.rootsweb.com/~enderlin/history/cw/napa/tulocay-cwburials.html). (Archived: [https://perma.cc/XU9U-657G](https://perma.cc/XU9U-657G))
 
-Raycide Mosher. American Civil War Research Database. Ancestry.com. [https://www.ancestry.com/search/collections/1555/records/1512617](https://www.ancestry.com/search/collections/1555/records/1512617)
+6. Find A Grave, [Pvt. Raycide Mosher](https://www.findagrave.com/memorial/18000086/raycide-mosher). (Archived: [https://perma.cc/F999-XVZE](https://perma.cc/F999-XVZE))
 
-Raycide Mosher Civil War Letters. University of Idaho Special Collections & Archives. [https://archiveswest.orbiscascade.org/ark:80444/xv56094](https://archiveswest.orbiscascade.org/ark:80444/xv56094). 
+7. University of Idaho Special Collections & Archives, [Raycide Mosher Civil War Letters](https://archiveswest.orbiscascade.org/ark:80444/xv56094). 
