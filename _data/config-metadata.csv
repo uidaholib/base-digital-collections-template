@@ -6,6 +6,7 @@ date is approximate,Approximated Date
 description,Description,,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
 location,Location,true,,contentLocation
+features,Features,true
 latitude,Latitude
 longitude,Longitude
 moscow number,Moscow Number

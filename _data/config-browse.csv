@@ -3,6 +3,7 @@ photographer,Photographer,true,,Photographer
 date,Date,,,Date
 subject,,true
 location,Location,true
+features,Features,true
 identifier,,,true,Identifier
 moscow number,,,true
 fs number,,,true
