@@ -30,18 +30,19 @@ Raycide Mosher married Adeline (nee Davis) in Michigan in 1867, and the couple, 
 
 Raycide Mosher's letters are a window into the quotidian elements of service in the Union Army during the later phases of the Civil War. Mosher's attention is trained largely on illness, food, pay, the layout of camps and hospitals, and family affairs back home. Well-known patterns and events associated with the Civil War, such as high rates of death by illness and Sherman's March to the Sea, are illustrated through Mosher's observations and experiences.  
 
-___
+------
 
-#### Sources:
+### Sources:
+{:.h4}
 
-[^1]: National Archives and Records Administration, [Homestead Act (1862)](https://www.archives.gov/milestone-documents/homestead-act). (Archived: [https://perma.cc/T3H4-N2LR](https://perma.cc/T3H4-N2LR))
+[^1]: National Archives and Records Administration, [Homestead Act (1862)](https://www.archives.gov/milestone-documents/homestead-act). (Archived: <https://perma.cc/T3H4-N2LR>)
   
 [^2]: Ancestry.com, [Michigan, County Marriage Records, 1822-1940](https://www.ancestry.com/search/collections/61374/records/370506). 
 
 [^3]: Ancestry.com, [Raside Mosher](https://www.ancestry.com/search/collections/6742/records/14643319)
 
-[^4]: Enderlin, Dean A., [Civil War Veterans Buried in Tulocay Cemetery, Napa, California](https://freepages.rootsweb.com/~enderlin/history/cw/napa/tulocay-cwburials.html). (Archived: [https://perma.cc/XU9U-657G](https://perma.cc/XU9U-657G))
+[^4]: Enderlin, Dean A., [Civil War Veterans Buried in Tulocay Cemetery, Napa, California](https://freepages.rootsweb.com/~enderlin/history/cw/napa/tulocay-cwburials.html). (Archived: <https://perma.cc/XU9U-657G>)
 
-[^5]: Find A Grave, [Pvt. Raycide Mosher](https://www.findagrave.com/memorial/18000086/raycide-mosher). (Archived: [https://perma.cc/F999-XVZE](https://perma.cc/F999-XVZE))
+[^5]: Find A Grave, [Pvt. Raycide Mosher](https://www.findagrave.com/memorial/18000086/raycide-mosher). (Archived: <https://perma.cc/F999-XVZE>)
 
 [^6]: University of Idaho Special Collections & Archives, [Raycide Mosher Civil War Letters](https://archiveswest.orbiscascade.org/ark:80444/xv56094). 
