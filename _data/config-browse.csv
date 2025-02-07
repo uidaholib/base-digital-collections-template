@@ -3,4 +3,5 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+recipient_location,Recipient Location,true
 identifier,,,true,Identifier
