@@ -20,3 +20,8 @@
 .dropdown-menu {
     --bs-dropdown-link-active-bg: #5E48FF;
 }
+
+// increase compound object gallery images size
+.compound-thumb {
+    max-height: 500px;
+} 
