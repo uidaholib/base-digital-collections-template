@@ -4,4 +4,5 @@ date,true,true
 creator,true,false
 description,true,true
 subject,true,true
+family_names,true,true
 location,true,false
