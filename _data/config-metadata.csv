@@ -9,6 +9,7 @@ scientific name,Scientific Name
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,true,,,contentLocation
 location (lcsh),Locations (LSCH),,,,
+region,Region,true
 subject (lcsh),Subjects (LSCH),,,,
 subject (lctgm), Subjects (LCTGM),,,,
 latitude,Latitude
