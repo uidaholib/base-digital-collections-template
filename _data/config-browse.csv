@@ -3,3 +3,4 @@ date,Date,,,Date
 subject,,true
 family_names,Family Names,true
 identifier,,,true,Identifier
+location,Location,,true,,
