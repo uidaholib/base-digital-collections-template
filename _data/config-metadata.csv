@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
+description,Description,,,DCTERMS.description,description
 subject_name,Name,,,,
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
 political_affiliation,Political Affiliation,,,,
 event_type,Event Type,,,,
-party_candidate,Party Candidate,,,,
+party_candidate_yes_or_no,Party Candidate,,,,
 president_or_vice_president,President or Vice President,,,,
 winner_or_loser,Winner or Loser,,,,
-source,Source,,,,
+subject,Subjects,true,,DCTERMS.subject,
+keywordssource,Source,,,,
 findingaid,Finding Aid,,true
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
