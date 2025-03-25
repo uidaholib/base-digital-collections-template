@@ -16,7 +16,11 @@ credits: true
 
 This collection contains digitized copies of various photos by Sheldon Zadok Thayer and some correspondence by the Thayer family. 
 
-The photos in the collection were donated by Sheldon Thayer's granddaughter, Jill Holgren. Prompted by community interest, the collection was digitized in 2024. 
+The photos in the collection primarily show the Thayer family participating in Idaho's tradition of outdoor recreation during the end of the Great Depression. Of particular note are the photos that show the Thayers enjoying Sun Valley Resort during the years immediately following its opening. 
+
+{%include feature/image.html objectid="https://objects.lib.uidaho.edu/thayer/mg5792_021-002"%}
+
+The photos were donated by Sheldon Thayer's granddaughter, Jill Holgren. Prompted by community interest, the collection was digitized in 2024. 
 
 The [original documents](https://archiveswest.orbiscascade.org/ark:80444/xv576502) are held by [University of Idaho Special Collections](https://www.lib.uidaho.edu/special-collections/index.html).
 
