@@ -16,7 +16,7 @@ credits: true
 
 This collection contains digitized copies of various photos by Sheldon Zadok Thayer and some correspondence by the Thayer family. 
 
-The photos in the collection primarily show the Thayer family participating in Idaho's tradition of outdoor recreation during the end of the Great Depression. Of particular note are the photos that show the Thayers enjoying Sun Valley Resort during the years immediately following its opening. 
+The photos in the collection primarily show the Thayer family engaging in outdoor recreation in Idaho and surrounding areas during the end of the Great Depression. Of particular note are the photos that show the Thayers enjoying Sun Valley Resort during the years immediately following its opening in the winter of 1936. 
 
 {%include feature/image.html objectid="https://objects.lib.uidaho.edu/thayer/mg5792_021-002"%}
 
