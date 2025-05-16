@@ -1,5 +1,5 @@
 ---
-layout: home-infographic
+layout: iwi-home
 title: Home
 permalink: /
 ---

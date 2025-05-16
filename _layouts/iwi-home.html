@@ -1,0 +1,49 @@
+---
+# Default home page with boxes providing collection stats
+layout: page
+---
+{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
+<div class="row">
+  <div class="col-md-8">
+
+    <div class="card mb-3">
+      <div class="card-body">
+          <h4 class="card-title">Idaho's Women of Influence is a project meant to correct an imbalance in the preserved historical data on women's contributions to Idaho history.</h4>
+          <p class="card-text">
+              IWI is open to women connected to Idaho by birth, residence, work, or any other significant factor, whose positive efforts and accomplishments contributed significantly to quality of life in their community, the state, or the world.
+              The collection provides vetted, publicly available descriptions and resources: <a href="{{ '/browse.html' | relative_url }}">browse the biographies</a> to explore Idaho history or <a href="{{ '/data.html' | relative_url }}">download the metadata</a> to jump start new projects.
+          </p>
+          <a class="btn btn-lg btn-outline-primary" href="{{ '/about.html' | relative_url }}" role="button">Learn More About IWI &raquo;</a>
+      </div>
+    </div>
+
+    {% include index/carousel.html title="Preview" btn-text="View Bio" %}
+    
+  </div>
+  <div class="col-md-4">
+    {% assign termsField = "keywords" %}
+    {% assign terms = site.data[site.metadata] | where_exp: 'item','item.objectid' | map: termsField | join: ";" %}
+    {%- assign uniqTerms = terms | downcase | split: ";" | array_count_uniq -%}
+    {% capture topTerms %}
+    {% for i in uniqTerms %}{{ i[0] }};{% endfor %}{% endcapture %}
+    {% assign topTerms = topTerms | split: ";" %}
+    <div class="card mb-3">
+      <div class="card-body">
+          <h5 class="card-title">Browse by:</h5>
+          <p class="card-text">
+              {% for s in topTerms %}
+              <a class="btn btn-lg btn-palouse m-1" href="{{ s | strip | url_param_escape | prepend: '/browse.html#' | relative_url }}">{{ s | strip }}</a>{% endfor %}
+          </p>
+      </div>
+    </div>
+
+    <div class="card mb-3">
+      <div class="card-body">
+          <h4 class="card-title">IWI currently contains <a href="{{ '/browse.html' | relative_url }}">{{ site.data.iwi | size }} profiles of Idaho women</a>.</h4>
+          <img src="https://www.lib.uidaho.edu/digital/objects/iwi/iwi_logo.jpg" class="img-fluid">
+      </div>
+    </div>
+
+  </div>
+
+</div>
