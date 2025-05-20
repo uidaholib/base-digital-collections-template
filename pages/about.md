@@ -24,9 +24,9 @@ This collection contains various materials including poster designs, promotional
 
 Leo Edwin Ames was born on February 14, 1933 and raised in Heyburn, Idaho where his love for art began. Ames attended the University of Idaho and graduated in 1965 with a degree in Journalism. He married fellow student Lela May Talbott in April 1954. Ames worked at the university and contributed his creativity and artistic skills by designing, illustrating, and photographing for the school. After three decades of dedicated service, Ames retired in 1995 as the creative director and head of publications.
 
-{% include feature/pdf.html objectid="ames035" width="50" %}
+{% include feature/image.html objectid="ames035" width="50" %}
 
-{% include feature/pdf.html objectid="ames005" width="50" %}
+{% include feature/image.html objectid="ames005" width="50" %}
 
 In addition to his artistic and graphic design career, Leo Ames was active in local Moscow and Idaho politics. Ames was a member of the University of Idaho Women's Caucus, which was crucial in the establishment of affirmative action and the development of the U of I Women's Center. Ames resumed plein air painting after his retirement. Ames passed away in 2004. [^1] 
 
