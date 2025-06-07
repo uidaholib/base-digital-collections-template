@@ -8,9 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/buttons/coverimage1.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV" %}
+{% include feature/nav-menu.html sections="Political Buttons and Stickers collection;About CollectionBuilder CSV" %}
+
+## Political Buttons and Stickers collection
+
+This collection contains political buttons primarily from Presidential and Congressional elections. Buttons from Presidential elections includes Republican, Democrat, and Third-Party candidates. The Congressional elections include those in Idaho and California. Additional materials includes political bumper stickers, and records surrounding the buttons.
+
+The buttons were transferred to Special Collections by Markie McBrayer, Assistant Professor of Political Science at the University of Idaho from their office. Details on how they came to have them are still under investigation but it appears that the collection belonged or was handled by John Koster.
+
+The first mass production of metal buttons or pins was for the 1896 campaign of William McKinley as he ran against William J. Bryan for President of the United States. Due to expense, these buttons were often small and made of celluloid with text and images on them. As years and production prices have change, buttons have become larger and more extravagant for candidates of all levels.
+
 
 ## About CollectionBuilder CSV
 
