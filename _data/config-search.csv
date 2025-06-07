@@ -7,3 +7,4 @@ subject,true,true
 location,true,false
 political_affiliation,true,true
 event_type,true,true
+subject_name,true,true

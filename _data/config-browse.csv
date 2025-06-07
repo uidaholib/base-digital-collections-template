@@ -4,3 +4,4 @@ subject,Subject,true
 identifier,,,true,Identifier
 political_affiliation,Political Affiliation,,,
 event_type,Event Type,,,
+subject_name,Name,,,
