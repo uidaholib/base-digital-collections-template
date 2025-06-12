@@ -28,6 +28,9 @@ The original site was divided into three content sections, all of which can be f
 
 ## About the SBW Project
 
+"The Bitterroot Mountains form a rugged, glacier-carved border between Idaho and Montana. On both sides of this border is the Selway-Bitterroot Wilderness, the third largest Wilderness in the Lower 48. Only the 600 foot wide Nez Perce Trail (the Magruder Corridor), an unimproved dirt road, separates the Selway-Bitterroot from the Frank Church-River of No Return Wilderness. Except for the high crest of the Bitterroot Mountains, the area is dominated by ridges broken with raw granite peaks. Below the ridges are deep canyons covered with thick coniferous forest. Hidden low valleys are rich with old-growth cedar, fir, and spruce, with Ponderosa Pine dominating open grassy slopes along the rivers. Few humans visit the huge trailless portions of this Wilderness, which makes it all the more appealing for the Selway elk herd, plus abundant deer, moose, black bears, mountain lions, and wolves." ([Selway-Bitterroot Wilderness, Wilderness.net](https://web.archive.org/web/20150213203429/http://www.wilderness.net/index.cfm?fuse=NWPS&sec=wildView&wname=Selway-Bitterroot))
+{:.ps-3}
+
 The SBW Project collected primary source materials from archives and public agencies across the country relating to the Selway country of Idaho and western Montana.
 Additionally, they conducted extensive oral histories from people involved in the wilderness area.
 

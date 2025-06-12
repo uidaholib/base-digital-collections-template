@@ -30,10 +30,10 @@ central-search: true
 # title of site appears in banner
 title: The Selway-Bitterroot Wilderness History Project
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Archive of documents, photographs, and interviews from the Selway-Bitterroot Wilderness
+tagline: Bringing the Human History of the Selway-Bitterroot to Life
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of documents, photographs, and interviews from The Selway-Bitterroot Wilderness History Project." 
+description: "A collection of archival documents, photographs, and interviews from The Selway-Bitterroot Wilderness History Project." 
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: selway-bitterroot wilderness; idaho; history; podcast; oral history; natural science
 

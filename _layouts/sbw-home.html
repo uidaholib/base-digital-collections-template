@@ -1,0 +1,38 @@
+---
+# custom home for SBW
+layout: page
+---
+{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
+<div class="row">
+
+  <div class="col-md-8">
+
+    <div class="card mb-3">
+        <div class="card-body">
+            <h2 class="card-title h5">Description</h2>
+            <p class="card-text">This digital collection consists of images, documents, and interviews curated by the Selway-Bitterroot Wilderness History Project, an exploration into the human aspects of the Selway-Bitterroot Wilderness.</p>
+            <p>Although still accessible, the original project website is currently unmaintained and may have broken features and links. This collection gathers the project's items together to ensure access to the materials, but does not reproduce all the original features.</p>
+            
+            <p><a class="btn btn-primary" href="{{ '/about.html' | relative_url }}" >Learn More &raquo;</a></p>
+            <p><a class="btn btn-outline-primary" href="https://sbw.lib.uidaho.edu/index.html" >Original Selway-Bitterroot Wilderness History Project Website &raquo;</a></p>
+        </div>
+    </div>
+    {% include index/carousel.html title="Sample Items" %}
+    
+  </div>
+  <div class="col-md-4">  
+
+    {% include index/time.html %}
+
+    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="clearwater" %}
+    
+    {% include index/objects.html %}
+
+  </div>
+  <div class="col-md-12">
+
+    {% include index/data-download.html %}
+
+  </div>
+
+</div>

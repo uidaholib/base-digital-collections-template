@@ -1,5 +1,5 @@
 ---
-layout: home-infographic
+layout: sbw-home
 title: Home
 permalink: /
 ---
