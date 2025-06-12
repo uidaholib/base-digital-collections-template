@@ -2,7 +2,7 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
 Timeline,/timeline.html,
-About,/about.html,
 Political Affiliations,/political_affiliation.html
 Events,/event_type.html
 Names,/subject_name.html
+About,/about.html,

@@ -5,12 +5,12 @@ subject_name,Name,,,,
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 political_affiliation,Political Affiliation,,,,
 event_type,Event Type,,,,
-party_candidate_yes_or_no,Party Candidate,,,,
-president_or_vice_president,President or Vice President,,,,
-winner_or_loser,Winner or Loser,,,,
+party_nominee_yes_or_no,Party Nominee,,,,
+election_outcome,Election Outcome,,,,
 subject,Subjects,true,,DCTERMS.subject,
 keywordssource,Source,,,,
 findingaid,Finding Aid,,true
+source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
