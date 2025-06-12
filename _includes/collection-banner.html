@@ -1,4 +1,4 @@
-{% if page.layout == "home-infographic" and site.data.theme.featured-image %}
+{% if page.layout == "home-infographic" or page.layout == "sbw-home" and site.data.theme.featured-image %}
 <style>
 #home-banner {
     background-image: url('{{ site.data.featured_item.src | relative_url }}');
