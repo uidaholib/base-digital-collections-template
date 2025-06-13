@@ -1,16 +1,24 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
+creators title,Creator Title,
+interviewee,Interviewee,
+interviewer,Interviewer,
 archival date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
+date is approximate?,Date is Approximate?,
 description,Description,,,DCTERMS.description,description
+duration,Duration,
 subject,Subjects,true,,DCTERMS.subject,keywords
+section,Section,true,
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 publisher,Publisher,,,,
 contributing institution,Contributing Institution,,,
 source,Source,,,,
+national archive number,National Archive Number,
+regional office number,Regional Office Number,
 findingaid,Finding Aid,,true
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
