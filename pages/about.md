@@ -35,6 +35,7 @@ The SBW Project collected primary source materials from archives and public agen
 Additionally, they conducted extensive oral histories from people involved in the wilderness area.
 
 Much of these curated materials are housed in a research collection at the University of Idaho Special Collections & Archives and are listed in the [Sources Related to the History of the Selway-Bitterroot Wilderness Area finding aid](https://archiveswest.orbiscascade.org/ark:/80444/xv16268/).
+Keep in mind that since most of these resources were collected from other institutions (including as photocopies, images, and transcripts), U of I Spec may not hold the original documents or related materials.
 
 The original site described the project: 
 
@@ -56,6 +57,10 @@ The original site described the project:
 ### Wilderness Pages and Wilderness Portraits
 
 Originally posted at the main project website `sbw.lib.uidaho.edu` ([web archive version](https://web.archive.org/web/20210513184317/https://sbw.lib.uidaho.edu/index.html)) and in a digital collection database, the Wilderness Pages and Wilderness Portraits sections contain curated documents and images relating to the Selway-Bitterroot region.
+
 The digital items represent a selection of the larger physical research collection housed at University of Idaho Library Special Collections.
+However, since most of these resources were collected from other institutions, U of I may not hold the original documents or related materials. 
+These items may be photocopies, photographs of documents, and transcripts.
+Metadata is included to link back to the original source archives.
 
 {% include feature/image.html objectid="sbw014" %}
