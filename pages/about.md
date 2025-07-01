@@ -11,7 +11,7 @@ toc: true
 
 {% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/buttons/coverimage1.jpg" %} 
 
-{% include feature/nav-menu.html sections="The Collection;Political Button Making;Campaign Buttons in the University of Idaho Collection" %}
+{% include feature/nav-menu.html sections="The Collection;Development of Political Button Making;Campaign Buttons in the University of Idaho Collection" %}
 
 ## The Collection 
 
@@ -23,7 +23,7 @@ Faculty in the University of Idaho Politics and Philosophy Department transferre
 
 After the collection of buttons was catalogued, Archives Coordinator Zoe Stave took photographs of the items, experimenting with effective lighting and photo editing. Digital Archivist Rebecca Hastings prepared the photos and metadata for inclusion in this digital collection. This was truly a team effort, from start to finish.
 
-## Political Button Making
+## Development of Political Button Making
 
 The history of political ephemera in the U.S. can be traced back to George Washington’s 1789 inauguration, which featured clothing buttons and fasteners with words and images that showed support for a candidate. Later, with photography advancements during the 1850s, thin tintypes with small photographs became the typical style of political button. [^1]
 
@@ -43,7 +43,7 @@ Today’s buttons are very similar to those from 1896. They still tend to have m
 
 ## Campaign Buttons in the University of Idaho Collection 
 
-The buttons in this collection provide a snapshot of some evolving styles, themes, and designs in American political ephemera. 
+This collection provides a unique snapshot of some evolving styles, themes, and designs in American political ephemera. 
 
 The colors used in the buttons changed dramatically as time progressed. The older buttons generally included a white background with only a few additional colors and very simplistic designs. Newer buttons contain a broader range of colors, such as buttons from 1997 with bright purples and yellows, as well as more artistic elements in general.
 

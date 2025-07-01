@@ -5,5 +5,5 @@ identifier,,,true,Identifier
 political_affiliation,Political Affiliation,,,
 party_nominee_yes_or_no,Party Nominee,,,,
 election_outcome,Election Outcome,true,,,
-event_type,Event Type,,,
+event_type,Event Type,true,,
 subject_name,Name,,,
