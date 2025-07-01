@@ -31,7 +31,7 @@ Mass-produced celluloid political buttons were not introduced into campaigning u
 
 The Whitehead & Hoag Company (W&H) was a major force behind the introduction of this new style of political button. Incorporated by Benjamin S. Whitehead and Chester R. Hoag in 1892, W&H acquired the patents for this new style of button between 1893-1896. The company would grow to become the largest global manufacturer of buttons before the development of the small printing press [^2].
 
-{% include feature/image.html objectid="mg660_box5_8-1758" width="50" caption="A Whitehead & Hoag button" %} 
+{% include feature/image.html objectid="mg660_box5_8-1758;mg660_box5_8-1800" width="50" caption="North Dakota Whitehead & Hoag button;Declaration of Independence Whitehead & Hoag button" %} 
 
 
 Today’s buttons are very similar to those from 1896. They still tend to have metal backs with an image covered with a thin sheet of plastic. But some advances in button technology can be found in this collection. A number of buttons feature holographic or lenticular images where the image changes as the angle at which it is viewed changes; these were popular between 1950 and 1980.
@@ -42,6 +42,8 @@ Today’s buttons are very similar to those from 1896. They still tend to have m
 
 
 ## Campaign Buttons in the University of Idaho Collection 
+
+The buttons in this collection provide a snapshot of some evolving styles, themes, and designs in American political ephemera. 
 
 The colors used in the buttons changed dramatically as time progressed. The older buttons generally included a white background with only a few additional colors and very simplistic designs. Newer buttons contain a broader range of colors, such as buttons from 1997 with bright purples and yellows, as well as more artistic elements in general.
 
@@ -65,7 +67,7 @@ Most of the buttons are round, but hidden within the collection are rectangular 
 
 Overhead photographs of the sheets on which the buttons are mounted also provide an idea of the great variety of button sizes and shapes represented in this collection: 
 
-{% include feature/pdf.html objectid="https://objects.lib.uidaho.edu/buttons/referencesheets.pdf" width="50" %} 
+{% include feature/image.html objectid="referencesheets" width="50" %} 
 
 &nbsp;
 

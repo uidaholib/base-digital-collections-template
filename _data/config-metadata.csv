@@ -4,10 +4,10 @@ description,Description,,,DCTERMS.description,description
 subject_name,Name,,,,
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 archival_date,Archival Date,,,,,
-political_affiliation,Political Affiliation,,,,
-event_type,Event Type,,,,
+political_affiliation,Political Affiliation,true,,,
+event_type,Event Type,true,,,
 party_nominee_yes_or_no,Party Nominee,,,,
-election_outcome,Election Outcome,,,,
+election_outcome,Election Outcome,true,,,
 subject,Subjects,true,,DCTERMS.subject,
 keywordssource,Source,,,,
 findingaid,Finding Aid,,true
