@@ -61,9 +61,9 @@ year-nav-increment: 5 # set increments to auto gen nav years
 # 
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,date,archival_date,description,event_type,political_affiliation,party_nominee_yes_or_no,president_or_vice_president,election_outcome,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
+metadata-export-fields: "title,subject_name,date,archival_date,description,event_type,political_affiliation,party_nominee_yes_or_no,president_or_vice_president,election_outcome,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,event_type,political_affiliation,party_nominee_yes_or_no,president_or_vice_president,election_outcome,format"
+metadata-facets-fields: "subject_name,subject,event_type,political_affiliation,party_nominee_yes_or_no,president_or_vice_president,election_outcome,format"
 
 ##########
 # Compound Objects 

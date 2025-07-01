@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 description,Description,,,DCTERMS.description,description
-subject_name,Name,,,,
+subject_name,Name,true,,,
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 archival_date,Archival Date,,,,,
 political_affiliation,Political Affiliation,true,,,
