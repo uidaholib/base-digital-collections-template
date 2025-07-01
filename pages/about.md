@@ -11,7 +11,7 @@ toc: true
 
 {% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/buttons/coverimage1.jpg" %} 
 
-{% include feature/nav-menu.html sections="The Collection;Campaign Buttons in the University of Idaho Collection" %}
+{% include feature/nav-menu.html sections="The Collection;Political Button Making;Campaign Buttons in the University of Idaho Collection" %}
 
 ## The Collection 
 
@@ -23,10 +23,16 @@ Faculty in the University of Idaho Politics and Philosophy Department transferre
 
 After the collection of buttons was catalogued, Archives Coordinator Zoe Stave took photographs of the items, experimenting with effective lighting and photo editing. Digital Archivist Rebecca Hastings prepared the photos and metadata for inclusion in this digital collection. This was truly a team effort, from start to finish.
 
+## Political Button Making
 
-## Campaign Buttons in the University of Idaho Collection 
+The history of political ephemera in the U.S. can be traced back to George Washington’s 1789 inauguration, which featured clothing buttons and fasteners with words and images that showed support for a candidate. Later, with photography advancements during the 1850s, thin tintypes with small photographs became the typical style of political button. [^1]
 
-The presidential election of 1896, in which Republican William McKinley and Democrat William Jennings Bryan ran against one another, was the first contest to incorporate celluloid, mass-produced political buttons into campaigning. These buttons featured a printed image or words on the front of the button which was then covered with a thin sheet of synthetic plastic-like material. Political ephemera of earlier eras, dating to the 1850s, were typically thin tintypes with small photographs. Even earlier, George Washington’s 1789 inauguration featured clothing buttons and fasteners with words and images that showed one’s support for a candidate.[^1]  
+Mass-produced celluloid political buttons were not introduced into campaigning until the presidential election of 1896, in which Republican William McKinley and Democrat William Jennings Bryan ran against one another. These celluloid buttons featured a printed image or words on the front of the button which was then covered with a thin sheet of synthetic plastic-like material. 
+
+The Whitehead & Hoag Company (W&H) was a major force behind the introduction of this new style of political button. Incorporated by Benjamin S. Whitehead and Chester R. Hoag in 1892, W&H acquired the patents for this new style of button between 1893-1896. The company would grow to become the largest global manufacturer of buttons before the development of the small printing press [^2].
+
+{% include feature/image.html objectid="mg660_box5_8-1758" width="50" caption="A Whitehead & Hoag button" %} 
+
 
 Today’s buttons are very similar to those from 1896. They still tend to have metal backs with an image covered with a thin sheet of plastic. But some advances in button technology can be found in this collection. A number of buttons feature holographic or lenticular images where the image changes as the angle at which it is viewed changes; these were popular between 1950 and 1980.
 
@@ -34,7 +40,8 @@ Today’s buttons are very similar to those from 1896. They still tend to have m
 
 {% include feature/image.html objectid="mg660_box1_9-0447" width="50" %}
 
-&nbsp;
+
+## Campaign Buttons in the University of Idaho Collection 
 
 The colors used in the buttons changed dramatically as time progressed. The older buttons generally included a white background with only a few additional colors and very simplistic designs. Newer buttons contain a broader range of colors, such as buttons from 1997 with bright purples and yellows, as well as more artistic elements in general.
 
@@ -99,5 +106,6 @@ These are just a few of the elements and themes represented in this collection. 
 {:h4}
 
 [^1]: Trail to the Voting Booth: An Exploration of Political Ephemera. University of Delaware. [https://exhibitions.lib.udel.edu/trail-to-the-voting-booth/on-the-trail/campaign-buttons/](https://exhibitions.lib.udel.edu/trail-to-the-voting-booth/on-the-trail/campaign-buttons/). Archived: [https://perma.cc/5CP2-GYTG](https://perma.cc/5CP2-GYTG)
+[^2]: Whitehead & Hoag Company History. [https://www.tedhake.com/viewuserdefinedpage.aspx?pn=whco](https://www.tedhake.com/viewuserdefinedpage.aspx?pn=whco). Archived:[https://perma.cc/P9Y9-G3XR](https://perma.cc/P9Y9-G3XR)
 
 ------
