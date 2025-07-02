@@ -108,6 +108,6 @@ These are just a few of the elements and themes represented in this collection. 
 {:h4}
 
 [^1]: Trail to the Voting Booth: An Exploration of Political Ephemera. University of Delaware. [https://exhibitions.lib.udel.edu/trail-to-the-voting-booth/on-the-trail/campaign-buttons/](https://exhibitions.lib.udel.edu/trail-to-the-voting-booth/on-the-trail/campaign-buttons/). Archived: [https://perma.cc/5CP2-GYTG](https://perma.cc/5CP2-GYTG)
-[^2]: Whitehead & Hoag Company History. [https://www.tedhake.com/viewuserdefinedpage.aspx?pn=whco](https://www.tedhake.com/viewuserdefinedpage.aspx?pn=whco). Archived:[https://perma.cc/P9Y9-G3XR](https://perma.cc/P9Y9-G3XR)
+[^2]: Whitehead & Hoag Company History. Ted Hake. [https://www.tedhake.com/viewuserdefinedpage.aspx?pn=whco](https://www.tedhake.com/viewuserdefinedpage.aspx?pn=whco). Archived:[https://perma.cc/P9Y9-G3XR](https://perma.cc/P9Y9-G3XR)
 
 ------
