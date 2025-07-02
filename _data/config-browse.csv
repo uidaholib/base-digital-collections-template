@@ -1,10 +1,9 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-subject_name,Name,true,,,
 subject,Subject,true
 identifier,,,true,Identifier
-political_affiliation,Political Affiliation,true,,
+political_affiliation,Political Affiliation,,,
 party_nominee_yes_or_no,Party Nominee,,,,
-election_outcome,Election Outcome,true,,,
-event_type,Event Type,true,,
+election_outcome,Election Outcome,,,,
+event_type,Event Type,,,
 subject_name,Name,,,
