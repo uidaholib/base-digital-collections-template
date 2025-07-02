@@ -3,7 +3,7 @@ date,Date,,,Date
 subject_name,Name,true,,,
 subject,Subject,true
 identifier,,,true,Identifier
-political_affiliation,Political Affiliation,,,
+political_affiliation,Political Affiliation,true,,
 party_nominee_yes_or_no,Party Nominee,,,,
 election_outcome,Election Outcome,true,,,
 event_type,Event Type,true,,
