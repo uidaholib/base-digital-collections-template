@@ -1,6 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/,
-Browse,/browse.html,
-Timeline,/timeline.html,
-Data,/data.html,
-About,/about.html,
+Schedule,/schedule.html,
+Origin,/origin.html,
+Definitions,/definitions.html,
+Implications,/implications.html,
+Questions,/questions.html,
+Resources,/resources.html,
