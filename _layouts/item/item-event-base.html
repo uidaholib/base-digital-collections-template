@@ -31,7 +31,16 @@ item-meta: true
                 {% endfor %}
                 
                 <div class="presenter-info">
-                    <h3 class="presenter-name mb-1">{{ formatted_presenters }}</h3>
+                    <h3 class="presenter-name mb-1">{{ formatted_presenters }}
+                        {% comment %} Bio/Bios button {% endcomment %}
+                        {% if event_data.biography_html and event_data.biography_html != "" %}
+                            {% if presenters.size == 1 %}
+                                <button type="button" class="btn btn-sm btn-outline-secondary ms-2" data-bs-toggle="modal" data-bs-target="#bioModal">Bio</button>
+                            {% else %}
+                                <button type="button" class="btn btn-sm btn-outline-secondary ms-2" data-bs-toggle="modal" data-bs-target="#bioModal">Bios</button>
+                            {% endif %}
+                        {% endif %}
+                    </h3>
                     {% comment %} Only show title if there's a single presenter {% endcomment %}
                     {% if presenters.size == 1 and event_data.person_title and event_data.person_title != "" %}
                         <p class="presenter-title text-muted mb-2">{{ event_data.person_title }}</p>
@@ -84,3 +93,31 @@ item-meta: true
         {% include item/browse-buttons.html %}
     {%- endif -%}
 </div>
+
+{% comment %} Biography Modal {% endcomment %}
+{% if event_data and event_data.biography_html and event_data.biography_html != "" %}
+<div class="modal fade" id="bioModal" tabindex="-1" role="dialog" aria-labelledby="bioModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title" id="bioModalLabel">
+                    {% if page.presenter %}
+                        {% assign presenters = page.presenter | split: ";" %}
+                        {% if presenters.size == 1 %}
+                            Biography
+                        {% else %}
+                            Biographies
+                        {% endif %}
+                    {% else %}
+                        Biography
+                    {% endif %}
+                </h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                {{ event_data.biography_html }}
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}

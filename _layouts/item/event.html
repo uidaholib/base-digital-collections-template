@@ -13,13 +13,19 @@ custom-foot: js/modal-hash-js.html
 <div class="row">
 <div class="col-md-6">
     {% assign old_web = site.data.old-website-data | where: "filename", page.objectid | first %}
+    {% if old_web.abstract_html %}
     <h2>Abstract</h2>
     {{old_web.abstract_html}}
-    <h2>Biography</h2>
-    {{old_web.biography_html }}
+    {% endif %}
+
 </div>
 <div class="col-md-6">
+{% assign video_child = children | where: "display_template", "video" | first %}
 
+{% include feature/video.html objectid=video_child.objectid %}
+    
+</div>
+<div class="col-12">
     {% include item/child/event-item-modal-gallery.html %}
 </div>
 </div>

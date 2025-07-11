@@ -8,9 +8,7 @@
 
 {% endcomment %}
 
-{% assign video_child = children | where: "display_template", "video" | first %}
 
-{% include feature/video.html objectid=video_child.objectid %}
 
 <div class="row row-cols-2 row-cols-lg-4 g-2">
     {% for child in children %}
