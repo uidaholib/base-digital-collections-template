@@ -31,6 +31,21 @@
                 </li>
                 {% endif %}
                 {%- endfor -%}
+                <li class="nav-item dropdown">
+                    {% assign events = site.data[site.metadata] | where: 'display_template', 'event' %}
+                    {%- assign childStubs = navChildren | map: 'stub' -%}
+                    <a class="nav-link  dropdown-toggle{% if childStubs contains page.url %} active{% endif %}" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Events</a>
+                    <div class="dropdown-menu dropdown-menu-lg-end">
+                        {% for e in events %}
+                        <a class="dropdown-item {% if page.url contains '/events/' %}active{% endif %}" href="{{ e.objectid | prepend: '/events/' | append: '.html' | relative_url }}">{% if e.presenter %}
+                                {% assign presenters = e.presenter | split: ';' %}
+                                {{ presenters[0] }}{% if presenters.size > 1 %} et al{% endif %}
+                            {% endif %} - {{ e.title | truncatewords: 7 }}
+                            
+                        </a>
+                        {% endfor %}
+                    </div>
+                </li>
             </ul>
             
             {% if site.central-search == true %}{% include nav-search-elastic.html %}{% else %}{% include nav-search-lunr.html %}{% endif %}

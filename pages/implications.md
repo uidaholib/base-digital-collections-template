@@ -1,12 +1,19 @@
 ---
-layout: page
+layout: page-narrow
 title: Implications
 permalink: /implications.html
 ---
 
 # Implications
 
-How we define and understand the interplay between the unique and universal has profound implications for our individual and collective capacities as human beings and as members of academic communities.
+<div class="row mb-4">
+  <div class="col-md-8">
+    <p class="lead">How we define and understand the interplay between the unique and universal has profound implications for our individual and collective capacities as human beings and as members of academic communities.</p>
+  </div>
+  <div class="col-md-4 text-center">
+    <img src="https://objects.lib.uidaho.edu/turningwheel/images/WheelBackground-2.jpg" alt="Wheel Background" class="img-fluid" />
+  </div>
+</div>
 
 ## Core Impacts
 

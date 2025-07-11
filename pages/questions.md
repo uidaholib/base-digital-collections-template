@@ -1,12 +1,19 @@
 ---
-layout: page
+layout: page-narrow
 title: Questions
 permalink: /questions.html
 ---
 
 # A Humanities Exploration – Initial Questions
 
-These questions are designed to guide our exploration of the interplay between the unique and universal. They invite investigation, reflection, and dialogue rather than providing definitive answers.
+<div class="row mb-4">
+  <div class="col-md-9">
+    <p class="lead">These questions are designed to guide our exploration of the interplay between the unique and universal. They invite investigation, reflection, and dialogue rather than providing definitive answers.</p>
+  </div>
+  <div class="col-md-3 text-center">
+    <img src="https://objects.lib.uidaho.edu/turningwheel/images/Medicine-Wheel.jpg" alt="Medicine Wheel" class="img-fluid" />
+  </div>
+</div>
 
 ---
 

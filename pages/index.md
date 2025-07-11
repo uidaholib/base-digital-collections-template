@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-narrow
 title: Home
 permalink: /
 ---
@@ -33,7 +33,7 @@ permalink: /
     </p>
     
     <p style="font-size:larger;text-align:right; margin-top:20px;">
-      <a href="/items/frey.html">Rodney Frey</a>, Distinguished Humanities Professor
+      <a href="{{ '/events/frey.html' | relative_url }}">Rodney Frey</a>, Distinguished Humanities Professor
     </p>
   </div>
   
@@ -44,40 +44,40 @@ permalink: /
       </div>
       <div class="card-body">
         <h3>Colloquium Talks</h3>
-        <a href="/items/adler.html">David Adler</a><br/>
-        <a href="/items/aiken.html">Katherine Aiken</a><br/>
-        <a href="/items/burnett.html">Donald Burnett</a><br/>
-        <a href="/items/chaney.html">Nancy Chaney</a><br/>
-        <a href="/items/deyasi.html">Marco Deyasi</a><br/>
-        <a href="/items/drown.html">Stephen Drown</a><br/>
-        <a href="/items/edwards.html">Dan Edwards</a><br/>
-        <a href="/items/eigenbrode.html">Sanford Eigenbrode</a><br/>
-        <a href="/items/foster.html">James Foster</a><br/>
-        <a href="/items/frey.html">Rodney Frey (Keynote)</a><br/>
-        <a href="/items/gasser.html">Heather Gasser</a><br/>
-        <a href="/items/johnson.html">Janis Johnson</a><br/>
-        <a href="/items/machlis_keim-campbell.html">Sally Graves Machlis & Delphine Keim-Campbell</a><br/>
-        <a href="/items/mihelich.html">John Mihelich</a><br/>
-        <a href="/items/orourke.html">Michael O'Rourke</a><br/>
-        <a href="/items/peterson.html">Marty Peterson</a><br/>
-        <a href="/items/reese.html">Garth Reese</a><br/>
-        <a href="/items/schrand.html">Brandon Schrand</a><br/>
-        <a href="/items/smith.html">Bill Smith</a><br/>
-        <a href="/items/suarez.html">Carmen Suarez</a><br/>
-        <a href="/items/trahant.html">Mark Trahant</a><br/>
-        <a href="/items/voxman.html">Bill Voxman</a><br/>
+        <a href="{{ '/events/adler.html' | relative_url }}">David Adler</a><br/>
+        <a href="{{ '/events/aiken.html' | relative_url }}">Katherine Aiken</a><br/>
+        <a href="{{ '/events/burnett.html' | relative_url }}">Donald Burnett</a><br/>
+        <a href="{{ '/events/chaney.html' | relative_url }}">Nancy Chaney</a><br/>
+        <a href="{{ '/events/deyasi.html' | relative_url }}">Marco Deyasi</a><br/>
+        <a href="{{ '/events/drown.html' | relative_url }}">Stephen Drown</a><br/>
+        <a href="{{ '/events/edwards.html' | relative_url }}">Dan Edwards</a><br/>
+        <a href="{{ '/events/eigenbrode.html' | relative_url }}">Sanford Eigenbrode</a><br/>
+        <a href="{{ '/events/foster.html' | relative_url }}">James Foster</a><br/>
+        <a href="{{ '/events/frey.html' | relative_url }}">Rodney Frey (Keynote)</a><br/>
+        <a href="{{ '/events/gasser.html' | relative_url }}">Heather Gasser</a><br/>
+        <a href="{{ '/events/johnson.html' | relative_url }}">Janis Johnson</a><br/>
+        <a href="{{ '/events/machlis_keim-campbell.html' | relative_url }}">Sally Graves Machlis & Delphine Keim-Campbell</a><br/>
+        <a href="{{ '/events/mihelich.html' | relative_url }}">John Mihelich</a><br/>
+        <a href="{{ '/events/orourke.html' | relative_url }}">Michael O'Rourke</a><br/>
+        <a href="{{ '/events/peterson.html' | relative_url }}">Marty Peterson</a><br/>
+        <a href="{{ '/events/reese.html' | relative_url }}">Garth Reese</a><br/>
+        <a href="{{ '/events/schrand.html' | relative_url }}">Brandon Schrand</a><br/>
+        <a href="{{ '/events/smith.html' | relative_url }}">Bill Smith</a><br/>
+        <a href="{{ '/events/suarez.html' | relative_url }}">Carmen Suarez</a><br/>
+        <a href="{{ '/events/trahant.html' | relative_url }}">Mark Trahant</a><br/>
+        <a href="{{ '/events/voxman.html' | relative_url }}">Bill Voxman</a><br/>
         
         <h3 style="margin-top:20px;">Performances</h3>
-        <a href="/items/dora.html">Adoration of Dora</a><br/>
-        <a href="/items/bilderback.html">Barry Bilderback (Ghanaian Music)</a><br/>
-        <a href="/items/bukvich.html">Dan Bukvich and Jazz Choir</a><br/>
-        <!-- <a href="/items/onefoot.html">One Foot</a><br/> -->
+        <a href="{{ '/events/dora.html' | relative_url }}">Adoration of Dora</a><br/>
+        <a href="{{ '/events/bilderback.html' | relative_url }}">Barry Bilderback (Ghanaian Music)</a><br/>
+        <a href="{{ '/events/bukvich.html' | relative_url }}">Dan Bukvich and Jazz Choir</a><br/>
+        <!-- <a href="/events/onefoot.html">One Foot</a><br/> -->
         
         <h3 style="margin-top:20px;">Discussions</h3>
-        <a href="/items/doradiscussion.html">Art about Art (Adoration of Dora)</a><br/>
-        <a href="/items/indigenous.html">Indigenous Women's Perspectives</a><br/>
-        <a href="/items/nezpercejazz.html">Nez Perce Jazz Musicians</a><br/>
-        <a href="/items/mfa.html">MFA Creative Writing Students</a><br/>
+        <a href="{{ '/events/doradiscussion.html' | relative_url }}">Art about Art (Adoration of Dora)</a><br/>
+        <a href="{{ '/events/indigenous.html' | relative_url }}">Indigenous Women's Perspectives</a><br/>
+        <a href="{{ '/events/nezpercejazz.html' | relative_url }}">Nez Perce Jazz Musicians</a><br/>
+        <a href="{{ '/events/mfa.html' | relative_url }}">MFA Creative Writing Students</a><br/>
       </div>
     </div>
   </div>

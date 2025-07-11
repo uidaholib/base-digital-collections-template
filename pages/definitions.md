@@ -1,10 +1,14 @@
 ---
-layout: page
+layout: page-narrow
 title: Definitions
 permalink: /definitions.html
 ---
 
 # Definitions
+
+<div class="text-center mb-4">
+  <img src="https://objects.lib.uidaho.edu/turningwheel/images/TurningWheel400.jpg" alt="Turning Wheel" class="img-fluid" style="max-width: 400px;" />
+</div>
 
 This page outlines the key concepts and frameworks that underpin the "Turning of the Wheel" humanities exploration.
 

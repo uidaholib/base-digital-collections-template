@@ -30,7 +30,7 @@ central-search: true
 # title of site appears in banner
 title: Turning of the Wheel
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The interplay of the Unique and Universal
+tagline: The interplay of the Unique and Universal -- Events from the Renfrew Colloquium, 2012
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A Digital Collection of Events from the Humanities Colloquium Series, Turning of the Wheel, University of Idaho, 2011-2012."
@@ -48,13 +48,13 @@ author: CollectionBuilder
 metadata: turningwheel
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
-# page_gen:
-#   - data: 'demo-metadata'
-#     template: 'item'
-#     name: 'objectid'
-#     dir: 'items'
-#     extension: 'html' 
-#     filter: 'objectid'  
+page_gen:
+  - data: 'turningwheel'
+    template: 'item'
+    name: 'objectid'
+    dir: 'events'
+    extension: 'html' 
+    filter: 'objectid'  
 
 ##########
 # Site/Organization Branding 
