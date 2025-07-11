@@ -1,0 +1,29 @@
+---
+# basic layout for compound object items
+# uses _includes/item/child/ includes to add multiple objects to the item page in a gallery
+# each object is represented in a modal
+layout: item/item-event-base
+gallery: true
+custom-foot: js/modal-hash-js.html
+---
+{% assign children = site.data[site.metadata] | where_exp: 'item','item.parentid == page.objectid' %}
+
+<div class="mb-4 ">
+    
+<div class="row">
+<div class="col-md-6">
+    {% assign old_web = site.data.old-website-data | where: "filename", page.objectid | first %}
+    <h2>Abstract</h2>
+    {{old_web.abstract_html}}
+    <h2>Biography</h2>
+    {{old_web.biography_html }}
+</div>
+<div class="col-md-6">
+
+    {% include item/child/event-item-modal-gallery.html %}
+</div>
+</div>
+    <div class="my-2">
+        {% include item/child/compound-item-download-buttons.html %}
+    </div>
+</div>
