@@ -37,7 +37,7 @@
                     <a class="nav-link  dropdown-toggle{% if childStubs contains page.url %} active{% endif %}" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Events</a>
                     <div class="dropdown-menu dropdown-menu-lg-end">
                         {% for e in events %}
-                        <a class="dropdown-item {% if page.url contains '/events/' %}active{% endif %}" href="{{ e.objectid | prepend: '/events/' | append: '.html' | relative_url }}">{% if e.presenter %}
+                        <a class="dropdown-item {% if page.url contains e.objectid %}active{% endif %}" href="{{ e.objectid | prepend: '/events/' | append: '.html' | relative_url }}">{% if e.presenter %}
                                 {% assign presenters = e.presenter | split: ';' %}
                                 {{ presenters[0] }}{% if presenters.size > 1 %} et al{% endif %}
                             {% endif %} - {{ e.title | truncatewords: 7 }}
