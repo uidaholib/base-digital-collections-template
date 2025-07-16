@@ -163,22 +163,5 @@ This collection of resources provides diverse perspectives on the interplay betw
 </div>
 
 
----
-
-## Access and Exploration
-
-<div class="alert alert-info">
-<h5>How to Use These Resources</h5>
-<p>Each vignette represents a different lens through which to explore the interplay between unique and universal. They can be approached individually or in combination, through various disciplinary perspectives, and in dialogue with contemporary questions and challenges.</p>
-</div>
-
-<div class="alert alert-secondary">
-<h5>Additional Resources</h5>
-<p>Many of these vignettes connect to materials in the <a href="/turning/PDF/">PDF collection</a> and link to faculty presentations and discussions throughout the colloquium series. Cross-references to specific events can be found in the <a href="/schedule.html">Schedule</a>.</p>
-</div>
-
----
-
-*These resources provide multiple entry points for exploring the central questions of the "Turning of the Wheel" series. They represent diverse cultural wisdom, scientific insights, and artistic expressions that illuminate different aspects of the relationship between human diversity and shared humanity.*
 
 [Return to top](#top)

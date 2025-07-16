@@ -15,7 +15,49 @@ custom-foot: js/modal-hash-js.html
     {% assign old_web = site.data.old-website-data | where: "filename", page.objectid | first %}
     {% if old_web.abstract_html %}
     <h2>Abstract</h2>
-    {{old_web.abstract_html}}
+    
+    {% comment %} Split abstract into paragraphs and get the first one {% endcomment %}
+    {% assign abstract_paragraphs = old_web.abstract_html | split: '</p>' %}
+    {% assign first_paragraph = abstract_paragraphs.first | append: '</p>' %}
+    {% assign remaining_paragraphs = abstract_paragraphs | slice: 1, abstract_paragraphs.size %}
+    {% assign remaining_text = remaining_paragraphs | join: '</p>' %}
+    
+    {% comment %} Display first paragraph {% endcomment %}
+    {{ first_paragraph }}
+    
+    {% comment %} If there's more content, show expand button {% endcomment %}
+    {% if remaining_text != '' and remaining_text != '</p>' %}
+        <p>
+            <button class="btn btn-outline-secondary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#abstract-{{ page.objectid | slugify }}" aria-expanded="false" aria-controls="abstract-{{ page.objectid | slugify }}">
+                <span class="expand-text">... expand to see more</span>
+                <span class="collapse-text d-none">show less</span>
+            </button>
+        </p>
+        <div class="collapse" id="abstract-{{ page.objectid | slugify }}">
+            <div class="border-start border-secondary ps-3 ms-2">
+                {{ remaining_text }}
+            </div>
+        </div>
+        
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var collapseElement = document.getElementById('abstract-{{ page.objectid | slugify }}');
+                var button = document.querySelector('[data-bs-target="#abstract-{{ page.objectid | slugify }}"]');
+                var expandText = button.querySelector('.expand-text');
+                var collapseText = button.querySelector('.collapse-text');
+                
+                collapseElement.addEventListener('show.bs.collapse', function () {
+                    expandText.classList.add('d-none');
+                    collapseText.classList.remove('d-none');
+                });
+                
+                collapseElement.addEventListener('hide.bs.collapse', function () {
+                    expandText.classList.remove('d-none');
+                    collapseText.classList.add('d-none');
+                });
+            });
+        </script>
+    {% endif %}
     {% endif %}
 
 </div>

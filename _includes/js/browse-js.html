@@ -27,7 +27,7 @@ function makeCard(obj) {
     // placeholder image for lazyload
     var placeholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E";
     // find item link
-    var itemHref = `{{ '/items/' | relative_url }}${ obj.parent ? obj.parent + ".html#" + obj.id : obj.id + ".html"}`; 
+    var itemHref = `{% if site.page_gen[0].dir and site.page_gen[0].dir != 'items' %}{{ site.page_gen[0].dir | append: '/' | relative_url }}{% else %}{{ '/items/' | relative_url }}{% endif %}${ obj.parent ? obj.parent + ".html#" + obj.id : obj.id + ".html"}`; 
     // find image
     var imgSrc, thumbIcon;
     // if there is a thumb in the csv display it
