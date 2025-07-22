@@ -12,6 +12,7 @@ idaho_county,Idaho County,true,
 latitude,Latitude
 longitude,Longitude
 collection,Source Collection
+series,Series,true,
 publisher,Publisher
 source,Source
 finding aid,Finding Aid,,true

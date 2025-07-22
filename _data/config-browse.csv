@@ -3,4 +3,5 @@ date,Date,,,Date
 subject,,true
 location,,true
 idaho_county,Idaho County,,true,,
+series,Series,,true,,
 identifier,,,true,Identifier
