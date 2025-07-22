@@ -4,6 +4,7 @@ ccc-camp-number,Camp #,true
 ccc-company-number,Company #,true
 subject,,true
 location,,true
+idaho_county,Idaho County,,true,
 source,,,true
 format-original,,,true
 contributing institution,,,true
