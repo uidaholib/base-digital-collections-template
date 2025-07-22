@@ -3,5 +3,6 @@ date,Date,,,Date
 creator,Photographer,,,
 subject,,true
 location,,true
+idaho_county,Idaho County,,true,,
 features,Features,true
 identifier,,,true,Identifier
