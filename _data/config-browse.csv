@@ -3,4 +3,5 @@ date,Date,,,Date
 subject,,true
 location,,true
 region,,true
+idaho_county,Idaho County,,yes,
 identifier,,,true,Identifier

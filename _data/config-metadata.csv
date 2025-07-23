@@ -10,6 +10,7 @@ subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,true,,,contentLocation
 location (lcsh),Locations (LSCH),,,,
 region,Region,true
+idaho_county,Idaho County,true,
 subject (lcsh),Subjects (LSCH),,,,
 subject (lctgm), Subjects (LCTGM),,,,
 latitude,Latitude
