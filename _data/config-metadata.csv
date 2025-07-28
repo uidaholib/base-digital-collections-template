@@ -6,6 +6,7 @@ date is approximate,Approximated Date
 description,Description,,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
 location,Location,true,,contentLocation
+idaho_county,Idaho County,true
 features,Features,true
 latitude,Latitude
 longitude,Longitude
