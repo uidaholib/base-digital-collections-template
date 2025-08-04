@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/kibbiedome/coverimage03.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV" %}
+{% include feature/nav-menu.html sections="The Collection;History of the Kibbie Dome;Sources" %}
 
 ## The Collection
 
@@ -82,7 +82,7 @@ Vandal track and field, along with tennis, also moved into the Kibbie Dome in 19
 
 ### ...And So Much More
 
-Purpose built as a flexible indoor activity center and the largest event space in the city, the Kibbie Dome has been transformed into a concert venue, a sales floor, a ceremonial stage, a memorial site, a polling location, and much more. When alumni or local residents are asked about their most vivid Kibbie Dome memories, responses run the gambit from seeing Kenny Rogers perform to being enchanted by Lipizzaner Stallions to walking across the stage as a Moscow High School graduate. Countless memories have been made in the Kibbie Dome during its first half-century, and countless more lie ahead.  
+Purpose built as a flexible indoor activity center and the largest event space in the city, the Kibbie Dome has been transformed into a concert venue, a sales floor, a ceremonial stage, a memorial site, a polling location, and much more. When alumni or local residents are asked about their most vivid Kibbie Dome memories, responses run the gamut from seeing Kenny Rogers perform to being enchanted by Lipizzaner Stallions to walking across the stage as a Moscow High School graduate. Countless memories have been made in the Kibbie Dome during its first half-century, and countless more lie ahead.  
 
 {% include feature/image.html objectid="kibbiedome011" width="50" %}
 
@@ -95,21 +95,6 @@ Events organized by private groups, like businesses or local organizations, roun
 {% include feature/image.html objectid="kibbiedome168" width="75" %}
 
 Today, the P1FCU Kibbie Dome stands as a testament to the perseverance and ingenuity of the University of Idaho community. It has not been without its problems and controversies, including students' objections to bearing the cost of its construction and upgrades, tension over official and unofficial names for the building, costly repairs and associated lawsuits, debates over alcohol and glass container policies, and concerns that Vandals football has gained excessive priority over other student sports and programming. Nevertheless, it has evolved from a novel experiment in indoor sports architecture to an essential part of the university's athletic and cultural life. It is a venue that has seen generations of students and alumni come together to celebrate their community, its athletes, and the institution's achievements. 
-
-## About CollectionBuilder CSV
-
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
-
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
 ## Sources
 
