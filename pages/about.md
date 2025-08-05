@@ -98,16 +98,16 @@ Today, the P1FCU Kibbie Dome stands as a testament to the perseverance and ingen
 
 ## Sources
 
-[^1]: Kibbie/ASUI Activities Center pamphlet. 1975. [https://www.lib.uidaho.edu/digital/kibbiedome/kibbiedome268.html](https://www.lib.uidaho.edu/digital/kibbiedome/kibbiedome268.html)
+[^1]: Kibbie/ASUI Activities Center pamphlet. 1975. [https://www.lib.uidaho.edu/digital/kibbiedome/items/kibbiedome268.html](https://www.lib.uidaho.edu/digital/kibbiedome/items/kibbiedome268.html)
 
 [^2]: "Neale Stadium burns." The Idaho Argonaut. November 25, 1969. [https://www.lib.uidaho.edu/digital/argonaut/items/arg-1969-11-25.html](https://www.lib.uidaho.edu/digital/argonaut/items/arg-1969-11-25.html)
 
 [^3]: Building the Kibbie Dome (1975). YouTube. [https://www.youtube.com/watch?v=BnXltcy54co](https://www.youtube.com/watch?v=BnXltcy54co)
 
-[^4]: William H. Kibbie letter to Ernest Hartung re: pledge of money. 1974. [https://www.lib.uidaho.edu/digital/kibbiedome/kibbiedome261.html](https://www.lib.uidaho.edu/digital/kibbiedome/kibbiedome261.html)
+[^4]: William H. Kibbie letter to Ernest Hartung re: pledge of money. 1974. [https://www.lib.uidaho.edu/digital/kibbiedome/items/kibbiedome261.html](https://www.lib.uidaho.edu/digital/kibbiedome/items/kibbiedome261.html)
 
-[^5]: ASUI letter to the Argonaut regarding dome name. 1975. [https://www.lib.uidaho.edu/digital/kibbiedome/kibbiedome205.html](https://www.lib.uidaho.edu/digital/kibbiedome/kibbiedome205.html)
+[^5]: ASUI letter to the Argonaut regarding dome name. 1975. [https://www.lib.uidaho.edu/digital/kibbiedome/items/kibbiedome205.html](https://www.lib.uidaho.edu/digital/kibbiedome/items/kibbiedome205.html)
 
-[^6]: Name change proposal. 1981. [https://www.lib.uidaho.edu/digital/kibbiedome/kibbiedome260.html](https://www.lib.uidaho.edu/digital/kibbiedome/kibbiedome260.html)
+[^6]: Name change proposal. 1981. [https://www.lib.uidaho.edu/digital/kibbiedome/items/kibbiedome260.html](https://www.lib.uidaho.edu/digital/kibbiedome/items/kibbiedome260.html)
 
 [^7]: Bonagura, Kyle, and Dave Wilson. "An ode to the Kibbie Dome, college football's weirdest stadium." ESPN. October 7,2021. Archived: [https://perma.cc/XZ9L-VBDL](https://perma.cc/XZ9L-VBDL)
