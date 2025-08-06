@@ -35,7 +35,7 @@ In the fall of 1975, University of Idaho students and Vandal fans walked into th
 
 Athletic activities in Moscow date back to 1893, just months after the University of Idaho opened its doors. University football games, track and field events, and other sports brought together athletes and spectators in whatever open spaces were available, both on campus and in the growing town. An open field between the Administration Building and Memorial Gym, named MacLean Field in honor of the university's third president, James MacLean, was the site of many sports events beginning in the 1920s. 
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/pg2/pg2707.jpg" width="75" %}
+{% include feature/image.html objectid="pg2707" width="75" %}
 
 By the mid-1930s, despite hardships imposed by the Great Depression, the university constructed its first stadium. Neale Stadium, named for University President Mervin G. Neale, was completed in time to host the 1937 football season. It was a horseshoe shaped complex that relied on campus topography to create an earthen semi-circular ring around the athletic fields. Wooden benches could accommodate several hundred fans, though the facility still lacked locker rooms or outdoor lighting. For three decades Vandal fans packed the bleachers of Neale Stadium for football games and track and field events. Harsh Palouse winters and general wear and tear took a toll on Neale Stadium; it was condemned in the summer of 1969 and burned down in November 1969.[^2] 
 
