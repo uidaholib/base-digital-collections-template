@@ -29,7 +29,7 @@ Discover more Kibbie Dome-related material in other University of Idaho Library 
 
 ### Before the Dome
 
-In the fall of 1975, University of Idaho students and Vandal fans walked into the Kibbie ASUI Activity Center for the very first time. The covered stadium was visually striking, with a 400-foot-span barrel dome that crested 12 stories above the ground.[^1] The enclosed stadium was a much more comfortable and modern facility than previous visitors had ever previously enjoyed on the University of Idaho campus. 
+In the fall of 1975, University of Idaho students and Vandal fans walked into the Kibbie ASUI Activity Center for the very first time. The covered stadium was visually striking, with a 400-foot-span barrel dome that crested 12 stories above the ground.[^1] The enclosed stadium was a much more comfortable and modern facility than previous visitors had ever enjoyed on the University of Idaho campus. 
 
 {% include feature/image.html objectid="kibbiedome130" %}
 
