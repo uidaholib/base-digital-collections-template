@@ -111,5 +111,5 @@ Today, the P1FCU Kibbie Dome stands as a testament to the perseverance and ingen
 
 [^8]: Richert, Kevin. "What's in a name -- or names -- at the U of I?" Idaho Education News. June 21, 2023. [https://www.idahoednews.org/kevins-blog/whats-in-a-name-or-names-at-the-u-of-i/](https://www.idahoednews.org/kevins-blog/whats-in-a-name-or-names-at-the-u-of-i/). Archived: [https://perma.cc/CWZ2-CPKR](https://perma.cc/CWZ2-CPKR)
 
-^[9]: University of Idaho vs. Boise State University (Football), 10/11/1975. Vandal Video Collection. 1975. [https://www.lib.uidaho.edu/digital/vandalvideo/items/vandalvideo45.html](https://www.lib.uidaho.edu/digital/vandalvideo/items/vandalvideo45.html)
+[^9]: University of Idaho vs. Boise State University (Football), 10/11/1975. Vandal Video Collection. 1975. [https://www.lib.uidaho.edu/digital/vandalvideo/items/vandalvideo45.html](https://www.lib.uidaho.edu/digital/vandalvideo/items/vandalvideo45.html)
 
