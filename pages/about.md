@@ -91,7 +91,7 @@ The Kibbie Dome has served an important role in the greater Moscow community. Ev
 
 {% include feature/image.html objectid="kibbiedome168" width="75" %}
 
-Today, the P1FCU Kibbie Dome stands as a testament to the perseverance and ingenuity of the University of Idaho community. It has not been without its problems and controversies, including students' objections to bearing the cost of its construction and upgrades, tension over official and unofficial names for the building, costly repairs and associated lawsuits, debates over alcohol and glass container policies, and concerns that Vandals football has gained excessive priority over other student sports and programming. Nevertheless, it has evolved from a novel experiment in indoor sports architecture to an essential part of the university's athletic and cultural life. It is a venue that has seen generations of students and alumni come together to celebrate their community, its athletes, and the institution's achievements. 
+Today, the P1FCU Kibbie Dome stands as a testament to the perseverance and ingenuity of the University of Idaho community. It has evolved from a novel experiment in indoor sports architecture to an essential part of the university’s athletic and cultural life. It is a venue that has seen generations of students and alumni come together to celebrate their community, its athletes, and the institution’s achievements. 
 
 ## Sources
 
