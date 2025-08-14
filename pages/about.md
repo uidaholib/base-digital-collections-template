@@ -16,7 +16,7 @@ credits: true
 
 This digital collection was developed in recognition of the P1FCU Kibbie Dome's 50th anniversary in 2025. It presents a selection of images and documents from the archival collections of the University of Idaho Library's Special Collections and Archives, with a special emphasis on the Kibbie Dome's formative era in the mid-1970s. The events and subjects represented in this digital collection reflect the history of the Kibbie Dome and some of its predecessor sports facilities on the University of Idaho campus.
 
-All but a few of these historical images and documents were newly digitized for this collection. This curated selection showcases the Kibbie Dome's half-century history through the lens of the University of Idaho's archival collections, reflecting the rich and serendipitous nature of historical documentation. Eras of the building's history are illustrated by different kinds of archival materials that capture the spirit and activities of their respective eras. 
+All but a few of these historical images and documents were newly digitized for this collection. This curated selection showcases the Kibbie Dome's half-century history through the lens of the University of Idaho's archival collections, reflecting the rich and serendipitous nature of historical documentation. The building's history is illustrated by different kinds of archival materials that capture the spirit and activities of their respective eras. 
 
 Discover more Kibbie Dome-related material in other University of Idaho Library digital collections:
 - The [Vandal Video Collection](https://www.lib.uidaho.edu/digital/vandalvideo/) includes videos of football and basketball games held in the Kibbie Dome.
