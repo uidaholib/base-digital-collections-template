@@ -8,15 +8,15 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="kooskia891" %} 
+{% include feature/jumbotron.html objectid="kooskia119" %} 
 
-*The below is adapted (with permission) from the Asian American Comparative Collection's [website](http://www.uiweb.uidaho.edu/LS/AACC/KOOSKIA.HTM), written by Dr. Priscilla Wegars. Dr. Wegars has also written a book on the Kooskia Internment Camp; the book's catalog record is linked [here](http://uidaho.worldcat.org/oclc/639164294) and below.*
+*The below is adapted (with permission) from the Asian American Comparative Collection's [website](https://www.uidaho.edu/class/anthrolab/collections/aacc/research/kooskia), written by Dr. Priscilla Wegars. Dr. Wegars has also written a book on the Kooskia Internment Camp; the book's catalog record is linked [here](https://search.worldcat.org/title/639164294) and below.*
 
 {% include feature/nav-menu.html sections="About the Camp;About the Scrapbook;For More Information" %} 
 
 ## ABOUT THE CAMP
 
-{% include feature/image.html objectid="kooskia793" width="50" float="center" caption="Image of sign at Kooskia Internment Camp reading, 'U.S. Department of Justice Kooskia Internment Camp Reservation for next 3 miles. No admission except on official business'. Photo taken from 12-3/4 x 15-1/4 Photograph album of the Kooskia Japanese Internment Camp." %}
+{% include feature/image.html objectid="kooskia009" width="50" %}
 
 The Kooskia (pronounced KOOS-key) Internment Camp is an obscure and virtually forgotten World War II detention facility that was located in a remote area of north central Idaho, 30 miles from the town of Kooskia, and 6 miles east of the hamlet of Lowell, at Canyon Creek.
 The camp was administered by the U.S. Immigration and Naturalization Service (INS) for the U.S. Department of Justice.
@@ -31,7 +31,7 @@ They included  Reverend [Hozen Seki](http://www.nytimes.com/1991/07/25/obituarie
 
 Dr. Wegars' research has uncovered INS, Forest Service, Border Patrol, and University of Idaho photographs and other records.
 These, combined with internee and employee oral and written interviews, illuminate the internees' experiences, emphasizing the perspectives of the men detained at the Kooskia Internment Camp.
-For more information see her [website](http://www.uiweb.uidaho.edu/LS/AACC/KOOSKIA.HTM").
+
 
 ## ABOUT THE SCRAPBOOK
 
@@ -40,17 +40,17 @@ The Kooskia Internment Camp Scrapbook is a hand-made manuscript consisting of 14
 In 2005, the son of one of the camp's now-deceased guards discovered the scrapbook among family memorabilia and offered it to the University of Idaho.
 Consequently, the scrapbook was purchased by the University of Idaho Library with financial assistance from the Library Associates, a friends group.
 
-The scrapbook is located at the University of Idaho Special Collections & Archives and cataloged as Photograph Group 103.
+The scrapbook is located at the University of Idaho Special Collections & Archives and cataloged as [Photograph Group 103](https://archiveswest.orbiscascade.org/ark:80444/xv838108).
 
 ## For More Information
 
-Wegars, Priscilla. [Imprisoned in Paradise: Japanese Internee Road Workers at the World War Ii Kooskia Internment Camp](http://uidaho.worldcat.org/oclc/639164294).
+Wegars, Priscilla. [Imprisoned in Paradise: Japanese Internee Road Workers at the World War II Kooskia Internment Camp](http://uidaho.worldcat.org/oclc/639164294).
 Moscow, Idaho: Asian American Comparative Collection, University of Idaho, 2010.
 
-Wegars, Priscilla. "Japanese and Japanese Latin Americans at Idaho's Kooskia Internment Camp," [*Guilt by Association: Essays on Japanese Settlement, Internment, and Relocation in the Rocky Mountain West*](http://uidaho.worldcat.org/oclc/47143890), Ed. Mike Mackey.
+Wegars, Priscilla. "Japanese and Japanese Latin Americans at Idaho's Kooskia Internment Camp," [*Guilt by Association: Essays on Japanese Settlement, Internment, and Relocation in the Rocky Mountain West*](https://search.worldcat.org/title/47143890), Ed. Mike Mackey.
 Powell, WY: Western History Publications, 2001, pp. 145-183.
 
 The University of Idaho Library also holds an internment camp diary written in Japanese.
-More information regarding the diary can be found [here](http://www.lib.uidaho.edu/special-collections/dm/dm1997.htm). 
+More information regarding the diary can be found [here](https://harvester.lib.uidaho.edu/posts/2021/02/19/minidoka-letter.html). 
 
 The Shitamae Family Letters Collection which contains letters from the Mindioka Incarceration Camp can be found [here](https://www.lib.uidaho.edu/digital/shitamae/).
