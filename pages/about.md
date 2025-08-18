@@ -35,7 +35,7 @@ These, combined with internee and employee oral and written interviews, illumina
 
 ## ABOUT THE SCRAPBOOK
 
-The Kooskia Internment Camp Scrapbook is a hand-made manuscript consisting of 148 photographs (and two drawings) of activities and and buildings related the Kooskia Internment Camp.
+The Kooskia Internment Camp Scrapbook is a hand-made manuscript consisting of 148 photographs (and two drawings) of activities and buildings related the Kooskia Internment Camp.
 
 In 2005, the son of one of the camp's now-deceased guards discovered the scrapbook among family memorabilia and offered it to the University of Idaho.
 Consequently, the scrapbook was purchased by the University of Idaho Library with financial assistance from the Library Associates, a friends group.
