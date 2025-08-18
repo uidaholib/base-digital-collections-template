@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="kooskia119" %} 
+{% include feature/jumbotron.html objectid="kooskia789" %} 
 
 *The below is adapted (with permission) from the Asian American Comparative Collection's [website](https://www.uidaho.edu/class/anthrolab/collections/aacc/research/kooskia), written by Dr. Priscilla Wegars. Dr. Wegars has also written a book on the Kooskia Internment Camp; the book's catalog record is linked [here](https://search.worldcat.org/title/639164294) and below.*
 
@@ -16,7 +16,7 @@ credits: true
 
 ## ABOUT THE CAMP
 
-{% include feature/image.html objectid="kooskia009" width="50" %}
+{% include feature/image.html objectid="kooskia793" width="50" %}
 
 The Kooskia (pronounced KOOS-key) Internment Camp is an obscure and virtually forgotten World War II detention facility that was located in a remote area of north central Idaho, 30 miles from the town of Kooskia, and 6 miles east of the hamlet of Lowell, at Canyon Creek.
 The camp was administered by the U.S. Immigration and Naturalization Service (INS) for the U.S. Department of Justice.
