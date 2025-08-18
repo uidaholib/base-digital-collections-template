@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="kooskia789" %} 
 
-*The below is adapted (with permission) from the Asian American Comparative Collection's [website](https://www.uidaho.edu/class/anthrolab/collections/aacc/research/kooskia), written by Dr. Priscilla Wegars. Dr. Wegars has also written a book on the Kooskia Internment Camp; the book's catalog record is linked [here](https://search.worldcat.org/title/639164294) and below.*
+*The below is adapted (with permission) from the Asian American Comparative Collection's [website](https://web.archive.org/web/20250210232912/https://www.uidaho.edu/class/anthrolab/collections/aacc/research/kooskia), written by Dr. Priscilla Wegars. Dr. Wegars has also written a book on the Kooskia Internment Camp; the book's catalog record is linked [here](https://search.worldcat.org/title/639164294) and below.*
 
 {% include feature/nav-menu.html sections="About the Camp;About the Scrapbook;For More Information" %} 
 
@@ -44,7 +44,7 @@ The scrapbook is located at the University of Idaho Special Collections & Archiv
 
 ## For More Information
 
-Wegars, Priscilla. [Imprisoned in Paradise: Japanese Internee Road Workers at the World War II Kooskia Internment Camp](http://uidaho.worldcat.org/oclc/639164294).
+Wegars, Priscilla. [Imprisoned in Paradise: Japanese Internee Road Workers at the World War II Kooskia Internment Camp]((https://search.worldcat.org/title/639164294).
 Moscow, Idaho: Asian American Comparative Collection, University of Idaho, 2010.
 
 Wegars, Priscilla. "Japanese and Japanese Latin Americans at Idaho's Kooskia Internment Camp," [*Guilt by Association: Essays on Japanese Settlement, Internment, and Relocation in the Rocky Mountain West*](https://search.worldcat.org/title/47143890), Ed. Mike Mackey.
