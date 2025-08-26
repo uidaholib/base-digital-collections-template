@@ -52,4 +52,4 @@ Powell, WY: Western History Publications, 2001, pp. 145-183.
 
 The University of Idaho Library also holds an [internment camp diary written in Japanese.](https://harvester.lib.uidaho.edu/posts/2021/02/19/minidoka-letter.html) 
 
-[The Shitamae Family Letters Collection](https://www.lib.uidaho.edu/digital/shitamae/) contains letters from the Mindioka Incarceration Camp can be found.
+[The Shitamae Family Letters Collection](https://www.lib.uidaho.edu/digital/shitamae/) contains letters from the Mindioka Incarceration Camp.
