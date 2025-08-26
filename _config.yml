@@ -28,12 +28,12 @@ central-search:
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Priest River Collection
+title: Priest River Photograph Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Northern Idaho Historic Photograph Collection
+tagline: Community, Organizations and Timber Heritage of Priest River, Idaho
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Historic photographs from around the Priest River area from the collection of local historian Marylyn Cork."
+description: "An ongoing digital collection of nearly 1,800 images documenting the people, industries, and daily life of Priest River and the surrounding communities in Bonner County. The physical collection was initiated in the 1980s by Roger Gregory and later expanded by local historian Marylyn Cork, growing through community contributions and a shared commitment to remembering the town’s labor history. Digitized with support from the Idaho Humanities Council, the photographs are available online through the University of Idaho, while the physical collection is housed at the Priest River Library, where researchers should direct inquiries."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho; logging; photography
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
