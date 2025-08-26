@@ -8,6 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/alert.html text="**Please Note:** Materials in this digital collection are not held by University of Idaho Library Special Collections and Archives. Please contact Priest River Library at library@westbonnerlibrary.org for information." color="light" align="center" %}
+
 {% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/priestriver/banner.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About Marylyn Cork;About Priest River" %}
