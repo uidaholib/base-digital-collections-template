@@ -11,12 +11,17 @@ credits: true
 {% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/priestriver/banner.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About Marylyn Cork;About Priest River" %}
+---
 
-{% include feature/image.html objectid="priestriver0258" %}
+**Authored by Christa Shanaman**  
+Priest River Library
+
 
 ## About the Collection
 
 The first photographs in this collection were given to Roger Gregory, through a grant he received from the Idaho Humanities Council, then known as the Council for the Humanities in Idaho, in the 1980s. Roger initially collected the first photographs as copies from Chuck Peterson of Hope, Idaho, a retired Forest Service employee. Mr. Peterson had collected a massive assortment of historical photos of Bonner County, including the Priest River-Priest Lake communities. 
+
+{% include feature/image.html objectid="priestriver0258" %}
 
 Roger Gregory’s intent was to restore community pride to a timber town in recession, and one which had almost forgotten its glorious past. He needed photos to assist in this process. A very active businessman at the time, he solicited the help of two local women to assist him. One was to collect the photos from old-timers and their descendants, and the other would gather whatever information was still available about them.  
 
