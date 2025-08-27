@@ -71,11 +71,11 @@ This collection was compiled by Courtney Berge and Devin Becker from several col
 
 ## References
 
-[^1]: [1918 Pandemic (H1N1 Virus)](https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.html), Centers for Disease Control and Prevention, National Center for Immunization and Respiratory Diseases (NCIRD), https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.html Accessed 13 April 2020.
+[^1]: [1918 Pandemic (H1N1 Virus)](https://archive.cdc.gov/#/details?url=https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.html), Centers for Disease Control and Prevention, National Center for Immunization and Respiratory Diseases (NCIRD), https://archive.cdc.gov/#/details?url=https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.html Accessed 27 August 2025.
 
-[^2]: [1918 Pandemic Influenza: Three Waves](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/three-waves.html), Centers for Disease Control and Prevention, National Center for Immunization and Respiratory Diseases (NCIRD), https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/three-waves.html. Accessed 13 April 2020.
+[^2]: [1918 Pandemic Influenza: Three Waves](https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-commemoration/three-waves.htm), Centers for Disease Control and Prevention, National Center for Immunization and Respiratory Diseases (NCIRD), https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-commemoration/three-waves.htm. Accessed 27 August 2025.
 
-[^3]: [1918-1919 Influenza Pandemic In Idaho](https://healthandwelfare.idaho.gov/Portals/0/Health/ReadyIdaho/IdahoFluHx.pdf), Idaho Department of Health and Welfare, https://healthandwelfare.idaho.gov/Portals/0/Health/ReadyIdaho/IdahoFluHx.pdf. Accessed 13 April 2020.
+[^3]: [1918-1919 Influenza Pandemic In Idaho](https://web.archive.org/web/20201016195841/http://www.healthandwelfare.idaho.gov/Portals/0/Health/ReadyIdaho/IdahoFluHx.pdf), Idaho Department of Health and Welfare, https://web.archive.org/web/20201016195841/http://www.healthandwelfare.idaho.gov/Portals/0/Health/ReadyIdaho/IdahoFluHx.pdf. Accessed 27 August 2025.
 
 [^4]: [Fourth Biennial Report of the State Board of Education and Board of Regents of the University of Idaho](http://hdl.handle.net/2027/nyp.33433075985840). *Idaho Bulletin of Education*, vol. VII, no. 1, State Board of Education, January 1921, Boise, Idaho. 
 
