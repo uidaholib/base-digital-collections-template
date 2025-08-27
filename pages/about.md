@@ -50,6 +50,6 @@ Moscow, Idaho: Asian American Comparative Collection, University of Idaho, 2010.
 Wegars, Priscilla. "Japanese and Japanese Latin Americans at Idaho's Kooskia Internment Camp," [*Guilt by Association: Essays on Japanese Settlement, Internment, and Relocation in the Rocky Mountain West*](https://search.worldcat.org/title/47143890), Ed. Mike Mackey.
 Powell, WY: Western History Publications, 2001, pp. 145-183.
 
-The University of Idaho Library also holds an [internment camp diary written in Japanese.](https://harvester.lib.uidaho.edu/posts/2021/02/19/minidoka-letter.html) 
+The University of Idaho Library also holds an [internment camp diary written in Japanese.](https://archiveswest.orbiscascade.org/ark:80444/xv302637) 
 
-[The Shitamae Family Letters Collection](https://www.lib.uidaho.edu/digital/shitamae/) contains letters from the Mindioka Incarceration Camp.
+[The Shitamae Family Letters Digital Collection](https://www.lib.uidaho.edu/digital/shitamae/) contains letters from the Mindioka Incarceration Camp.
