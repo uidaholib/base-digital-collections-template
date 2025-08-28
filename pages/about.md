@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="crbp1040" %} 
 
-{% include feature/nav-menu.html sections="About the Collection;Dams Depicted in the Collection;The Columbia Basin Project;Research Value" %}
+{% include feature/nav-menu.html sections="About the Collection;The Columbia Basin Project;Research Value" %}
 
 ## About the Collection
 
@@ -25,13 +25,13 @@ The first 14 folders of the archival collection contain black and white photogra
 {% capture dams %}
 - [Long Lake Dam](browse.html#Long Lake Dam), two miles northeast of Stratford, Washington and later renamed Pinto Dam
 - [McNary Lock and Dam](browse.html#McNary Lock and Dam)
-- [Dworshak Dam ](browse.html#Dworshak Dam), two miles upstream on the North Fork of the Clearwater River from the town of Ahsahka, Idaho
-- [John Day Lock and Dam ](browse.html#John Day Lock and Dam), on the Columbia River
+- [Dworshak Dam](browse.html#Dworshak Dam), two miles upstream on the North Fork of the Clearwater River from the town of Ahsahka, Idaho
+- [John Day Lock and Dam](browse.html#John Day Lock and Dam), on the Columbia River
 - [Lucky Peak Dam ](browse.html#Lucky Peak Dam), a flood control project on the Boise River 9 miles upstream from Boise, Idaho
-- [Ice Harbor Lock and Dam ](browse.html#Ice Harbor Lock and Dam), on the Snake River
-- [Little Goose Lock and Dam ](browse.html#Little Goose Lock and Dam), on the Snake River
+- [Ice Harbor Lock and Dam](browse.html#Ice Harbor Lock and Dam), on the Snake River
+- [Little Goose Lock and Dam](browse.html#Little Goose Lock and Dam), on the Snake River
 - [Lower Granite Lock and Dam](browse.html#Lower Granite Dam), at Snake River mile 107.5
-- [Asotin Dam ](browse.html#Asotin Dam), on the Snake River
+- [Asotin Dam](browse.html#Asotin Dam), on the Snake River
 - [Grand Coulee Dam](browse.html#Grand Coulee Dam)
 {% endcapture %}
 {% include feature/card.html header="Dams Depicted in the Collection" text=dams width="50" centered="true" %}
