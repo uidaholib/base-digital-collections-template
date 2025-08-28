@@ -36,17 +36,17 @@ For a more detailed look at the mining photography of Carleton Watkins, and for 
 
 > *In Montana, the otherworldly, claustrophobic underground pictures represent a marked departure from his usual expansive, open-ended style and presented views that challenged the prevailing landscape aesthetic of the day — an aesthetic that he himself was instrumental in crafting (226).* 
 
-Watkins' non-mining photographs are astounding as well, and are definitely worth perusing. A few collections are listed below. We also carry several books at the library containing his photographs, including <a href="https://uidaho.worldcat.org/oclc/5972889"> Photographs of the Columbia River and Oregon</a>, <a href="https://uidaho.worldcat.org/oclc/19397351">Carleton E. Watkins : photographs, 1861-1874</a>, and <a href="https://uidaho.worldcat.org/oclc/9197151">Carleton E. Watkins, photographer of the American West.
+Watkins' non-mining photographs are astounding as well, and are definitely worth perusing. A few collections are listed below. We also carry several books at the library containing his photographs, including <a href="https://uidaho.on.worldcat.org/oclc/5972889"> Photographs of the Columbia River and Oregon</a>, <a href="https://uidaho.on.worldcat.org/oclc/19397351">Carleton E. Watkins : photographs, 1861-1874</a>, and <a href="https://uidaho.on.worldcat.org/oclc/9197151">Carleton E. Watkins, photographer of the American West.
 
 ### Related Collections
 
 - [Carleton Watkins Exhibition & Photographs](https://fraenkelgallery.com/artists/carleton-watkins)
-- [Carleton Watkins — 19th Century California Photographer](https://CPRR.org/Museum/Stereo_World/Watkins/)
+- [Carleton Watkins — 19th Century California Photographer](http://cprr.org/Museum/Stereo_World/Watkins/)
 - [The Stereoviews of Carleton Watkins](https://www.carletonwatkins.org/)
 - [Carleton Watkins Photographs at the Getty Museum](https://www.getty.edu/art/gettyguide/artMakerDetails?maker=1989)
 - [Early Watkins Yosemite Photographs](https://www.yosemite.ca.us/library/watkins/)
 - [Carleton Watkins: The Art of Perception](https://www.nga.gov/exhibitions/2000/watkins.html) at the National Gallery of Art.
-- [Collection of Photographs by Carleton E. Watkins finding aid](https://oac.cdlib.org/findaid/ark:/13030/tf2x0nb5r3/admin/) at the Phoebe A. Hearst Museum of Anthropology.
+- [Collection of Photographs by Carleton E. Watkins finding aid](https://oac.cdlib.org/findaid/ark:%2F13030%2Ftf2x0nb5r3) at the Phoebe A. Hearst Museum of Anthropology.
 - [Mammoth Plate Photographs of the North American West](https://beinecke.library.yale.edu/collections/highlights/mammoth-plate-photographs-north-american-west) by Watkins from the [Beinecke Rare Book and Manuscript Library](https://www.library.yale.edu/beinecke/) at Yale University.
 - [Carleton E. Watkins Collection](https://www.sfmoma.org/artist/Carleton_E._Watkins/) at the San Francisco Museum of Modern Art.
 - Hult-Lewis, Christine. *The Mining Photographs of Carleton Watkins, 1858-1891, and the Origins of Corporate Photography* (Boston University, 2011), 247.
