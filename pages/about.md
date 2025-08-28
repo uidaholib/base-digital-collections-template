@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-*For a detailed description and inventory of the contents of the collection, please see our [finding aid](http://archiveswest.orbiscascade.org/ark:/80444/xv165618/op=fstyle.aspx?t=k&q=). The collection is physically held in [Special Collections & Archives](https://www.lib.uidaho.edu/special-collections/) at University of Idaho Library.*
+*For a detailed description and inventory of the contents of the collection, please see our [finding aid](http://archiveswest.orbiscascade.org/ark:80444/xv165618). The collection is physically held in [Special Collections & Archives](https://www.lib.uidaho.edu/special-collections/) at University of Idaho Library.*
 
 {% include feature/image.html objectid="crbp1103" caption="Most photos in the collection relate to the Grand Coulee Dam (above), but many other Pacific Northwest dams are also depicted" width="50" %}
 
