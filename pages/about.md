@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="crbp1040" %} 
 
-{% include feature/nav-menu.html sections="About the Collection;The Columbia Basin Project;Research Value" %}
+{% include feature/nav-menu.html sections="About the Collection;The Columbia Basin Project;Dams Depicted in the Collection;Research Value" %}
 
 ## About the Collection
 
@@ -21,6 +21,8 @@ credits: true
 This collection contains around 500 historical photographs collected and/or taken by the Army Corps of Engineers during the construction of various hydroelectric dams in Washington, Oregon, and Idaho between 1933-1965. The bulk of this collection documents the Columbia Basin Project, which resulted in the construction of the Grand Coulee Dam in central Washington state and the largest water reclamation project in the United States, supplying irrigation water to over 670,000 acres.
 
 The first 14 folders of the archival collection contain black and white photographs (8x10 inches) of various dam construction scenes in Washington and Idaho. The majority of photographs document the construction of the Grand Coulee Dam in Washington. Other dams include:
+{:#dams-depicted-in-the-collection}
+
 
 {% capture dams %}
 - [Long Lake Dam](browse.html#Long Lake Dam), two miles northeast of Stratford, Washington and later renamed Pinto Dam
