@@ -12,7 +12,7 @@ credits: true
 
 ## About the Digital Collection 
 
-This digital collection consists of blueprints, maps, and correspondence from MG 12, the Craig Mountain Lumber Company Records collection. The items are from Box 01 of the collection, held by [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/).  
+This digital collection consists of blueprints, maps, and correspondence from [MG 12, the Craig Mountain Lumber Company Records collection](https://archiveswest.orbiscascade.org/ark:80444/xv96107). The items are from Box 01 of the collection, held by [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/).  
 
 {% include feature/image.html objectid="craigmountain046" width="75" %}
 
@@ -24,4 +24,4 @@ The sawmill was the largest in northern Idaho with the latest machinery, includi
 
 A failed attempt was made to unionize the mill workers during World War I. By 1919, the mill closed due the lack of a market for the lumber product. The mill reopened in 1922, but was closed again by 1930 during the Great Depression. The mill opened once again in 1935 and was bought by the Hallack and Howard Lumber Company, who sold Craig Mountain Lumber Company to Boise-Cascade in 1960. In 1965, Boise-Cascade deemed the lumber too far from the mill's location for transport and the mill was finally closed permanently. 
 
-*Information about this collection has been adapted from the finding aid of MG 12 Craig Mountain Lumber Company Records written by Judith Nielsen. More detailed information about the collection and its contents can be found in the collection's [finding aid](https://archiveswest.orbiscascade.org/ark:/80444/xv96107).* 
+*Information about this collection has been adapted from the finding aid of MG 12 Craig Mountain Lumber Company Records written by Judith Nielsen. More detailed information about the collection and its contents can be found in the collection's [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv96107).* 
