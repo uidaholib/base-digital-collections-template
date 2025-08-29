@@ -91,7 +91,7 @@ In 1957, the Idaho state legislature updated the state seal "in order to more cl
 
 ## Sources
 
-[^1]: Elizabeth M. Smith, [*History of the Boise National Forest 1905-1976*](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev3_042206.pdf) (Boise: Idaho State Historical Society, 1983). (Archived: [https://perma.cc/JM5M-63AZ](https://perma.cc/JM5M-63AZ)); "Ancient People of the Nez Perce National Forest: A Guide to the Prehistory of the Forest," U.S. Forest Service, [https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm91_055713.pdf](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm91_055713.pdf). (Archived: [https://perma.cc/NV7M-4WU7](https://perma.cc/NV7M-4WU7))
+[^1]: Elizabeth M. Smith, [*History of the Boise National Forest 1905-1976*](https://npshistory.com/publications/usfs/region/4/boise/history.pdf) (Boise: Idaho State Historical Society, 1983). (Archived: [https://perma.cc/JM5M-63AZ](https://perma.cc/JM5M-63AZ)); "Ancient People of the Nez Perce National Forest: A Guide to the Prehistory of the Forest," U.S. Forest Service, [https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsm91_055713.pdf](https://www.fs.usda.gov/sites/nfs/files/legacy-media/nezperce-clearwater/ancientpeople.pdf). (Archived: [https://perma.cc/NV7M-4WU7](https://perma.cc/NV7M-4WU7))
 
 [^2]: Kathy Weister, "Gibbonsville - Mining Camp to Bedroom Community," *Legends of America,* February 2020, [https://www.legendsofamerica.com/id-gibbonsville/](https://www.legendsofamerica.com/id-gibbonsville/). (Archived: [https://perma.cc/WM2L-AYXN](https://perma.cc/WM2L-AYXN))
 
@@ -105,6 +105,6 @@ In 1957, the Idaho state legislature updated the state seal "in order to more cl
 
 [^7]: Ibid.
 
-[^8]: "Idaho Women's Suffrage Amendment (1896)," Ballotpedia, https://ballotpedia.org/Idaho_Women%27s_Suffrage_Amendment_(1896). (Archived: [https://perma.cc/VDV9-478D](https://perma.cc/VDV9-478D))
+[^8]: "Idaho Women's Suffrage Amendment (1896)," Ballotpedia, [https://ballotpedia.org/Idaho_Women%27s_Suffrage_Amendment_(1896)](https://ballotpedia.org/Idaho_Women%27s_Suffrage_Amendment_(1896)). (Archived: [https://perma.cc/VDV9-478D](https://perma.cc/VDV9-478D))
 
 [^9]: "Idaho State Seal History," Idaho Secretary of State's Office, [https://sos.idaho.gov/elect/bluebook/Histseal.htm](https://sos.idaho.gov/elect/bluebook/Histseal.htm). (Archived: [https://perma.cc/A9RN-QAS5](https://perma.cc/A9RN-QAS5)); "Idaho State Seal," Idaho Office of the Governor, [https://gov.idaho.gov/idaho-state-seal/](https://gov.idaho.gov/idaho-state-seal/) (Archived: [https://perma.cc/UG75-TSCG](https://perma.cc/UG75-TSCG)).
