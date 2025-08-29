@@ -98,16 +98,16 @@ Another massive mine in the Coeur d’Alene Mining district was the Hecla Mining
 
 [^2]: Judith Nielsen, "Harry Webb Marsh Papers, 1918-1966." *Archives West*, 1989, [https://archiveswest.orbiscascade.org/ark:/80444/xv58486](https://archiveswest.orbiscascade.org/ark:/80444/xv58486). (Archived: [https://perma.cc/VF37-JSVE](https://perma.cc/VF37-JSVE))
 
-[^3]: "Mining in Idaho." *Digital Atlas of Idaho,* [https://digitalatlas.cose.isu.edu/geog/mining/minemain.htm](https://digitalatlas.cose.isu.edu/geog/mining/minemain.htm). (Archived: [https://perma.cc/33T4-4RQD](https://perma.cc/33T4-4RQD))
+[^3]: "Mining in Idaho." *Digital Atlas of Idaho,* (Archived: [https://perma.cc/33T4-4RQD](https://perma.cc/33T4-4RQD))
 
 [^4]: Hobart M. King, "Idaho Gemstone Mining." *Geology.com* [https://geology.com/gemstones/states/idaho.shtml](https://geology.com/gemstones/states/idaho.shtml). (Archived: [https://perma.cc/22PX-MBJX](https://perma.cc/22PX-MBJX)) 
 
-[^5]: Jack G. Peterson and Susan E. Skog,  [*Profiles: A Portrayal of Idaho's Mining Industry*](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71127080850001451) (Boise: Idaho Mining Association, 198-), 4.
+[^5]: Jack G. Peterson and Susan E. Skog,  [*Profiles: A Portrayal of Idaho's Mining Industry*](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/cm24jp/alma9954984801851) (Boise: Idaho Mining Association, 198-), 4.
 
-[^6]: Jack G. Peterson and Susan E. Skog, [*Profiles: A Portrayal of Idaho's Mining Industry*](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71127080850001451) (Boise: Idaho Mining Association, 198-), 4-5
+[^6]: Jack G. Peterson and Susan E. Skog, [*Profiles: A Portrayal of Idaho's Mining Industry*](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/cm24jp/alma9954984801851) (Boise: Idaho Mining Association, 198-), 4-5
 
-[^7]: John Fahey, [*Hecla: A Century of Western Mining*](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71135980620001451), (Seattle: University of Washington Press, 1990). 
+[^7]: John Fahey, [*Hecla: A Century of Western Mining*](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/cm24jp/alma9915770701851), (Seattle: University of Washington Press, 1990). 
 
-[^8]: Jack G. Peterson and Susan E. Skog, [*Profiles: A Portrayal of Idaho's Mining Industry*](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71127080850001451) (Boise: Idaho Mining Association, 198-), 6.
+[^8]: Jack G. Peterson and Susan E. Skog, [*Profiles: A Portrayal of Idaho's Mining Industry*](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/cm24jp/alma9954984801851) (Boise: Idaho Mining Association, 198-), 6.
 
-[^9]: Jack G. Peterson and Susan E. Skog, [*Profiles: A Portrayal of Idaho's Mining Industry*](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71127080850001451) (Boise: Idaho Mining Association, 198-), 8.
+[^9]: Jack G. Peterson and Susan E. Skog, [*Profiles: A Portrayal of Idaho's Mining Industry*](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/cm24jp/alma9954984801851) (Boise: Idaho Mining Association, 198-), 8.
