@@ -28,7 +28,7 @@ Kyle Laughlin and his wife, Marguerite Laughlin, were both teachers who had stro
 
 Marguerite was also an active member of the Moscow and Idaho community: “She helped organize the first kindergarten in 1945. She was a Gritman Memorial Hospital Board member for 25 years. She was a trustee of the Moscow-Latah County Library system from 1945 to 1974. She was also president of the Moscow Parent Teacher Association, chairwoman of the Moscow Recreation Committee and the Mayor’s Recreation Committee and was a member of the board of Meals on Wheels. She was also actively involved with many library organizations. She was regional director of the American Trustee Library Association in 1970-1971, named Idaho Library Trustee of the Year in 1967, was president of the [University of Idaho] Library Associates from 1973 to 1975 and was president of the Idaho Library Association during those two years. She and her husband contributed to the [University of Idaho] Library Endowment where both of them were recently honored by having a reading room named for them.”[^10]
 
-Together, Kyle and Marguerite shared three children: Kay, Helen, and John. For Marguerite’s obituary, see [here](https://lmtribune.com/obituaries/marguerite-laughlin-moscow-businesswoman/article_0a4f0e30-138f-5e02-856a-c926a91b624a.html). For John’s obituary, see [here](https://www.legacy.com/obituaries/spokesman/obituary.aspx?n=john-w-laughlin&pid=171017893&fhid=9528).
+Together, Kyle and Marguerite shared three children: Kay, Helen, and John. For Marguerite’s obituary, see [here](https://www.lmtribune.com/obituaries/marguerite-laughlin-84-moscow-businesswoman-0a4f0e30). For John’s obituary, see [here](https://www.legacy.com/obituaries/spokesman/obituary.aspx?n=john-w-laughlin&pid=171017893&fhid=9528).
 
 ## About the Collection
 
@@ -54,10 +54,10 @@ The physical collections are held by [Special Collections and Archives](https://
 
 [^6]: Latah County Historical Society, [*Legendary Locals of Moscow*](https://www.google.com/books/edition/Legendary_Locals_of_Moscow/15mgCgAAQBAJ?hl=en&gbpv=0) (Moscow: Arcadia Publishing Incorporated, 2015), 85.  
 
-[^7]: “Marguerite Laughlin, 84, Moscow Businesswoman.” *The Lewiston Tribune*, January 4, 1993, [https://lmtribune.com/obituaries/marguerite-laughlin-moscow-businesswoman/article_0a4f0e30-138f-5e02-856a-c926a91b624a.html](https://lmtribune.com/obituaries/marguerite-laughlin-moscow-businesswoman/article_0a4f0e30-138f-5e02-856a-c926a91b624a.html). (Archived: [https://perma.cc/R9VC-FF4G](https://perma.cc/R9VC-FF4G))
+[^7]: “Marguerite Laughlin, 84, Moscow Businesswoman.” *The Lewiston Tribune*, January 4, 1993, [https://www.lmtribune.com/obituaries/marguerite-laughlin-84-moscow-businesswoman-0a4f0e30](https://www.lmtribune.com/obituaries/marguerite-laughlin-84-moscow-businesswoman-0a4f0e30). (Archived: [https://perma.cc/R9VC-FF4G](https://perma.cc/R9VC-FF4G))
 
 [^8]: Latah County Historical Society, [*Legendary Locals of Moscow*](https://www.google.com/books/edition/Legendary_Locals_of_Moscow/15mgCgAAQBAJ?hl=en&gbpv=0) (Moscow: Arcadia Publishing Incorporated, 2015), 39.  
 
 [^9]: Ibid.
 
-[^10]: “Marguerite Laughlin, 84, Moscow Businesswoman.” *The Lewiston Tribune*, January 4, 1993, [https://lmtribune.com/obituaries/marguerite-laughlin-moscow-businesswoman/article_0a4f0e30-138f-5e02-856a-c926a91b624a.html](https://lmtribune.com/obituaries/marguerite-laughlin-moscow-businesswoman/article_0a4f0e30-138f-5e02-856a-c926a91b624a.html). (Archived: [https://perma.cc/R9VC-FF4G](https://perma.cc/R9VC-FF4G))
+[^10]: “Marguerite Laughlin, 84, Moscow Businesswoman.” *The Lewiston Tribune*, January 4, 1993, [https://www.lmtribune.com/obituaries/marguerite-laughlin-84-moscow-businesswoman-0a4f0e30](https://www.lmtribune.com/obituaries/marguerite-laughlin-84-moscow-businesswoman-0a4f0e30). (Archived: [https://perma.cc/R9VC-FF4G](https://perma.cc/R9VC-FF4G))
