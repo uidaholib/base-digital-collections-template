@@ -1,12 +1,13 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
-archival date,Date Created (Archival Standard)
+archival_date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 organizations, Organizations,,,,
 description,Description,,,DCTERMS.description,description
-original description, Original Description,,,,
+original_description, Original Description,,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
+original_subject,Original Subject,,,,
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
