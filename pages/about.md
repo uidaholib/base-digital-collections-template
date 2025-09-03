@@ -44,7 +44,7 @@ When the first incarcerees arrived at Minidoka in August 1942, the construction 
 
 The camp closed in October 1945 and the land was later offered for homesteading to veterans. Today, much of the former site is occupied by farmhouses and irrigated fields, but in 2001 72-acres of the site was established as the Minidoka National Historic Site. It's purpose today is to educate the public about the experiences of incarcerees to ensure a similar experience doesn't happen again.[^5]
 
-{% include feature/pdf.html objectid="hiroshima093" %}
+{% include feature/image.html objectid="hiroshima093" %}
 
 #### Kooskia 
 
@@ -90,7 +90,7 @@ Morito requested two things from the university, a book to be added to their lib
 
 Though, as Morito pointed out, his request would not have a large economic impact, it would "be of deep significance, from the spiritual point of view, in contributing to international understanding and the permanent peace of the world." The University of Idaho responded to his request by sending, not only a book for Hiroshima University's library, but also seeds to be planted on their campus. In case the seeds would not thrive in Hiroshima's climate, the university also sent $3 for Hiroshima University to buy and plant a tree on their campus. In his letters, President Morito imparted the importance of education in the hopes for a lasting peace in the world. In the creation of a Peace Library at Hiroshima University he hoped to establish an institute for research into international peace problems, and the donations to the library would serve to "promote an atmosphere of universal friendship." 
 
-{% include feature/pdf.html objectid="hiroshima033" %}
+{% include feature/image.html objectid="hiroshima033" %}
 
 ### Advocating for Peace at the University of Idaho
 
