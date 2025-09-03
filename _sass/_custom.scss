@@ -20,3 +20,48 @@
 .dropdown-menu {
     --bs-dropdown-link-active-bg: #5E48FF;
 }
+
+// custom glossary page styles
+.glossary-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.glossary-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 1rem;
+}
+.glossary-term {
+  flex: 1;
+  padding-right: 1.5rem;
+}
+.glossary-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.glossary-term ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+  padding-left: 1.5rem;
+}
+.glossary-term li {
+  margin-bottom: 0.5rem;
+}
+.glossary-term li:last-child {
+  margin-bottom: 0;
+}
+@media (max-width: 768px) {
+  .glossary-row {
+    flex-direction: column;
+  }
+  
+  .glossary-term {
+    padding-right: 0;
+    padding-bottom: 1rem;
+  }
+}

@@ -1,23 +1,38 @@
 ---
 title: Glossary
-layout: about
+layout: page #about
 permalink: /glossary.html
 # include CollectionBuilder info at bottom
-credits: true
+#credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
-{% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/priestriver/banner.jpg" %}
 
 ## Pictorial Glossary of Terms
 
 Definitions taken from the USDA [*Glossary of Terms Used in Timber Harvesting and Forest Engineering*](https://www.srs.fs.usda.gov/pubs/gtr/uncaptured/gtr_so073.pdf)
 
 <div class="glossary-container">
-  <div class="glossary-row">
+{% for t in site.data.timber-glossary %}
+<div class="glossary-row">
     <div class="glossary-term">
-      <strong>Bateau:</strong>
+      <h3 id="{{ t.term | slugify }}">{{ t.term }}</h3>
+      <ul>{% assign defs = t.definition | split: '|' %}{% for d in defs %}
+        <li>{{ d }}</li>{% endfor %}
+      </ul>
+    </div>
+    <div class="glossary-image">
+      {% include feature/image.html objectid=t.images width="75" %}
+    </div>
+</div>{% endfor %}
+
+
+-----
+
+
+<div class="glossary-row">
+    <div class="glossary-term">
+      <h3>Bateau:</h3>
       <ul>
         <li>A flat-bottomed boat with raked bow and stern and flaring sides.</li>
       </ul>
@@ -139,48 +154,3 @@ Definitions taken from the USDA [*Glossary of Terms Used in Timber Harvesting an
     </div>
   </div>
 </div>
-<style>
-.glossary-container {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-}
-.glossary-row {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  border-bottom: 1px solid #e0e0e0;
-  padding-bottom: 1rem;
-}
-.glossary-term {
-  flex: 1;
-  padding-right: 1.5rem;
-}
-.glossary-image {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.glossary-term ul {
-  margin-top: 0.5rem;
-  margin-bottom: 0;
-  padding-left: 1.5rem;
-}
-.glossary-term li {
-  margin-bottom: 0.5rem;
-}
-.glossary-term li:last-child {
-  margin-bottom: 0;
-}
-@media (max-width: 768px) {
-  .glossary-row {
-    flex-direction: column;
-  }
-  
-  .glossary-term {
-    padding-right: 0;
-    padding-bottom: 1rem;
-  }
-}
-</style>
