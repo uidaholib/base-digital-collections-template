@@ -34,7 +34,7 @@ The original site was divided into three content sections, all of which can be f
 The SBW Project collected primary source materials from archives and public agencies across the country relating to the Selway country of Idaho and western Montana.
 Additionally, they conducted extensive oral histories from people involved in the wilderness area.
 
-Much of these curated materials are housed in a research collection at the University of Idaho Special Collections & Archives and are listed in the [Sources Related to the History of the Selway-Bitterroot Wilderness Area finding aid](https://archiveswest.orbiscascade.org/ark:/80444/xv16268/).
+Much of these curated materials are housed in a research collection at the University of Idaho Special Collections & Archives and are listed in the [Sources Related to the History of the Selway-Bitterroot Wilderness Area finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv16268).
 Keep in mind that since most of these resources were collected from other institutions (including as photocopies, images, and transcripts), U of I Spec may not hold the original documents or related materials.
 
 The original site described the project: 
