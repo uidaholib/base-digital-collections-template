@@ -28,7 +28,7 @@ Postcards originated in Europe in the late nineteenth century as an inexpensive 
 
 ### More Information on Postcards
 
-- Broyles, Duane, Howard Ness, Suzanne Bamonte, and Tony Bamonte. [Vintage Postcards from Old Spokane](http://uidaho.worldcat.org/title/vintage-postcards-from-old-spokane/oclc/61050554&referer=brief_results). Spokane, WA: Tornado Creek Publications, 2005.
-- Hathaway, William. [Idaho Falls: 15 Historic Postcards](http://uidaho.worldcat.org/title/idaho-falls-15-historic-postcards/oclc/268794654&referer=brief_results). Charleston, SC: Arcadia Pub, 2008.
+- Broyles, Duane, Howard Ness, Suzanne Bamonte, and Tony Bamonte. [Vintage Postcards from Old Spokane](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/2vsn7u/alma99120159101851). Spokane, WA: Tornado Creek Publications, 2005.
+- Hathaway, William. [Idaho Falls: 15 Historic Postcards](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/2vsn7u/alma99155990001851). Charleston, SC: Arcadia Pub, 2008.
 - Lear, B. A. (January 31, 2008). [Wishing They Were There: Old Postcards and Library History](http://www.jstor.org/stable/25549458). Libraries & the Cultural Record, 43, 1, 77-100.
-- Prochaska, David, and Jordana Mendelson. [Postcards: Ephemeral Histories of Modernity](http://uidaho.worldcat.org/title/postcards-ephemeral-histories-of-modernity/oclc/367422770&referer=brief_results). University Park, Pa: Pennsylvania State University Press, 2010.
+- Prochaska, David, and Jordana Mendelson. [Postcards: Ephemeral Histories of Modernity](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/2vsn7u/alma99169673901851). University Park, Pa: Pennsylvania State University Press, 2010.
