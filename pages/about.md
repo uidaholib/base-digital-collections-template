@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-*For a detailed description and inventory of the William Allen Stonebraker Photograph Collection, see our [finding aid](http://archiveswest.orbiscascade.org/ark:/80444/xv882414/op=fstyle.aspx?t=k&q=).*
+*For a detailed description and inventory of the William Allen Stonebraker Photograph Collection, see our [finding aid](http://archiveswest.orbiscascade.org/ark:80444/xv882414).*
  
 This collection consists of photographs from the William Allen Stonebraker Collection. The Stonebraker Collection was donated to the Library's Special Collections in 2003 by U of I alumna Donna Henderson, who acquired the collection from a distant family member of Stonebraker. Stonebraker took photographs in Central Idaho's remote [Salmon River]({{ '/browse.html#Salmon River' | relative_url }}) and Frank Church-River of No Return areas at the turn of the twentieth century between 1900 and 1931. The collection contains images of the Stonebraker Ranch and homestead in the Chamberlain Basin, his businesses (dude ranch, pack train and dogsled operations, mining, big game hunting) as well as wildlife, scenic views, and early aircraft operation.
 
