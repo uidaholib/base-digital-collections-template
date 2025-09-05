@@ -1,5 +1,5 @@
 ---
-title: Glossary
+title: Timber Glossary
 layout: page #about
 permalink: /glossary.html
 # include CollectionBuilder info at bottom

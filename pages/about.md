@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/alert.html text="**Please Note:** Materials in this digital collection are not held by University of Idaho Library Special Collections and Archives. Please contact Priest River Library at library@westbonnerlibrary.org for information." color="light" align="center" %}
+{% include feature/alert.html text="**Please Note:** Materials in this digital collection are not held by University of Idaho Library Special Collections and Archives. Please contact Priest River Library at library@westbonnerlibrary.org for information." color="danger" align="center" %}
 
 {% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/priestriver/banner.jpg" %}
 
@@ -29,19 +29,19 @@ Roger Gregory’s intent was to restore community pride to a timber town in rece
 
 {% include feature/image.html objectid="priestriver0237" %}
 
-Both ladies proved too busy to carry through, so Roger turned to a resident writer who had become so entranced with the community’s history that she was collecting and writing about it and becoming known as the town’s Local Historian. Mr. Gregory ended up turning everything having to do with photo collecting and ownership over to her, Marylyn Cork.  
+Both ladies proved too busy to carry through, so Roger turned to a resident writer who had become so entranced with the community’s history that she was collecting and writing about it and becoming known as the town’s local historian. Mr. Gregory ended up turning everything having to do with photo collecting and ownership over to her, Marylyn Cork.  
 
-The collection she and her friends and helpers amassed over the subsequent years was intended to eventually be donated to an organization then in its infancy, the Priest River Museum. However, because the museum still has no facility for storing, displaying and protecting the photos, in 2024 Mrs. Cork made the decision to turn them over to the community via the Priest River Library.
+The collection that she, her friends, and others amassed over the years was intended to eventually be donated to an organization then in its infancy, the Priest River Museum. However, because the museum still has no facility for storing, displaying and protecting the photos, in 2024 Mrs. Cork made the decision to turn them over to the community via the Priest River Library.
 
 {% include feature/image.html objectid="priestriver0049" %}
 
-In 2024, the Idaho Humanities Council provided grant funding to the library for the approximately 1800 photographs to be digitized and made available through the University of Idaho Archive online. Christa Shanaman, from the West Bonner Library District and several volunteers have been scanning and processing the metadata for each individual photograph in the collection. Once the process of digitizing is complete, the physical collection will be catalogued and archived for physical access through the Priest River Library.
+In 2024, the Idaho Humanities Council provided grant funding to the library for the approximately 1800 photographs to be digitized and made available through the University of Idaho Digital Collections. Christa Shanaman, from the West Bonner Library District and several volunteers have been scanning and processing the metadata for each individual photograph in the collection. Once the process of digitizing is complete, the physical collection will be catalogued and archived for physical access through the Priest River Library.
 
 ## About Marylyn Cork
 
-Born in Montana, Marylyn Cork was raised in the Sagle area of Bonner County, Idaho, near Sandpoint where her father had a small sawmill and ran a farm. She graduated from Sandpoint High School in 1954 and attended the University of Idaho until she married at nineteen and moved to Priest River, also in Bonner County in October of 1955. Her husband, a Diamond Match employee, died of heart trouble after 40 years of marriage, leaving four grown children. 
+Born in Montana, Marylyn Cork was raised in the Sagle area of Bonner County, Idaho, near Sandpoint where her father had a small sawmill and ran a farm. She graduated from Sandpoint High School in 1954 and attended the University of Idaho until she married at nineteen. She then moved to Priest River, also in Bonner County, in October of 1955. Her husband, a Diamond Match employee, died of heart trouble after 40 years of marriage, leaving four grown children. 
 
-Always something of a history buff and writer, Marylyn was working for the Priest River Times newspaper at the time as the editor. Though she retired at age 65, Marylyn continued to write for the Times, the Bonner County Daily Bee of Sandpoint, as well as other free-lance publications. 
+Always something of a history buff and writer, Marylyn was working for the _Priest River Times_ newspaper at the time as the editor. Though she retired at age 65, Marylyn continued to write for the _Times_, the _Bonner County Daily Bee_ of Sandpoint, as well as other free-lance publications. 
 
 {% include feature/image.html objectid="priestriver0377" %}
 
