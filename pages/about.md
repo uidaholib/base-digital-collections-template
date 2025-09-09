@@ -21,7 +21,7 @@ Priest River Library
 
 ## About the Collection
 
-The first photographs in this collection were given to Roger Gregory, through a grant he received from the Idaho Humanities Council, then known as the Council for the Humanities in Idaho, in the 1980s. Roger initially collected the first photographs as copies from Chuck Peterson of Hope, Idaho, a retired Forest Service employee. Mr. Peterson had collected a massive assortment of historical photos of Bonner County, including the Priest River-Priest Lake communities. 
+The first photographs in this collection were given to Roger Gregory, through a grant he received from the [Idaho Humanities Council](https://idahohumanities.org/), then known as the Council for the Humanities in Idaho, in the 1980s. Roger initially collected the first photographs as copies from Chuck Peterson of Hope, Idaho, a retired Forest Service employee. Mr. Peterson had collected a massive assortment of historical photos of Bonner County, including the Priest River-Priest Lake communities. 
 
 {% include feature/image.html objectid="priestriver0258" %}
 
@@ -41,6 +41,8 @@ In 2024, the Idaho Humanities Council provided grant funding to the library for 
 
 Born in Montana, Marylyn Cork was raised in the Sagle area of Bonner County, Idaho, near Sandpoint where her father had a small sawmill and ran a farm. She graduated from Sandpoint High School in 1954 and attended the University of Idaho until she married at nineteen. She then moved to Priest River, also in Bonner County, in October of 1955. Her husband, a Diamond Match employee, died of heart trouble after 40 years of marriage, leaving four grown children. 
 
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/priestriver/marylyn_cork.jpg" width=50 caption="Marylyn Cork" %}
+
 Always something of a history buff and writer, Marylyn was working for the _Priest River Times_ newspaper at the time as the editor. Though she retired at age 65, Marylyn continued to write for the _Times_, the _Bonner County Daily Bee_ of Sandpoint, as well as other free-lance publications. 
 
 {% include feature/image.html objectid="priestriver0377" %}
@@ -49,7 +51,7 @@ In the 1970s, she became known as a Local Historian at Priest River, writing pri
  
 ## About Priest River
 
-Priest River, Idaho is a small town in western Bonner County, Idaho, located about five miles from the state border at Newport, Washington, and about sixty miles from Spokane. It is situated where the Pend Oreille River and the Priest River, from which the town takes its name, meet, at the foot of a long valley leading to big and beautiful Priest Lake and the boundary with Canada. 
+Priest River, Idaho is a small town in western Bonner County, Idaho, located about five miles from the state border at Newport, Washington, and about sixty miles from Spokane. It is situated at the confluence of the Pend Oreille River and the Priest River, from which the town takes its name, at the foot of a long valley leading to big and beautiful Priest Lake and the boundary with Canada.
 
 {% include feature/image.html objectid="priestriver0295" %}
 
