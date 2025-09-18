@@ -2,6 +2,8 @@
 
 The Selway-Bitterroot Wilderness History Project
 
+See docs/sbw/ for additional notes.
+
 The base of this collection was migrated from CONTENTdm.
 In CDM it had little metadata and no interpretive content, as it was being used primarily to hold media for the main digital scholarship project site:
 
@@ -15,3 +17,9 @@ https://selwaybitterrootproject.wordpress.com/
 This collection pulls together all the media assets used by the original site to ensure they remain accessible.
 
 It was updated in 2025 to more clearly explain the context and relationship to the original project.
+
+The collection contains:
+
+- "Wilderness Pages" - PDF of all documents described on https://sbw.lib.uidaho.edu/pages.html
+- "Wilderness Portraits" - all images described on https://sbw.lib.uidaho.edu/portraits.html
+- "Wilderness Voices" - podcast audio described on https://selwaybitterrootproject.wordpress.com/
