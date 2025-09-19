@@ -1,0 +1,46 @@
+---
+# layout for SBW podcast items
+# content was pulled from the original podcast posts on wordpress
+# each has an audio file (in parent record), plus multiple child images from a gallery feature (minimal metadata)
+#
+# uses _includes/item/child/ includes to add multiple objects to the item page in a gallery
+# each object is represented in a modal
+layout: item/item-page-base
+gallery: true
+---
+{% assign children = site.data[site.metadata] | where_exp: 'item','item.parentid == page.objectid' %}
+
+
+<div class="card mb-4">
+    <div class="card-body">
+
+        {% include item/audio-player.html %}
+
+        <div class="mt-2">{{ page.introduction | markdownify }}</div>
+        
+        <div class="mt-2 text-center">
+
+            {% include item/child/compound-item-download-buttons.html %}
+
+        </div>
+
+    </div>
+</div>
+
+<div class="card mb-4 text-center">
+    <div class="card-body">
+        <h2 class="card-title">Gallery</h2>
+        <div class="row row-cols-2 row-cols-md-3 row-cols-xl-4">
+            {% for child in children %}
+            <div id="{{ child.objectid }}" class="mb-4">
+                <a class="spotlight gallery-img" data-download="true" title="{% if page.title != child.title %}{{ child.title | escape }}{% else %}{{ page.title | escape }} [{{ forloop.index }}]{% endif %}" href="{{ child.object_location | relative_url }}">
+                    <img src="{{ child.image_thumb | relative_url }}" alt="{{ child.image_alt_text | default: child.description | default: child.title | default: page.title | escape }}" class="img-fluid mb-2">
+                    {% if page.title != child.title %}<div><small class="text-dark">{{ child.title }}</small></div>{% endif %}
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="alert alert-secondary"><small><em>Please note:</em> content is from the original Wilderness Voices podcast website and is not held by U of I Library.</small></div> 
+    </div>
+</div>
+
