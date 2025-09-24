@@ -2,6 +2,7 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 subject,,true
 subject (lctgm),,true
+idaho_county,Idaho County,,true,
 location,,true
 format original,,true
 identifier,,,true,Identifier

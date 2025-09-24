@@ -8,6 +8,7 @@ description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 subject (lcsh),Subjects - LCSH,,
 subject (lctgm),Subjects - LCTGM,true
+idaho_county,Idaho County,true
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
