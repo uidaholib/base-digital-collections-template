@@ -2,6 +2,7 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
 subject,,true
+idaho_county,Idaho County,,yes,
 description,,,true
 format_original,,,true
 identifier,,,true,Identifier
