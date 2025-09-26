@@ -23,13 +23,15 @@ Priest River Library
 
 The first photographs in this collection were given to Roger Gregory, through a grant he received from the [Idaho Humanities Council](https://idahohumanities.org/), then known as the Association for the Humanities in Idaho, in the 1980s. Roger initially collected the first photographs as copies from Chuck Peterson of Hope, Idaho, a retired Forest Service employee. Mr. Peterson had collected a massive assortment of historical photos of Bonner County, including the Priest River-Priest Lake communities. 
 
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/priestriver/roger_gregory.jpg" width=50 caption="Roger Gregory" %}
+
+Roger Gregory’s intent was to restore community pride to a timber town in recession, and one which had almost forgotten its glorious past. He needed photos to assist in this process. A very active businessman at the time, he solicited the help of two local women to assist him. One was to collect the photos from old-timers and their descendants, and the other would gather whatever information was still available about them. 
+
 {% include feature/image.html objectid="priestriver0258" %}
 
-Roger Gregory’s intent was to restore community pride to a timber town in recession, and one which had almost forgotten its glorious past. He needed photos to assist in this process. A very active businessman at the time, he solicited the help of two local women to assist him. One was to collect the photos from old-timers and their descendants, and the other would gather whatever information was still available about them.  
+Both ladies proved too busy to carry through, so Roger turned to a resident writer who had become so entranced with the community’s history that she was collecting and writing about it and becoming known as the town’s local historian. Mr. Gregory ended up turning everything having to do with photo collecting and ownership over to her, Marylyn Cork.  
 
 {% include feature/image.html objectid="priestriver0237" %}
-
-Both ladies proved too busy to carry through, so Roger turned to a resident writer who had become so entranced with the community’s history that she was collecting and writing about it and becoming known as the town’s local historian. Mr. Gregory ended up turning everything having to do with photo collecting and ownership over to her, Marylyn Cork.  
 
 The collection that she, her friends, and others amassed over the years was intended to eventually be donated to an organization then in its infancy, the Priest River Museum. However, because the museum still has no facility for storing, displaying and protecting the photos, in 2024 Mrs. Cork made the decision to turn them over to the community via the Priest River Library.
 
