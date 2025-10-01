@@ -4,4 +4,5 @@ creator,Creator,,,
 recipient,Recipient,,,,
 subject,,true
 location,,true
+idaho_county,Idaho County,,true,
 identifier,,,true,Identifier
