@@ -12,6 +12,7 @@ subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 location built,Location Built,,,
 location created,Location Created,,,
+idaho_county,Idaho County,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
