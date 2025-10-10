@@ -6,6 +6,7 @@ description,Description,,,DCTERMS.description,description
 relation_is_part_of,Relation
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
+idaho_county,Idaho County,,,
 source,Source
 finding_aid,Finding Aid,,true
 identifier,Source Identifier
