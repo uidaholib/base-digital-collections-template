@@ -10,6 +10,7 @@ duration,Duration,
 subject,Subjects,true,,DCTERMS.subject,keywords
 section,Section,true,
 location,Location,,,,contentLocation
+idaho_county,Idaho County,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 publisher,Publisher,,,,
