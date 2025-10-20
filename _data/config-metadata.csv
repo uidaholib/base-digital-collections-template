@@ -7,6 +7,7 @@ description,Description,,,DCTERMS.description,description
 fiddler_name,Fiddlers,yes,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
+idaho_county,Idaho County,,,
 source,Source,,,,
 findingaid,Finding Aid,,true
 identifier,Source Identifier,,,,
