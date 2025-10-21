@@ -10,6 +10,7 @@ subject,Subjects,true,,DCTERMS.subject,keywords
 country,Country,
 state,State,true
 county,County,true
+idaho_county,Idaho County,,,
 city,City,true
 location,Location,,,contentLocation
 latitude,Latitude
