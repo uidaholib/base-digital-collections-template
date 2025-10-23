@@ -6,6 +6,7 @@ date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 date is approximate,Approximated Date
 description,Description,,,DCTERMS.description,description
 county,County,true,,contentLocation
+idaho_county,Idaho County,,,
 region,Region,true,,contentLocation
 features,Features,true,
 flight_line,Flight Line,true,
