@@ -10,6 +10,7 @@ family origin,Family Origin
 occupation,Occupation
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
+idaho_county,Idaho County,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 collection,Source Collection
