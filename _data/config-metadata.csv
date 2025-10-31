@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Photographer,true,,DCTERMS.creator,creator
-archival date,Date Created (Archival Standard)
+archival_date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
-date is approximate,Approximated Date
+date_is_approximate,Approximated Date
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-subject (lcsh),Subjects - LCSH,,
-subject (lctgm),Subjects - LCTGM,true
+subject_lcsh,Subjects - LCSH,,
+subject_lctgm,Subjects - LCTGM,true
 idaho_county,Idaho County,true
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
@@ -15,9 +15,9 @@ longitude,Longitude,,,,
 collection,Source Collection
 source,Source,,,,
 findingaid,Finding Aid,,true
-original identifier,Source Identifier
+original_identifier,Source Identifier
 type,Type,,,DCTERMS.type,
-format original,Format Original
+format_original,Format Original
 format,Format,,,,encodingFormat
 language,Language,,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
