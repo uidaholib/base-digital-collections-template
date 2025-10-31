@@ -4,7 +4,7 @@ ccc-camp-number,CCC Camp Number,true,
 ccc-company-number,CCC Company Number,true,
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
-date is approximate,Approximated Date
+date_is_approximate,Approximated Date
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,true,,,contentLocation
@@ -15,7 +15,7 @@ source,Source
 collection,Source Collection
 findingaid,Finding Aid,,true
 identifier,Source Identifier
-format-original,Original Format
+format_original,Original Format
 type,Type,,,DCTERMS.type
 format,Format,,,,encodingFormat
 language,Language,,,DCTERMS.language,
