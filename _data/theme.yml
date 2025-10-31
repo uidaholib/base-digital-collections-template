@@ -54,17 +54,17 @@ map-cluster-radius: 15 # size of clusters, from ~ 10 to 80
 # TIMELINE PAGE
 #
 # set either year-navigation or year-nav-increment to generate a year nav dropdown
-year-navigation: "1890;1895;1900;1905;1910;1915;1920;1925;1930;1935;1940;1945;1950;1955" #"1900;1905;1910;1915;1920" # manually set years to appear in dropdown nav
-year-nav-increment: # set increments to auto gen nav years
+year-navigation: #"1900;1905;1910;1915;1920" # manually set years to appear in dropdown nav
+year-nav-increment: 5 # set increments to auto gen nav years
 
 ##########
 # DATA 
 # 
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,date,date is approximate,description,subject,subject (lcsh),subject (lctgm),location depicted,location,latitude,longitude,original identifier,source,digital collection,holding institution,ordering information,format original,type,format,digital identifier,date digital,language,web site,rightsstatement,rights,digital specifications,original reference url,objectid"
+metadata-export-fields: "title,creator,date,date_is_approximate,description,subject,subject_lcsh,subject_lctgm,location_depicted,idaho_county,location,latitude,longitude,original_identifier,source,rights,rightsstatement,findingaid,digital_collection,holding_institution,format_original,type,format,digital_identifier,date_digital,language,cdm_url,cdmid"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "creator,subject,subject (lcsh),subject (lctgm),location depicted,location,format original"
+metadata-facets-fields: "creator,subject,subject_lcsh,subject_lctgm,location_depicted,idaho_county,location,format_original"
 
 ##########
 # Compound Objects 
