@@ -20,4 +20,5 @@ Publisher,Publisher
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 format-original,Format Original
+language,Language,,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
