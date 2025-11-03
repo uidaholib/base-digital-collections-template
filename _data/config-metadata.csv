@@ -1,12 +1,12 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
-archival date,Date Created (Archival Standard)
+archival_date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 interviewee,Interviewee
 interviewer,Interviewer
-family origin,Family Origin
+family_origin,Family Origin
 occupation,Occupation
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
