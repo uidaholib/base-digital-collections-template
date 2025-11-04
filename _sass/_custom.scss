@@ -27,7 +27,8 @@ body {
     margin-top: 4rem;
     margin-bottom: 2rem;
 }
-@include media-query($on-desktop) {
+
+@media screen and (min-width: 992px) {
     .essay-title {
         margin-left: 5rem;
     }
