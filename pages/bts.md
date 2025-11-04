@@ -16,7 +16,7 @@ But how do you organize and display 70+ cubic feet of materials, ranging from ph
 
 {% include essay/marginnote.html id="cnr-timeline-draft.jpg"  objectid="https://objects.lib.uidaho.edu/cnr/cnr-timeline-draft.jpg"%}
 
-Faced with this sheer amount of diverse materials, it took me months to process and piece them together into a coherent history. Fortunately, I later uncovered the [College of Forestry, Wildlife and Range Sciences Album](/digital/cnr/items/cnr003.html){:target="_blank" rel="noopener"} that thoroughly chronicled a timeline of the college, from 1909 until 1984.​ 
+Faced with this sheer amount of diverse materials, it took me months to process and piece them together into a coherent history. Fortunately, I later uncovered the [College of Forestry, Wildlife and Range Sciences Album](/digital/cnr/items/cnr003.html) that thoroughly chronicled a timeline of the college, from 1909 until 1984.​ 
 
 This Album became a foundational trunk from which additional materials could branch out. Using it as a skeleton, I pieced together complimentary materials into a new timeline, and eventually, this digital collection. 
 
@@ -40,4 +40,4 @@ The archives can provide a unique opportunity for people to shape histories by d
 
 ## Donating to the Archives
 
-This collection is comprised of materials donated by faculty and staff in the College of Natural Resources, including Dean John Ehrenreich and his family. The financial support that accompanied their gift of materials was essential to the development of a digital collection and detailed [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv638509){:target="_blank" rel="noopener"}. To learn more about donating materials or funds to Special Collections and Archives, visit our [website](https://www.lib.uidaho.edu/special-collections/donations.html){:target="_blank" rel="noopener"}.
+This collection is comprised of materials donated by faculty and staff in the College of Natural Resources, including Dean John Ehrenreich and his family. The financial support that accompanied their gift of materials was essential to the development of a digital collection and detailed [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv638509). To learn more about donating materials or funds to Special Collections and Archives, visit our [website](https://www.lib.uidaho.edu/special-collections/donations.html).
