@@ -2,7 +2,7 @@ field,display_name,browse_link,dc_map,schema_map
 title,Title,,DCTERMS.title,headline
 creator,Creator,true,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.date,dateCreated
-date is approximate,Approximated Date
+date_is_approximate,Approximated Date
 description,Description,,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
 location,Location,true,,contentLocation
@@ -14,6 +14,6 @@ source,Source
 findingaid,Finding Aid,,true
 identifier,Source Identifier
 type,Type,,DCTERMS.type
-format-original,Format Original
+format_original,Format Original
 format,Format,,,encodingFormat
 rightsstatement,,,DCTERMS.rights,license
