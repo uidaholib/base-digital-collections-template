@@ -4,3 +4,5 @@ creator,Creator,,,
 subject,,true
 location,,true
 identifier,,,true,Identifier
+client_sponsor,Sponsor,,,
+faculty_advisor,Advisor,,,
