@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/expo/fy15248_05_5113.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV" %}
+{% include feature/nav-menu.html sections="About this collection; About the Engineering Design EXPO" %}
 
 ## About this collection
 
