@@ -14,11 +14,11 @@ credits: true
 
 ## About this collection
 
-This collection brings together posters created by students from the University of Idaho College of Engineering as their senior capstone projects. Posters from the Engineering Design EXPO events of 2020-2025 are represented here. In addition, the collection includes program booklets for the EXPO events of 2001, 2002, 2005, 2007, and 2014-2025. 
+This collection brings together posters created by students from the University of Idaho College of Engineering as their senior capstone projects. Posters from the Engineering Design EXPO events of 2020-2025 are represented here. In addition, the collection includes program booklets for the EXPO events of 2001, 2002, 2005, 2007, and 2014-2025. Most of these items come from the University of Idaho Special Collections and Archives' [Engineering Design EXPO posters](https://archiveswest.orbiscascade.org/ark:80444/xv920797) collection, with a few additional program booklets drawn from the [University of Idaho College of Engineering Vertical File](https://archiveswest.orbiscascade.org/ark:80444/xv474535).
 
 ## About the Engineering Design EXPO
 
-The University of Idaho Engineering Design EXPO has been held annually since 1993, making it the longest-running student engineering and technological innovation exhibition in the Pacific Northwest. 
+The University of Idaho [Engineering Design EXPO](https://www.uidaho.edu/engineering/news-events/engineering-expo) has been held annually since 1993, making it the longest-running student engineering and technological innovation exhibition in the Pacific Northwest. 
 
 {% include feature/image.html objectid="https://objects.lib.uidaho.edu/expo/fy12243_04_0191.jpg" width="50" %} 
 
