@@ -3,7 +3,8 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
-location created,,,
-location built,,,
+location_created,,,
+location_built,,,
+company_names,Company Names,,,
 idaho_county,Idaho County,,true
 identifier,,,true,Identifier

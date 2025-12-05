@@ -32,7 +32,7 @@ subjects-stopwords: # set of subjects separated by ; that will be removed from d
 ##########
 # LOCATIONS PAGE
 #
-locations-fields: location;location built;location created # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
+locations-fields: location;location_built;location_created # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
 locations-min: 1 # min size for subject cloud, too many terms = slow load time!
 locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
@@ -61,9 +61,9 @@ year-nav-increment: 5 # set increments to auto gen nav years
 # 
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "object id,file name,title,description,company names,creator,architect,drawn,traced,date,date is approximate,scale,subject,location built,location created,location,latitude,longitude,digital collection,source,identifier,rights,rightsstatement,format original,type,digital format,language,display_template,object_location,image_small,image_thumb"
+metadata-export-fields: "object id,filename,title,description,company_names,creator,architect,drawn,traced,date,date_is_approximate,scale,subject,location_built,location_created,location,latitude,longitude,digital_collection,source,identifier,rights,rightsstatement,format_original,type,format,language,display_template,object_location,image_small,image_thumb"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "company names,creator,architect,drawn,traced,date,scale,subject,location built,location created,location"
+metadata-facets-fields: "company_names,creator,architect,drawn,traced,date,scale,subject,location_built,location_created,location"
 
 ##########
 # Compound Objects 

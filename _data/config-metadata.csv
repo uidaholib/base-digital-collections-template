@@ -7,11 +7,12 @@ traced,Traced,,,,
 scale,Scale,,,
 date,Date Created,,,DCTERMS.created,dateCreated
 archival date,Date Created (Archival Standard)
+company_names,Company Names,true,,
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
-location built,Location Built,,,
-location created,Location Created,,,
+location_built,Location Built,,,
+location_created,Location Created,,,
 idaho_county,Idaho County,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
