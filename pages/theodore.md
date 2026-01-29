@@ -18,7 +18,7 @@ Roosevelt arrived at 6:30 p.m. on Sunday, April 9th, and took a room at the Hote
 {% include feature/pdf.html objectid="https://objects.lib.uidaho.edu/troosevelt/argonaut_04191911.pdf" width="50" %}
 
 {:.py-3}
-He then planted a tree (that still stands today) in front of the Administration Building: 
+He then planted a tree (that still stands today, despite suffering major damage in a December 2025 windstorm) in front of the Administration Building: 
 
 {% include feature/image.html objectid="https://objects.lib.uidaho.edu/uihistorical/spec_uihp422.jpg" width="75" %}
 
