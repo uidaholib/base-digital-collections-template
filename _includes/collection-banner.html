@@ -10,17 +10,13 @@
     padding-top: {{ site.data.theme.home-title-y-padding | default: '5em' }};
     padding-bottom: {{ site.data.theme.home-title-y-padding | default: '5em' }};
 }
-#home-banner-logo { 
-    height: 40px; 
-}
 @media screen and (max-width: 576px) {
     #home-title-box {
-        max-height: 500px;
+        padding-top: min({{ site.data.theme.home-title-y-padding | default: '5em' }}, 32vh);
+        padding-bottom: min({{ site.data.theme.home-title-y-padding | default: '5em' }}, 32vh);
     }
 }
-.liblogo-corner {
-    border-bottom-left-radius: .25rem;
-}
+.liblogo-corner { border-bottom-left-radius: .25rem; }
 .liblogo-corner img{ height: 55px; }
 </style>
 <div id="home-banner" class="container-fluid mb-0 p-0">
