@@ -24,10 +24,10 @@
 {% if include.map-link == true %}
 <a href="{{ '/map.html' | relative_url }}?location={{ map-item.latitude | default: include.latitude }},{{ map-item.longitude | default: include.longitude }}{%if include.objectid %}&marker={{ include.objectid }}{% endif %}" class="btn btn-outline-primary my-3">View on Full Map</a>{% endif %}
 <!-- load leaflet dependencies -->
-<link rel="stylesheet" href="{{ '/leaflet/leaflet.css' | prepend: site.digital-assets }}">
-<link rel="stylesheet" href="{{ '/leaflet/leaflet.fullscreen.css' | prepend: site.digital-assets }}">
-<script src="{{ '/leaflet/leaflet.js' | prepend: site.digital-assets }}"></script>
-<script src="{{ '/leaflet/Leaflet.fullscreen.min.js' | prepend: site.digital-assets }}"></script>
+<link rel="stylesheet" href="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/leaflet.css">
+<link rel="stylesheet" href="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/leaflet.fullscreen.css">
+<script src="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/leaflet.js"></script>
+<script src="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/Leaflet.fullscreen.min.js"></script>
 
 <script>
     // initial start point
