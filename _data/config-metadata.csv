@@ -5,12 +5,14 @@ archival_date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
+location,Location,,,DCTERMS.coverage,contentLocation
+idaho_county,Idaho County,,,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
 finding_aid,Finding Aid,,true
 identifier,Source Identifier,,,,
+format_original,Original Format,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 language,Language,,,DCTERMS.language,

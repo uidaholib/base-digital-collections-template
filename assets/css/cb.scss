@@ -1,4 +1,5 @@
 ---
+# customized for U of I
 # base CSS for collectionbuilder
 # includes some theming options
 # pulled in from "theme.yml" and "config-theme-colors.csv"
@@ -20,7 +21,9 @@ $theme-link-color: {{ site.data.theme.link-color | default: "#00AEC7" }};
 );
 
 /* individual CB page styles */
-@use "pages"; 
+@forward "pages" with (
+  $toc-a-color: {{ site.data.theme.text-color | default: '#191919' }}
+); 
 
 /* theme colors pulled from config-theme-colors */
 {% assign btns = site.data.config-theme-colors | where_exp: "item","item.color != nil" %}
