@@ -78,8 +78,11 @@ organization-logo-nav: https://www.lib.uidaho.edu/media/digital/liblogo_white.pn
 # JEKYLL_ENV=production jekyll build
 # (this is done automatically by gh-pages build)
 #
+# Library directory location. This allows you to customize where the standard assets are found.
+# provide a relative path in this repository or full url 
+lib-assets: https://www.lib.uidaho.edu/assets/dc/lib
 # ignore stuff
-exclude: [docs/, Rakefile, README.md, LICENSE, CODEOWNERS, utilities/]
+exclude: [docs/, Rakefile, rakelib/, README.md, LICENSE, CODEOWNERS, utilities/]
 # compress CSS output
 sass:
   style: compressed
