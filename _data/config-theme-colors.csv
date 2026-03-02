@@ -2,14 +2,13 @@ color_class,color
 primary,#F1B300
 secondary,
 success,
-info,#008080
+info,
 warning,
 danger,
 light,
 dark,
 pride-gold,#F1B300
-black-color,#191919
-grey-color,#808080
+black,#191919
 raspberry,#D7003F
 garnet,#7A0017
 lupine,#5E48FF
