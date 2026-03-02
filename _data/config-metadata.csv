@@ -8,8 +8,8 @@ description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 subject_lcsh,Subjects - LCSH,,
 subject_lctgm,Subjects - LCTGM,true
-idaho_county,Idaho County,true
-location,Location,,,,contentLocation
+location,Location,,,DCTERMS.coverage,contentLocation
+idaho_county,Idaho County,true,,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 collection,Source Collection
