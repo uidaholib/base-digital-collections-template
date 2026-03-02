@@ -1,7 +1,7 @@
-field,display_name,btn,hidden,sort_name
+field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date
 organizations, Organizations
 creator,Creator,,,
 subject,,true
-location,,true
+location,,true,,,
 identifier,,,true,Identifier

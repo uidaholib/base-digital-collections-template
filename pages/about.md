@@ -4,22 +4,26 @@ layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
+# featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
+about-featured-image: https://objects.lib.uidaho.edu/priestriver/banner.jpg
+# set background-position for featured image, "center", "top", "bottom"
+position: center
+# major heading to display over featured image
+heading: About the Collection
+# paragraph text below heading in featured image
+sub-heading: 
+# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
+padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/alert.html text="**Please Note:** Materials in this digital collection are not held by University of Idaho Library Special Collections and Archives. Please contact Priest River Library at library@westbonnerlibrary.org for information." color="warning" align="center" %}
 
-{% include feature/jumbotron.html objectid="https://objects.lib.uidaho.edu/priestriver/banner.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About Marylyn Cork;About Priest River" %}
----
+## About the Collection
 
 **Authored by Christa Shanaman**  
 Priest River Library
-
-
-## About the Collection
 
 The first photographs in this collection were given to Roger Gregory, through a grant he received from the [Idaho Humanities Council](https://idahohumanities.org/), then known as the Association for the Humanities in Idaho, in the 1980s. Roger initially collected the first photographs as copies from Chuck Peterson of Hope, Idaho, a retired Forest Service employee. Mr. Peterson had collected a massive assortment of historical photos of Bonner County, including the Priest River-Priest Lake communities. 
 
