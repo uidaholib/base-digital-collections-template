@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date
 subject,,true
-subject_lctgm,,true
+subject_lctgm,,true,,,LOC Subjects
 idaho_county,Idaho County,,true,
 location,,true
-format_original,,true
+format_original,,true,,,Format Original
 identifier,,,true,Identifier
