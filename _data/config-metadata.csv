@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
-creators title,Creator Title,
+creators_title,Creator Title,
 archival_date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
-date is approximate?,Date is Approximate?,
+date_is_approximate,Date is Approximate?,
 description,Description,,,DCTERMS.description,description
 duration,Duration,
 subject,Subjects,true,,DCTERMS.subject,keywords
@@ -14,11 +14,11 @@ idaho_county,Idaho County,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 publisher,Publisher,,,,
-contributing institution,Contributing Institution,,,
+contributing_institution,Contributing Institution,,,
 source,Source,,,,
 original_url,Original URL,,,,
-national archive number,National Archive Number,
-regional office number,Regional Office Number,
+national_archive_number,National Archive Number,
+regional_office_number,Regional Office Number,
 finding_aid,Finding Aid,,true
 identifier,Source Identifier,,,,
 format_original,Original Format,,,,
