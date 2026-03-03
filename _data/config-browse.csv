@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name,facet_name
-archival date,Date,,,Date
+archival_date,Date,,,Date
 fiddler_name,Fiddlers,
 date,Date,,,Date Created
 description,,,true,
