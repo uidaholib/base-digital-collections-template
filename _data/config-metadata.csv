@@ -8,11 +8,12 @@ political_affiliation,Political Affiliation,true,,,
 event_type,Event Type,true,,,
 party_nominee_yes_or_no,Party Nominee,,,,
 election_outcome,Election Outcome,true,,,
-subject,Subjects,true,,DCTERMS.subject,
+subject,Subjects,true,,DCTERMS.subject,keywords
 keywordssource,Source,,,,
 findingaid,Finding Aid,,true
 source,Source,,,,
 identifier,Source Identifier,,,,
+format_original,Original Format,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 language,Language,,,DCTERMS.language,
