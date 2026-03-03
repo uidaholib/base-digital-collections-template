@@ -29,6 +29,7 @@ Carefully review mapping the "config-search-index.csv" and compare with the coll
 In cases where the collection metadata is customized beyond the standard template and contains unique fields, you may need to change the mappings. 
 Be thoughtful about which fields should be mapped to provide valuable search to users.
 If necessary, do metadata work such as combining or cleaning columns to create the most relevant and useful data.
+Multiple fields can be mapped to a single dcterm using a semicolon, e.g. `coverage,location;county`.
 
 Ensure the fields meet our standard expectations, since this data will be used in Search and DPLA aggregations. 
 In particular check these required standardized fields in the metadata: 
