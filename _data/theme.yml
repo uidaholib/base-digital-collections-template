@@ -13,7 +13,7 @@ featured-image-alt-text: # add alt text if using url for featured-image (objecti
 # optional: add extra padding above collection title for a larger image feature. 
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: bottom # Default is center
+home-banner-image-position: center # Default is center
 # optional: add content alert on the home page to indicate offensive material is present in the collection
 content-alert: false # true / false
 
