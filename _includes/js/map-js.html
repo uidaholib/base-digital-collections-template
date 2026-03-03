@@ -1,17 +1,17 @@
-{% if site.data.theme.map-child-objects == false %}
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.parentid == nil' -%}
-{% else %}
+{% if site.data.theme.map-child-objects == true %}
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
+{% else %}
+{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.parentid == nil' -%}
 {% endif %}
 {%- assign items = items | where_exp: 'item','item.latitude != nil and item.longitude != nil' -%}
 {%- assign fields = site.data.config-map -%}
 <!-- load leaflet dependencies -->
-<script src="{{ '/leaflet/leaflet.js' | prepend: site.digital-assets }}"></script>
-<script src="{{ '/leaflet/Leaflet.fullscreen.min.js' | prepend: site.digital-assets }}"></script>
-{% if site.data.theme.map-search == true %}<script src="{{ '/leaflet/fuse.min.js' | prepend: site.digital-assets }}"></script>
-<script src="{{ '/leaflet/leaflet.fusesearch.js' | prepend: site.digital-assets }}"></script>{% endif %}
-{% if site.data.theme.map-cluster == true %}<script src="{{ '/leaflet/leaflet.markercluster.js' | prepend: site.digital-assets }}"></script>{% endif %}
-{% if site.data.theme.map-search == true and site.data.theme.map-cluster == true %}<script src="{{ '/leaflet/leaflet.markercluster.freezable.js' | prepend: site.digital-assets }}"></script>{% endif %}
+<script src="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/leaflet.js"></script>
+<script src="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/Leaflet.fullscreen.min.js"></script>
+{% if site.data.theme.map-search == true %}<script src="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/fuse.min.js"></script>
+<script src="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/leaflet.fusesearch.js"></script>{% endif %}
+{% if site.data.theme.map-cluster == true %}<script src="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/leaflet.markercluster.js"></script>{% endif %}
+{% if site.data.theme.map-search == true and site.data.theme.map-cluster == true %}<script src="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/leaflet.markercluster.freezable.js"></script>{% endif %}
 
 <script>
 (function(){
@@ -39,7 +39,7 @@
     var markerFilter = url.searchParams.get('marker') ? url.searchParams.get('marker') : "";
 
     /* init map */
-    var map = L.map('map');
+    var map = L.map('mapContainer');
 
     /* add map layer options */
     var Esri_WorldStreetMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
