@@ -1,6 +1,8 @@
-field,display_name,btn,hidden,sort_name
+field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date
 subject,,true
 family_names,Family Names,true
+description,,,true,
+creator,Creator,,,
 identifier,,,true,Identifier
 location,Location,,true,,
