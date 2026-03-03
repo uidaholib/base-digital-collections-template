@@ -8,7 +8,11 @@ layout: page
     {% include index/description.html %}
     {% include index/time.html %}
 
-    {% include index/objects.html %}
+    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="clearwater" %}
+
+    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-palouse" %}
+    
+    {% include index/content.html %}
 
   </div>
   <div class="col-md-8">
