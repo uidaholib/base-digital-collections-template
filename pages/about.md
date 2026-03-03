@@ -19,7 +19,7 @@ padding: 6em
 ---
 
 {:.mt-4}
-{% include feature/card.html text="For a detailed description and inventory of all Potlatch collections, see our Potlatch Corporation Historical Archives, 1900-2007 [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv40829?q=Potlatch%20Corporation%20Historical%20Archives) & Potlach Lumber Company Records, 1890-1949 [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv33863?q=Potlatch%20Lumber%20CompanyPhysical). Both of these collections are held by the University of Idaho [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/)." width="50" centered="true" header="Archival Context" %}
+{% include feature/card.html text="For a detailed description and inventory of all Potlatch collections, see our Potlatch Corporation Historical Archives, 1900-2007 [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv40829?q=Potlatch%20Corporation%20Historical%20Archives) & Potlach Lumber Company Records, 1890-1949 [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv33863?q=Potlatch%20Lumber%20CompanyPhysical). Both of these collections are held by the University of Idaho [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/)." centered="true" header="Archival Context" %}
 
 ## About the Collection
 
@@ -59,7 +59,7 @@ Though the population of Potlatch has dwindled over the years since the mill's c
 
 {% endcapture %}
 
-{% include feature/card.html text=funfacts header="Fun Facts" centered="true" width="50" %}
+{% include feature/card.html text=funfacts header="Fun Facts" centered="true" %}
 
 ## References
 
