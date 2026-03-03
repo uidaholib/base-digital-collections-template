@@ -4,16 +4,26 @@ layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
+# featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
+about-featured-image: jam042
+# set background-position for featured image, "center", "top", "bottom"
+position: center
+# major heading to display over featured image
+heading: About the Collection
+# paragraph text below heading in featured image
+sub-heading: 
+# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
+padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/jumbotron.html objectid="jam042" %}
 
 ## About the collection
 
 This digital collection, compiled in recognition of Senator McClure's 100th birthday, includes a selection of materials from the University of Idaho Special Collections and Archives' collections related to Senator McClure, primarily the <a href="https://archiveswest.orbiscascade.org/ark:80444/xv95388">James A. McClure papers</a>, which includes the original series of donated materials from the McClure family, and the <a href="https://archiveswest.orbiscascade.org/ark:80444/xv927544">Senator James A. McClure collection</a>, which encompasses more recent acquisitions. Senator McClure began donating his political papers to the University of Idaho Special Collections and Archives following his retirement in 1991. Additional materials have been donated in the time since. 
 
 {% include feature/image.html objectid="jam025" width="50" %}
+
 
 The digital collection highlights McClure's involvement with natural resources and energy. It also showcases McClure's duties and relations with constituents during his political service, his post-political career, and his contributions to the University of Idaho.  
 
