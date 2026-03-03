@@ -1,6 +1,6 @@
 {%- assign fields = site.data.config-search -%}
 {%- assign index_fields = fields | where: 'index','true' -%}
-<script src="{{ '/js/lunr.min.js' | prepend: site.digital-assets }}"></script>
+<script src="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/lunr.min.js"></script>
 <script src="{{ '/assets/js/lunr-store.js' | relative_url }}"></script>
 <script>
 /* initialize lunr */
@@ -53,7 +53,7 @@ function lunr_search () {
             {% assign display = fields | where: 'display','true' %}
             {% for d in display %}
             {% if forloop.first %}
-            '<p class="h4"><a href="{{ site.baseurl }}/items/' + store[ref].id + '">' + store[ref][{{ fields[0].field | jsonify }}]  + '</a></p>' +
+            '<p class="h4"><a href="{{ "/items/" | relative_url }}' + store[ref].id + '">' + store[ref][{{ fields[0].field | jsonify }}]  + '</a></p>' +
             '<p class="ms-3">';
               {% else %}
               if(store[ref][{{ d.field | jsonify }}]) {
