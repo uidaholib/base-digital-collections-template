@@ -20,14 +20,15 @@
 {% else %}
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 {% endif %}
-<link rel="stylesheet" href="{{ '/bootstrap5/bootstrap.min.css' | prepend: site.digital-assets }}" type="text/css">
-{% if page.layout == 'data' %}<link rel="stylesheet" type="text/css" href="{{ '/bootstrap5/datatables/datatables.min.css' | prepend: site.digital-assets }}">{%- endif -%}
-{% if page.layout == 'map' %}<link rel="stylesheet" href="{{ '/leaflet/leaflet.css' | prepend: site.digital-assets }}">
-<link rel="stylesheet" href="{{ '/leaflet/leaflet.fullscreen.css' | prepend: site.digital-assets }}">
-{% if site.data.theme.map-search == true %}<link rel="stylesheet" href="{{ '/leaflet/leaflet.fusesearch.css' | prepend: site.digital-assets }}">{%- endif -%}
-{% if site.data.theme.map-cluster == true %}<link rel="stylesheet" href="{{ '/leaflet/MarkerCluster.css' | prepend: site.digital-assets }}">
-<link rel="stylesheet" href="{{ '/leaflet/MarkerCluster.Default.css' | prepend: site.digital-assets }}">{% endif %}{%- endif -%}
-<link rel="stylesheet" href="{{ '/assets/css/cb.css' | relative_url }}" type="text/css">
+<link rel="stylesheet" href="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/bootstrap.min.css" type="text/css">
+{% if page.layout == 'data' %}<link rel="stylesheet" type="text/css" href="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/datatables/datatables.min.css">{%- endif -%}
+{% if page.layout == 'map' %}<link rel="stylesheet" href="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/leaflet.css">
+<link rel="stylesheet" href="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/leaflet.fullscreen.css">
+{% if site.data.theme.map-search == true %}<link rel="stylesheet" href="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/leaflet.fusesearch.css">{%- endif -%}
+{% if site.data.theme.map-cluster == true %}<link rel="stylesheet" href="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/MarkerCluster.css">
+<link rel="stylesheet" href="{{ site.lib-assets | default: '/assets/lib' | relative_url }}/leaflet/MarkerCluster.Default.css">{% endif %}{%- endif -%}
+<!-- load custom css last to allow overrides -->
+<link rel="stylesheet" href="{{ '/assets/css/cb.css' | relative_url }}?v={{ site.time | date: '%Y-%m-%d' }}" type="text/css">
 
 {% comment %} 
     Meta tags and analytics are added during production build ONLY 
