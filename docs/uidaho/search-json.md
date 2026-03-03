@@ -106,6 +106,8 @@ The second column "field" should be customized if necessary to match the most re
 In cases where the collection metadata is customized beyond the standard template and contains unique fields, be thoughtful about which fields should be mapped to provide valuable search to users.
 If necessary, do metadata work such as combining or cleaning columns to create the most relevant and useful data.
 
+Multiple fields can be mapped to a single dcterm using a semicolon, e.g. `coverage,location;county`.
+
 ### genre
 
 One special field for search is "genre" as it will displayed at the top of the search listing. 
@@ -194,14 +196,16 @@ pdf-full-text: true
 }, 
 "items":    
 [ {% for item in items %}
-    { {% for f in fields %}{% if item[f.field] %}{{ f.dcterm | jsonify }}: {{ item[f.field] | jsonify }},{% endif %}{%- endfor -%}
-    {% if item.image_thumb %}"thumb": "{{ item.image_thumb | absolute_url }}",{%- endif -%}
-    {% if item.object_transcript and item.extract_full_text != 'false' %}"transcript": {% assign transcript_type = item.object_transcript | slice: 0,1 %}{% if transcript_type == '/' %}{% assign transcript_location = item.object_transcript | remove_first: '/' %}{% assign transcript = site.pages | where: 'path', transcript_location | first %}{{ transcript.content | markdownify | strip_html | jsonify | replace: '\n', ' ' }}{% else %}{{ item.object_transcript | markdownify | strip_html | jsonify | replace: '\n', ' ' }}{% endif %},{%- endif -%}
-    {% if item.object_location %}"file": "{{ item.object_location | absolute_url }}",{%- endif -%}
-    {% if page.pdf-full-text == true and item.format contains 'pdf' and item.extract_full_text != 'false' %}"extract_full_text": true,{% elsif item.extract_full_text == 'true' %}"extract_full_text": true,{%- endif -%}
+    { {% for f in fields %}{% if f.field contains ';' %}{% assign map-fields = f.field | split: ';' %}{% capture map-values %}{% for v in map-fields %}{% if item[v] %}{{ item[v] }};;{% endif %}{% endfor %}{% endcapture %}{% if map-values %}{{ f.dcterm | jsonify }}: {{ map-values | split: ';;' | compact | join: '; ' | jsonify }},{% endif %}{% else %}{% if item[f.field] %}{{ f.dcterm | jsonify }}: {{ item[f.field] | jsonify }}, {% endif %}{%- endif -%}
+    {% endfor %}
+    {% if item.image_thumb %}"thumb": "{{ item.image_thumb | absolute_url }}", {%- endif -%}
+    {% if item.object_transcript and item.extract_full_text != 'false' %}"transcript": {% assign transcript_type = item.object_transcript | slice: 0,1 %}{% if transcript_type == '/' %}{% assign transcript_location = item.object_transcript | remove_first: '/' %}{% assign transcript = site.pages | where: 'path', transcript_location | first %}{{ transcript.content | markdownify | strip_html | normalize_whitespace | jsonify }}{% else %}{{ item.object_transcript | markdownify | strip_html | normalize_whitespace | jsonify }}{% endif %},{%- endif -%}
+    {% if item.object_location %}"file": "{{ item.object_location | absolute_url }}", {%- endif -%}
+    {% if page.pdf-full-text == true and item.format contains 'pdf' and item.extract_full_text != 'false' %}"extract_full_text": true, {% elsif item.extract_full_text == 'true' %}"extract_full_text": true, {%- endif -%}
     "collectionid": "{{ site.baseurl | slugify }}",
     "objectid": "{% if item.parentid %}{{ item.parentid }}#{% endif %}{{ item.objectid }}",
-    "url": "{{ '/items/' | absolute_url }}{% if item.parentid %}{{ item.parentid }}.html#{{ item.objectid }}{% else %}{{ item.objectid }}.html{% endif %}" }{% unless forloop.last %},{% endunless %}{% endfor %}
+    "url": "{{ '/items/' | absolute_url }}{% if item.parentid %}{{ item.parentid }}.html#{{ item.objectid }}{% else %}{{ item.objectid }}.html{% endif %}" }{% unless forloop.last %}, {% endunless %}{% endfor %}
 ]}
+
 
 ```
