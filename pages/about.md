@@ -4,15 +4,24 @@ layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
+# featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
+about-featured-image: spanishflu002
+# set background-position for featured image, "center", "top", "bottom"
+position: center
+# major heading to display over featured image
+heading: About the Collection
+# paragraph text below heading in featured image
+sub-heading: 
+# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
+padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="The 1918 Influenza;The University's First Cases;Patient Care and Community Response;University Quarantine;About the Collection;References" %}
-
 ## The 1918 Influenza 
 
 In 1918 the world experienced what is considered the most severe pandemic in modern history, the Influenza of 1918. Also known as the "Spanish Flu" (a term now recognized as a misnomer and no longer used by historians), the disease was far reaching, infecting approximately 500 million people worldwide. In three waves over the course of 15 months, the influenza killed an estimated 50-100 million people worldwide, with 675,000 deaths in the United States alone.[^1]
+
 
 {% include feature/image.html objectid="spanishflu011" float="sm-right col-sm-5 m-sm-4" %}
 
