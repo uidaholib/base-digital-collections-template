@@ -24,7 +24,7 @@ Charles Houston Shattuck arrived at the University of Idaho in 1909 as the head 
 
 The Department of Forestry was first housed in the College of Agriculture, then quickly moved to the College of Letters and Science when Shattuck was appointed Dean there. He made the most of his fledgling department and could be seen leading his classes on long hikes across Palouse woodlands in all sorts of weather. Shattuck spent his summers conducting research in nearby national forests and other local woodlands, practicing surveying, forest clearing, methods of wood extractive chemistry, and propagating trees and shrubs for sale in Idaho.  
 
-{% include feature/image.html objectid="shattuck16" width="75" %}
+{% include feature/image.html objectid="shattuck16" width="50" %}
 
 The University of Idaho campus was a barren patch of hilly land when Shattuck started. He quickly became familiar with the local flora and devised a plan to test trees for use as windbreaks, shade trees, and other purposes. Starting on what was originally an unpopular weedy slope, Shattuck, along with C.L. Price, the first person hired to oversee campus plantings, turned the 12 acres just southwest of the Administration building into an experimental nursery that in time held over 12,000 trees representing 150 species.
 
@@ -32,7 +32,7 @@ Shattuck left the U of I in 1917 due to differences in administration but stayed
 
 An early type of photography, lantern slides and the devices used to project the images were originally called “Magic Lanterns” due to the wonder by the audience of being able to see an image cast onto a screen. Besides for entertainment, the ability to project images from lantern slides to a large audience became a popular teaching tool for schools, universities, and museums. The photography process created slides in black and white, any color had to be applied by hand by painting each slide with specially formulated paints and dyes.
 
-{% include feature/image.html objectid="shattuck99" width="75" %}
+{% include feature/image.html objectid="shattuck99" width="50" %}
 
 # About the Collection
 
