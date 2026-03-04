@@ -2,10 +2,16 @@
 title: Theodore Roosevelt Visit
 layout: about
 permalink: /theodore.html
+about-featured-image: https://objects.lib.uidaho.edu/troosevelt/troosevelt_banner.jpg
+# set background-position for featured image, "center", "top", "bottom"
+position: top
+# major heading to display over featured image
+heading: Theodore Roosevelt Visit
+# paragraph text below heading in featured image
+sub-heading: 
+# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
+padding: 10em
 ---
-{% include feature/jumbotron.html %} 
-
-{% include feature/nav-menu.html sections="Theodore Roosevelt Comes to Moscow" %}
 
 ## Theodore Roosevelt Comes to Moscow
 
@@ -20,6 +26,7 @@ Roosevelt arrived at 6:30 p.m. on Sunday, April 9th, and took a room at the Hote
 {:.py-3}
 He then planted a tree (that still stands today, despite suffering major damage in a December 2025 windstorm) in front of the Administration Building: 
 
+### Roosevelt's speech
 {% include feature/image.html objectid="https://objects.lib.uidaho.edu/uihistorical/spec_uihp422.jpg" width="75" %}
 
 {:.py-3}

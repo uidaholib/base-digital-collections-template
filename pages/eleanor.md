@@ -2,10 +2,16 @@
 title: Eleanor Roosevelt Visit
 layout: about
 permalink: /eleanor.html
+about-featured-image: https://objects.lib.uidaho.edu/troosevelt/troosevelt_banner.jpg
+# set background-position for featured image, "center", "top", "bottom"
+position: top
+# major heading to display over featured image
+heading: Eleanor Roosevelt Visit
+# paragraph text below heading in featured image
+sub-heading: 
+# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
+padding: 10em
 ---
-{% include feature/jumbotron.html %} 
-
-{% include feature/nav-menu.html sections="Eleanor Roosevelt Speaks on 'Peace' at the University of Idaho" %}
 
 ## Eleanor Roosevelt Speaks on 'Peace' at the University of Idaho
 
@@ -17,6 +23,7 @@ Roosevelt’s history as an advocate for peace and human rights made her a fitti
 
 {% include feature/pdf.html objectid="https://objects.lib.uidaho.edu/troosevelt/argonaut_05291938.pdf" width="75" %}
 
+### Commemorative tree planting
 {:.py-3}
 Like her uncle, former president Theodore Roosevelt, Eleanor Roosevelt planted a [commemorative Douglas Fir tree](https://uofihistory.wordpress.com/visit-to-uofi/) in the lawn in front of the University of Idaho Administration Building during her visit. The tree can be seen today across from the main entrance to the building.
 
