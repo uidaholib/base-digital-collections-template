@@ -30,7 +30,7 @@ The WI&M railroad line connected with the Northern Pacific Railway Company and t
 
 The stations along the WI&M line included Wellesley, Princeton, Harvard, Yale, Stanford, Vassar, Cornell, and Purdue, which led to speculation that the stations were named by young college men.
 
-{% include feature/image.html objectid="wim005" width="75" %}
+{% include feature/image.html objectid="wim005" width="50" %}
 
 The main purpose of the railroad was to move timber for the Potlatch Lumber Company. The WI&M company ranked with main lines for its reliability and service due to its excellent construction and attention to maintenance and repairs. In 1930, the railway developed an innovative way to protect shipments of finished lumber from water and cinder damage with a paper tent.  
 
@@ -40,7 +40,7 @@ In addition to hauling logs, the railway operated a passenger service transporti
 
 {% include feature/image.html objectid="https://objects.lib.uidaho.edu/plcphotos/plcphotos22.jpg" caption="Washington, Idaho & Montana Mail Co. 'The Bug'" link="https://www.lib.uidaho.edu/digital/plcphotos/items/plcphotos22.html" width="50" %}
 
-{% include feature/image.html objectid="https://objects.lib.uidaho.edu/phs/phs1383.jpg" caption="WI&M Railroad Car Interior" link="https://www.lib.uidaho.edu/digital/phs/items/phs1383.html" width="25" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/phs/phs1383.jpg" caption="WI&M Railroad Car Interior" link="https://www.lib.uidaho.edu/digital/phs/items/phs1383.html" width="50" %}
 
 After being acquired by the Milwaukee Land Company (a subsidiary of Milwaukee Road) in 1962, the WI&M railroad continued to run for logging operations until 1980. The Milwaukee Road sold in 1980 and a part of the WI&M line was purchased by the Burlington Northern Railroad.
 
