@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date
 location,,true,,
-idaho_county,,,true
+idaho_county,Idaho County,,true
 region,,,true
 identifier,,,true,Identifier
