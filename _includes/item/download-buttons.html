@@ -19,7 +19,7 @@
     </a>{% endif %}
 </div>
 {% if page.object_transcript %}
-<div class="collapse mt-3" id="collapseTranscript">
+<div class="collapse mt-3" id="collapseTranscript{{ page.objectid }}">
     <div class="card card-body text-start">
         {% assign transcript_type = page.object_transcript | slice: 0,1 %}
         {% if transcript_type == '/' %}
