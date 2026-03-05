@@ -26,11 +26,11 @@ Among the riches of the historical photograph collections of the University of I
 
 Watkins was hired to photograph the Anaconda copper mine in Butte by [James Ben Ali Haggin](https://en.wikipedia.org/wiki/James_Ben_Ali_Haggin) in 1889. Haggin's company, [Hearst, Haggin, Tevis, and Co.](https://en.wikipedia.org/wiki/Hearst,_Haggin,_Tevis_and_Co.) which was headed by fellow capitalists Lloyd Tevis and George Hearst, owned the Anaconda Mining Company, along with several other mines. Haggin and his partners had purchased majority shares in the Anaconda mine from [Marcus Daly](https://en.wikipedia.org/wiki/Marcus_Daly) in 1881 and gradually transformed it into one of the largest copper producing mines in the world. 
 
-{% include feature/image.html objectid="watkins3" width="75" %}
+{% include feature/image.html objectid="watkins3" width="50" %}
 
 Watkins was hired to document the mines so that Haggin could present, later that year, "visually persuasive evidence of the mine's present success and future prospects" to European copper mining syndicates (including the Rothschild family) with whom the American copper mining interests were competing.[^1] The photographs served as a threat to the Europeans, indicating that Haggin's mines could produce and distribute such a large quantity of copper that the market value of the metal would be drastically diminished. The threat worked: the European syndicates and the Americans both promised to limit production to better guarantee the market.
 
-{% include feature/image.html objectid="watkins19" width="75" %}
+{% include feature/image.html objectid="watkins19" width="50" %}
 
 ## Watkins in Montana
 
