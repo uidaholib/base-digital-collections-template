@@ -1,8 +1,9 @@
-field,display_name,btn,hidden,sort_name
-date,Date,,,Date
+field,display_name,btn,hidden,sort_name,facet_name
+date,Date,,,Date Created
+description,,,true,
 creator,Creator,,,
 recipient,Recipient,,,,
 subject,,true
-location,,true
+location,,true,,,
 idaho_county,Idaho County,,true,
 identifier,,,true,Identifier
