@@ -2,10 +2,20 @@
 title: About the Locations
 layout: about
 permalink: /aboutlocations.html
+credits:
+# featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
+about-featured-image: expforsav652
+# set background-position for featured image, "center", "top", "bottom"
+position: center
+# major heading to display over featured image
+heading: About the Locations
+# paragraph text below heading in featured image
+sub-heading: 
+# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
+padding: 6em
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/jumbotron.html %}
-
-{% include feature/nav-menu.html sections="Priest River Experiment Station;Deception Creek Experiment Station;Savenac Nursery" %}
 
 ## Priest River Experiment Station
 
@@ -37,7 +47,7 @@ Service and academic scientists, and students of all ages.
     </div>   
 </div>
 
-## Deception Creek Experiment Station<
+## Deception Creek Experiment Station
 
 Because most of the facilities and staff at Priest River were occupied with fire research, the Deception Creek Experimental Forest was established in 1933 for the purpose of examining and understanding the ecology of forests dominated by western white pine, since the issue of studying western white pine was still very important. Extensive stands of white pine were found in the Coeur d'Alene Mountains, so it was decided to reserve about 3500 acres that encompassed the Deception and Sands Creek drainages. The Honeysuckle Ranger Station stood near the site, being located at the confluence of Deception Creek and the Little North Fork of the Coeur d'Alene River; the station was able to provide assistance with management activities.
 
