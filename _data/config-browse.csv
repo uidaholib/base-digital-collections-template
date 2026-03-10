@@ -1,8 +1,8 @@
-field,display_name,btn,hidden,sort_name
+field,display_name,btn,hidden,sort_name,facet_name
 photographer,Photographer,true,,Photographer
 date,Date,,,Date
 subject,,true
-location,Location,true
+location,Location,true,,,
 idaho_county,Idaho County,true
 features,Features,true
 identifier,,,true,Identifier

@@ -1,22 +1,22 @@
-field,display_name,browse_link,dc_map,schema_map
+field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,DCTERMS.title,headline
 photographer,Photographer,true,DCTERMS.creator,creator
-date,Date Created,,DCTERMS.created,dateCreated
-date is approximate,Approximated Date
-description,Description,,DCTERMS.description,description
-subject,Subjects,true,DCTERMS.subject,keywords
-location,Location,true,,contentLocation
+date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
+date_is_approximate,Approximated Date
+description,Description,,,DCTERMS.description,description
+subject,Subjects,true,,DCTERMS.subject,keywords
+location,Location,,,DCTERMS.coverage,contentLocation
 idaho_county,Idaho County,true
 features,Features,true
 latitude,Latitude
 longitude,Longitude
-moscow number,Moscow Number
-fs number,Forest Service Number
+moscow_number,Moscow Number
+fs_number,Forest Service Number
 collection,Source Collection
 source,Source
-findingaid,Finding Aid,,true
-identifier,Source Identifier
-type,Type,,DCTERMS.type
-format-original,Format Original
+finding_aid,Finding Aid,,true
+identifier,Source Identifier,,,,
+type,Type,,,DCTERMS.type
+format_original,Original Format,,,,
 format,Format,,,encodingFormat
-rightsstatement,,,DCTERMS.rights,license
+rightsstatement,,,,DCTERMS.rights,license
