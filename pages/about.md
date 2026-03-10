@@ -4,15 +4,21 @@ layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
+# featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
+about-featured-image: ernieday007
+# set background-position for featured image, "center", "top", "bottom"
+position: center
+# major heading to display over featured image
+heading: About the Collection
+# paragraph text below heading in featured image
+sub-heading: 
+# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
+padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="ernieday007" %} 
-
-{% include feature/nav-menu.html sections="Ernie Day;About the Collection" %}
-
-# Ernie Day 
+# Ernie Day
 
 Ernest E. Day was a businessman, conservationist and photographer. Born in 1918, he was raised in Boise, Idaho. After earning a bachelors in Political Science from the University of Idaho, he went on to serve in the Army Air Corp during World War II. Upon his return, he went to work for this family's business Day Realty. After years contributing to conservation work in Idaho, Day died in 2008 at the age of 89.
 
