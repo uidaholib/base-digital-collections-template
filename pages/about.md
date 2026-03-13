@@ -86,7 +86,7 @@ Learn more about [The Story of Joe Vandal](https://govandals.com/news/2011/5/24/
 
 {% endcapture %}
 {:.text-center}
-{% include feature/card.html text=exampletext centered="true" width="50" %}
+{% include feature/card.html text=exampletext centered="true" %}
 
 
 Since 1893, the team has only missed five seasons:[^2]
@@ -117,7 +117,7 @@ In 2016, university President Chuck Staben "announced the football program would
 - “FCS schools usually play 11-game schedules while FBS programs play 12 each.”[^4]
 
 {% endcapture %}
-{% include feature/card.html text=exampletext header="FBS vs. FCS: What's the Difference?" width="50" centered="true" %}
+{% include feature/card.html text=exampletext header="FBS vs. FCS: What's the Difference?" centered="true" %}
 
 ### Conference Membership
 
@@ -141,10 +141,10 @@ In 2016, university President Chuck Staben "announced the football program would
 - Big Sky Conference (2018 - present)
 {% endcapture %}
 
-{% include feature/card.html text=card3 header="Pre-NCAA" centered="true" width="50"%}
-{% include feature/card.html text=card4 header="NCAA Division I-AA (now FCS), 1978-1995" centered="true" width="50"%}
-{% include feature/card.html text=card5 header="NCAA Division I-A (now FBS), 1996-2017" centered="true" width="50"%}
-{% include feature/card.html text=card6 header="NCAA FCS (formerly I-AA), 2018 - present" centered="true" width="50"%}
+{% include feature/card.html text=card3 header="Pre-NCAA" centered="true" %}
+{% include feature/card.html text=card4 header="NCAA Division I-AA (now FCS), 1978-1995" centered="true" %}
+{% include feature/card.html text=card5 header="NCAA Division I-A (now FBS), 1996-2017" centered="true" %}
+{% include feature/card.html text=card6 header="NCAA FCS (formerly I-AA), 2018 - present" centered="true" %}
 
 {:.mt-5}
 {% include feature/image.html objectid="footballcovers87" width="50" %}
