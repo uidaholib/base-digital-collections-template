@@ -2,9 +2,9 @@ field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date
 description,
 location,,true
-aerial-type,,true
+aerial-type,Photograph Type,true
 features,,,true
-flight_line,,,true
+flight_line,Flight Line,,true
 identifier,,,true,Identifier
 county,,true
 region,,true
