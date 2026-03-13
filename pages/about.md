@@ -22,7 +22,7 @@ padding: 6em
 
 {% include feature/nav-menu.html sections="About the Camp;About the Scrapbook;For More Information" %} 
 
-## ABOUT THE CAMP
+## About the Camp
 
 {% include feature/image.html objectid="kooskia793" width="50" %}
 
@@ -41,7 +41,7 @@ Dr. Wegars' research has uncovered INS, Forest Service, Border Patrol, and Unive
 These, combined with internee and employee oral and written interviews, illuminate the internees' experiences, emphasizing the perspectives of the men detained at the Kooskia Internment Camp.
 
 
-## ABOUT THE SCRAPBOOK
+## About the Scrapbook
 
 The Kooskia Internment Camp Scrapbook is a hand-made manuscript consisting of 148 photographs (and two drawings) of activities and buildings related the Kooskia Internment Camp.
 
