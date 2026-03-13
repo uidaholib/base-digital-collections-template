@@ -1,4 +1,4 @@
-field,display_name,btn,hidden,sort_name
+field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date
 ccc-camp-number,Camp #,true
 ccc-company-number,Company #,true

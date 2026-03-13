@@ -27,3 +27,4 @@ For accessibility and useability we avoid using links with `target="_blank"` att
 If that attribute is used, you should also include the attribute `rel="noopener"` for [security](https://web.dev/external-anchors-use-rel-noopener/).
 For example, `<a href="" target="_blank" rel="noopener">link</a>`.
 Target _blank links are currently used for links to JSON files (so they can be viewed in the browser) and Item downloads (since these could be a variety of file types or links).
+ 
