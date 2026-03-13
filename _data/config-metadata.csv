@@ -5,12 +5,12 @@ date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 relation_is_part_of,Relation
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
+location,Location,,,DCTERMS.coverage,contentLocation
 idaho_county,Idaho County,,,
 source,Source
 finding_aid,Finding Aid,,true
 identifier,Source Identifier
 digital-identifier, Digital Identifier
-type,Type,,DCTERMS.type
+type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
