@@ -3,9 +3,9 @@ title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 archival_date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
-date is approximate,Approximated Date
+date_is_approximate,Approximated Date
 description,Description,,,DCTERMS.description,description
-scientific name,Scientific Name
+scientific_name,Scientific Name
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,DCTERMS.coverage,contentLocation
 location (lcsh),Locations (LSCH),,,,
