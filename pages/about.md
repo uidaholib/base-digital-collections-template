@@ -29,7 +29,7 @@ If you have any questions about the collection or are interested in donating mat
 The collection would not be possible without generous donations of time and materials from a variety of individual donors and staff. 
 The directors would like to thank our donors: 
 
-<div class="row justify-content-center">
+<div class="row justify-content">
 <div class="col-md-3">
 <p class="text-center" markdown="1">
 Wilma Daniels<br> The City of Moscow<br> Ariana Burns<br> LeNelle McInturff<br> Elizabeth Stevens<br> Nels Reese<br>  Gary Strong<br> M Spakoski
