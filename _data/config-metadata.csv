@@ -12,14 +12,14 @@ state,State,true
 county,County,true
 idaho_county,Idaho County,,,
 city,City,true
-location,Location,,,contentLocation
-latitude,Latitude
-longitude,Longitude
+location,Location,,,DCTERMS.coverage,contentLocation
+latitude,Latitude,,,,
+longitude,Longitude,,,,
 collection,Source Collection
 source,Source
-findingaid,Finding Aid,,true
+finding_aid,Finding Aid,,true
 identifier,Source Identifier
 type,Type,,,DCTERMS.type
-format_original,Format Original
+format_original,Original Format,,,,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
