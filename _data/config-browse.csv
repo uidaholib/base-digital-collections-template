@@ -4,5 +4,5 @@ subject,,true,,,
 identifier,,,true,Identifier
 person of interest,,,true
 location,Location,,
-file_type,,true
-document_type,,,true
+file_type,File Type,true
+document_type,Document Type,,true
