@@ -15,7 +15,7 @@ longitude,Longitude,,,,
 collection,Source Collection
 source,Source,,,,
 findingaid,Finding Aid,,true
-original_identifier,Source Identifier
+identifier,Source Identifier
 type,Type,,,DCTERMS.type,
 format_original,Format Original
 format,Format,,,,encodingFormat
