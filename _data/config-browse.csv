@@ -1,6 +1,6 @@
-field,display_name,btn,hidden,sort_name
+field,display_name,btn,hidden,sort_name,facet_name
 year_span,Dates,,,
-subject,,true
+subject,,true,,,
 identifier,,,true,Identifier
 person of interest,,,true
 location,Location,,
