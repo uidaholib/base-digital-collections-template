@@ -2,7 +2,7 @@ field,display_name,btn,hidden,sort_name,facet_name
 year_span,Dates,,,
 subject,,true,,,
 identifier,,,true,Identifier
-person of interest,,,true
+person_of_interest,Person of Interest,,true
 location,Location,,
 file_type,File Type,true
 document_type,Document Type,,true
