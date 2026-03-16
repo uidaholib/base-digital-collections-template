@@ -36,7 +36,7 @@ After some investigation, it had been reported to President Franklin D. Roosevel
 
 Executive Order 9066 was followed by several public proclamations made by Lieutenant General John L. DeWitt of the Western Defense Command. The first two proclamations established six military areas along the West Coast. The third established a curfew for German and Italian immigrants, as well as anyone of Japanese ancestry. DeWitt then encouraged the voluntary evacuation of those with Japanese ancestry along the West Coast. This encouraged evacuation was soon followed, on March 29, 1942 by Public Proclamation No. 4, which began the forced removal of those who were of Japanese descent.[^2]
 
-{% include feature/image.html objectid="hiroshima072" width="75" caption="On March 24, 1942, Public Proclamation No. 3 established a curfew for all persons of Japanese ancestry." %}
+{% include feature/image.html objectid="hiroshima072" caption="On March 24, 1942, Public Proclamation No. 3 established a curfew for all persons of Japanese ancestry." %}
 
 ### Japanese Relocation to Idaho
 
@@ -59,7 +59,7 @@ While the WRA operated several incarceration camps throughout the country, the I
 The Kooskia Internment Camp was located at the confluence of Canyon Creek and the Lochsa River in northern Idaho. Detainees at the camp were made up of volunteers from other detention camps and most worked construction on a portion of the Lewis and Clark Highway between Lewiston, Idaho and Missoula, Montana. The Kooskia Camp operated from May 1943 to May 1945 and saw 265 Japanese internees make their way through.[^7] Learn more about the Kooskia Interment Camp from our [Kooskia Internment Camp Scrapbook](https://www.lib.uidaho.edu/digital/kooskia/about.html) digital collection.   
 
 
-{% include feature/image.html objectid="hiroshima044" width="75" caption="Sign for the Japanese Internment camp located near Kooskia, Idaho" %}
+{% include feature/image.html objectid="hiroshima044" caption="Sign for the Japanese Internment camp located near Kooskia, Idaho" %}
 
 ### Japanese Students and the University of Idaho
 
