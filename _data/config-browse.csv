@@ -6,5 +6,5 @@ location,Location,true,,,
 idaho_county,Idaho County,true
 features,Features,true
 identifier,,,true,Identifier
-moscow number,,,true
-fs number,,,true
+moscow_number,Moscow Number,,true
+fs_number,Forest Service Number,,true
