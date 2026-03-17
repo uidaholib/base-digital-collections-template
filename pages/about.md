@@ -26,7 +26,7 @@ The Barnard-Stockbridge Collection features nearly 4,000 photographs selected fr
 
 In 1889, Thomas N. Barnard and his wife moved to Wallace, Idaho where he established his photo studio. The studio was destroyed in a fire in 1890 with a small amount of his negatives surviving. Most of the photographs taken in the early years "included landscapes, placer workings, townscapes, and panoramic views" of Wallace and Murray Idaho, taken on 5 x 7 and 8 x 10 dry-plate negatives. Barnard made most of his living from his landscape photographs, which were for sale to the general public and commissioned portraits.
 
-{% include feature/image.html objectid="barstock1224" width="50" %}
+{% include feature/image.html objectid="barstock1224" %}
 
 ### Nellie Stockbridge
 
@@ -38,7 +38,7 @@ In 1898, Nellie Jane Stockbridge left her home in central Illinois to accept Tho
 
 In 1964, the University of Idaho Library received a collection of over 200,000 nitrocellulose and glass plate negatives taken by Nellie Stockbridge and her predecessor and founder of the studio, Mr. T. N. Barnard. The photos were taken from 1894 to 1964 of various aspects of life in the Wallace and Kellogg mining area. Prints were made of many of the negatives, and the photographs and negatives were cataloged by [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/).
 
-{% include feature/image.html objectid="barstock859" width="50" %}
+{% include feature/image.html objectid="barstock859" %}
 
 Today there is a Barnard-Stockbridge Museum located in Wallace, Idaho. It was founded in 2017 and opened in 2019.
 
