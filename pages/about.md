@@ -22,7 +22,7 @@ padding: 6em
 
 This digital collection consists of blueprints, maps, and correspondence from [MG 12, the Craig Mountain Lumber Company Records collection](https://archiveswest.orbiscascade.org/ark:80444/xv96107). The items are from Box 01 of the collection, held by [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/).
 
-{% include feature/image.html objectid="craigmountain046" width="75" %}
+{% include feature/image.html objectid="craigmountain046" %}
 
 ## About Craig Mountain Lumber Company
 
