@@ -42,19 +42,19 @@ The first 14 folders of the archival collection contain black and white photogra
 - [Asotin Dam](browse.html#Asotin Dam), on the Snake River
 - [Grand Coulee Dam](browse.html#Grand Coulee Dam)
 {% endcapture %}
-{% include feature/card.html header="Dams Depicted in the Collection" text=dams width="50" centered="true" %}
+{% include feature/card.html header="Dams Depicted in the Collection" text=dams %}
 
 ## The Columbia Basin Project
 
 The bulk of this collection documents the history of the Columbia Basin Project, a large irrigation project in the Columbia basin of central Washington state. As of April 2020, the Bureau of Reclamation website indicates that the "Columbia Basin Project serves about 671,000 acres in east central Washington....There are over 300 miles of main canals, about 2,000 miles of laterals, and 3,500 miles of drains and wasteways on the project."[^1] The irrigation system provides irrigated water to farms but also electricity and water for much of Washington state.
 
-{% include feature/image.html objectid="crbp1116" width="75" %}
+{% include feature/image.html objectid="crbp1116" %}
 
 The project began with the construction of the Grand Coulee Dam which took place between 1933-1942. In 1943, "Congress authorized the Columbia Basin Project" but "construction of the irrigation system did not start until after World War II."[^1] During WWII, the dam provided massive amounts of energy to the burgeoning aluminum and aircraft industries of the Pacific Northwest, contributing to one of the primary factors of the ultimate Allies victory in WWII. A significant percentage of that power, it was later revealed, was also diverted to the Hanford Nuclear Site, a crucial component of the Manhattan Project. 
 
 The Columbia Basin Project irrigation system began pumping water "from the Columbia River near Pasco in 1948 and was delivered to about 5,400 acres. The irrigation system carried its first water from Grand Coulee Dam to about 66,000 acres in spring of 1952."[^1] Since then, the system has irrigated about 2.5 million acre-feet of water from the Columbia River annually, much of that water being reused as "Potholes Reservoir collects runoff from the north for farms in the south."[^1]
 
-{% include feature/image.html objectid="crbp1031" width="75" %}
+{% include feature/image.html objectid="crbp1031" %}
 
 While the Grand Coulee Dam has played a crucial role in United States and world history, it has also had a profoundly negative impact on species and communities native to the region. The dam permanently blocks important fish species, such as salmon and steelhead, from over 1000 miles of spawning ground in the Upper-Columbia River. As a result, Native American populations that depend on the fish for their way of life have lost traditional fishing grounds. The creation of Lake Roosevelt also eliminated habitats for numerous species, including mule deer.
 
@@ -64,6 +64,6 @@ Donated to the library by the University of Idaho College of Engineering, the Co
 
 Second, the artistic quality of photography during these projects provides viewers with an understanding of the human element, and superhuman scale, involved in the construction of these dams. The photographers responsible for the collection perform a superb journalistic balancing act by documenting the technical aspects of the construction while capturing the grand ambitions and accomplishments of the people behind it.
 
-{% include feature/image.html objectid="crbp973" width="75" %}
+{% include feature/image.html objectid="crbp973" %}
 
 [^1]: Brougher, Lynne. "Columbia Basin Project," *Government. Bureau of Reclamation*, January 23, 2019, <https://www.usbr.gov/pn/grandcoulee/cbp/index.html>. (Archived: [https://perma.cc/8RG4-N5TL](https://perma.cc/8RG4-N5TL))
