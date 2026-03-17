@@ -16,5 +16,4 @@ identifier,Source Identifier,,,,
 format_original,Original Format,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license.
-finding_aid,Finding Aid,,true,,,
+rightsstatement,,,,DCTERMS.rights,license
