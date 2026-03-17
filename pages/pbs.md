@@ -3,20 +3,28 @@ title: Photos Featured in PBS Documentary
 layout: about
 permalink: /pbs.html
 lazyload: true
+about-featured-image: crbp1040
+# set background-position for featured image, "center", "top", "bottom"
+position: center
+# major heading to display over featured image
+heading: CRBP Collection Photos in PBS Documentary
+# paragraph text below heading in featured image
+sub-heading: 
+# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
+padding: 6em
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
 ---
-
-{% include feature/jumbotron.html %}
-{% include feature/nav-menu.html sections="CRBP Collection Photos in PBS Documentary;PBS Documentary;" %}
 
 ### CRBP Collection Photos in PBS Documentary
 
 Several photos from this collection were used in the production of the PBS Documentary [Grand Coulee Dam](http://www.pbs.org/wgbh/americanexperience/films/coulee/), which premiered as part of the *American Experience* series on April 3, 2012. The featured photos and the time they appear in the film are as follows:
 
-{% include feature/image.html objectid="crbp1204" caption="'Excavation (site preparation)' Featured at 18:34" width="50" %}
+{% include feature/image.html objectid="crbp1204" caption="'Excavation (site preparation)' Featured at 18:34" %}
 
-{% include feature/image.html objectid="crbp1189" caption="'Breaking Rock [02] (site preparation)' Featured at 45:16" width="50" %}
+{% include feature/image.html objectid="crbp1189" caption="'Breaking Rock [02] (site preparation)' Featured at 45:16" %}
 
-{% include feature/image.html objectid="crbp1141" caption="'Cleaning East Powerhouse Area (Spillway and drum gate consctruction' Featured at 54:22" width="50" %}
+{% include feature/image.html objectid="crbp1141" caption="'Cleaning East Powerhouse Area (Spillway and drum gate consctruction' Featured at 54:22" %}
 
 ### PBS Documentary
 
