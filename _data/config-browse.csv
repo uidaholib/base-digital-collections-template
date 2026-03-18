@@ -5,5 +5,5 @@ creator,Creator,,,
 subject,,true
 location,,true,,,
 idaho_county,Idaho County,,true,
-box_number,box number,true,,,
+box_number,Box Number,true,,,
 identifier,,,true,Identifier
