@@ -147,7 +147,7 @@ In 2016, university President Chuck Staben "announced the football program would
 {% include feature/card.html text=card6 header="NCAA FCS (formerly I-AA), 2018 - present" centered="true" %}
 
 {:.mt-5}
-{% include feature/image.html objectid="footballcovers87" width="50" %}
+{% include feature/image.html objectid="footballcovers87" %}
 
 ### Rivalries
 
