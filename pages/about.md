@@ -28,7 +28,7 @@ Idaho's landscape has been occupied by Indigenous people for thousands of years.
 
 In 1805, the Lewis and Clark Expedition traveled through Idaho. When they traveled through the area that became the town of [Gibbonsville](https://www.lib.uidaho.edu/digital/cities/browse.html#gibbonsville), they described it as "filled with rocky hills and dense vegetation," which accurately describes much of Idaho's vast wilderness.[^2]
 
-{% include feature/image.html objectid="cities619;cities674" width="75" %}
+{% include feature/image.html objectid="cities619;cities674" %}
 
 In 1860, gold was discovered near Pierce, Idaho, igniting a fierce gold rush in the state. This gold rush led to the development of a strong [mining industry](https://www.lib.uidaho.edu/digital/cities/browse.html#mines) and the establishment of many mining cities and towns throughout the state, including: [^3]
 
