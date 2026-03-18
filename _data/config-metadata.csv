@@ -3,7 +3,7 @@ title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 archival_date,Date Created (Archival Standard)
 date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
-date is approximate,Approximated Date
+date_is_approximate,Approximated Date
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 coverage,Coverage,true,
@@ -16,7 +16,7 @@ source,Source
 finding_aid,Finding Aid,,true
 identifier,Source Identifier
 type,Type,,,DCTERMS.type
-format-original,Format Original
+format_original,Format Original
 format,Format,,,,encodingFormat
 language,Language,,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
