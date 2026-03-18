@@ -24,29 +24,29 @@ This collection contains various materials including poster designs, promotional
 
 **This digital collection is in the process of being digitized. The items currently displayed are from one oversized box.**
 
-{% include feature/image.html objectid="ames036" width="75" %}
+{% include feature/image.html objectid="ames036" %}
 
 ## About Leo Ames
 
 Leo Edwin Ames was born on February 14, 1933 and raised in Heyburn, Idaho where his love for art began. Ames attended the University of Idaho and graduated in 1965 with a degree in Journalism. He married fellow student Lela May Talbott in April 1954. Ames worked at the university and contributed his creativity and artistic skills by designing, illustrating, and photographing for the school. After three decades of dedicated service, Ames retired in 1995 as the creative director and head of publications.
 
-{% include feature/image.html objectid="ames035" width="50" %}
+{% include feature/image.html objectid="ames035" %}
 
-{% include feature/image.html objectid="ames005" width="50" %}
+{% include feature/image.html objectid="ames005" %}
 
 In addition to his artistic and graphic design career, Leo Ames was active in local Moscow and Idaho politics. Ames was a member of the University of Idaho Women's Caucus, which was crucial in the establishment of affirmative action and the development of the U of I Women's Center. Ames resumed plein air painting after his retirement. Ames passed away in 2004. [^1] 
 
 ## More Information
 
-<div class="text-center" markdown="1"> 
+<div class="text" markdown="1"> 
  {% include feature/button.html text="Leo Ames collection finding aid" link="https://archiveswest.orbiscascade.org/ark:80444/xv428602" color="success" %} 
 </div>
 
-<div class="text-center pt-2" markdown="1"> 
+<div class="text pt-2" markdown="1"> 
  {% include feature/button.html text="Related collection: Julia Ames Collection on Leo Ames Artwork" link="https://archiveswest.orbiscascade.org/ark:80444/xv222835" color="success" %}
 </div>
 
-<div class="text-center pt-2" markdown="1"> 
+<div class="text pt-2" markdown="1"> 
  {% include feature/button.html text="Related collection: Argonaut Photograph Collection" link="https://www.lib.uidaho.edu/digital/argonautphotos/browse.html#Leo%20Ames" color="success" %}
 </div>
 
