@@ -2,6 +2,7 @@ field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date
 subject,,true
 identifier,,,true,Identifier
+location,Locations,,true,
 country,,,true
 state,,,true
 county,,,true
