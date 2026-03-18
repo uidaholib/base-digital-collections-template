@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name,facet_name
 creator,Creator,,,
 subject,,true
 location,,true,,Location
-site_number,,,true,
+site_number,Site Number,,true,
