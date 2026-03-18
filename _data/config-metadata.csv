@@ -13,6 +13,7 @@ latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source
 collection,Source Collection
+contributing_institution,Contributing Institution,,,
 finding_aid,Finding Aid,,true
 identifier,Source Identifier
 format_original,Original Format
