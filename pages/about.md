@@ -24,7 +24,7 @@ padding: 12em
  
 This collection consists of photographs from the William Allen Stonebraker Collection. The Stonebraker Collection was donated to the Library's Special Collections in 2003 by U of I alumna Donna Henderson, who acquired the collection from a distant family member of Stonebraker. Stonebraker took photographs in Central Idaho's remote [Salmon River]({{ '/browse.html#Salmon River' | relative_url }}) and Frank Church-River of No Return areas at the turn of the twentieth century between 1900 and 1931. The collection contains images of the Stonebraker Ranch and homestead in the Chamberlain Basin, his businesses (dude ranch, pack train and dogsled operations, mining, big game hunting) as well as wildlife, scenic views, and early aircraft operation.
 
-{% include feature/image.html objectid="stonebraker664" width="50" %}
+{% include feature/image.html objectid="stonebraker664" %}
 
 William Allen ("Al") Stonebraker was born in Aden, California, in 1879 to parents George and Minnie Stonebraker. Al had six siblings; many of them appear in this collection. In 1898, Al Stonebraker arrived in the [Chamberlain Basin]({{ '/browse.html#Chamberlain Basin' | relative_url }}) and was known as one of the original homesteaders in the area. He established a [homestead]({{ '/browse.html#homestead' | relative_url }}) on approximately 409 acres in what is now part of the Payette National Forest and the Frank Church-River of No Return wilderness, currently owned by Idaho Fish and Game.
 
