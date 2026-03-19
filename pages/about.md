@@ -42,7 +42,7 @@ Some photos in this collection are related to the history of [Blister Rust Disea
 
 "The Priest Lake Museum Association built the collection in the early 1980s after putting out a call for historical photos of the region."[^8] With the help of grant funding provided by the Greater Inland Empire Foundation and the Association for the Humanities in Idaho, members of the association went about gathering photographs from those who answered their call. These photographs were eventually hand-delivered to the University of Idaho Library's Special Collections & Archives Department, where they were digitized, reprinted, and then returned, via the Museum Association, to their original owners.
 
-{% include feature/card.html text="For a detailed description and inventory of the Priest Lake Historical Photograph Collection, see our [finding aid](http://archiveswest.orbiscascade.org/ark:/80444/xv119445/op=fstyle.aspx?t=k&q=). Physical collections are held by [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/)." header="Archival Context" width="50" centered=true %}
+{% include feature/card.html text="For a detailed description and inventory of the Priest Lake Historical Photograph Collection, see our [finding aid](http://archiveswest.orbiscascade.org/ark:/80444/xv119445/op=fstyle.aspx?t=k&q=). Physical collections are held by [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/)." header="Archival Context" centered=true %}
 
 ## Sources
 
