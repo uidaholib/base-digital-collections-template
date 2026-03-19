@@ -22,7 +22,7 @@ padding: 6em
 
 This digital collection, compiled in recognition of Senator McClure's 100th birthday, includes a selection of materials from the University of Idaho Special Collections and Archives' collections related to Senator McClure, primarily the <a href="https://archiveswest.orbiscascade.org/ark:80444/xv95388">James A. McClure papers</a>, which includes the original series of donated materials from the McClure family, and the <a href="https://archiveswest.orbiscascade.org/ark:80444/xv927544">Senator James A. McClure collection</a>, which encompasses more recent acquisitions. Senator McClure began donating his political papers to the University of Idaho Special Collections and Archives following his retirement in 1991. Additional materials have been donated in the time since. 
 
-{% include feature/image.html objectid="jam025" width="50" %}
+{% include feature/image.html objectid="jam025" %}
 
 
 The digital collection highlights McClure's involvement with natural resources and energy. It also showcases McClure's duties and relations with constituents during his political service, his post-political career, and his contributions to the University of Idaho.  
