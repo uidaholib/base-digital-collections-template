@@ -33,7 +33,7 @@ Furthermore, the collection delves into the planning and approval processes, edu
 
 This rich historical perspective helps illustrate the program's transformative role in regional medical education.
 
-{% include feature/image.html objectid="ug135-scrapbook1-page161" width="75" %} 
+{% include feature/image.html objectid="ug135-scrapbook1-page161" %} 
 
 The view the entire scrapbook as a single PDF, visit the [complete scrapbook page]({{ '/items/wwami_full.html' | relative_url }}).
 
