@@ -6,6 +6,7 @@ date,Date Created (ISO Standard),,,DCTERMS.date,dateCreated
 date_is_approximate,Approximated Date
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
+keywords,Keywords,,,
 location,Location,,,DCTERMS.coverage,contentLocation
 idaho_county,Idaho County,,,
 latitude,Latitude
