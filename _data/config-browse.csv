@@ -4,7 +4,7 @@ location,Location,true,
 idaho_county,Idaho County,,true,
 date,Date,,,Date Created
 description,,,true,
-creator,Creator,,,
+photographer,Photographer,,,
 subject,,true
 location,,true,,,
 identifier,,,true,Identifier
