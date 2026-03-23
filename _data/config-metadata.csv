@@ -11,7 +11,6 @@ latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
 finding_aid,Finding Aid,,true
-identifier,Source Identifier,,,,
 format_original,Original Format,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
