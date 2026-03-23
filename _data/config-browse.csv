@@ -2,4 +2,5 @@ field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date Created
 subject,,true
 location,,true,,,
+state,,,
 identifier,,,true,Identifier
