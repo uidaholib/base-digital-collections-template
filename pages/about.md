@@ -9,16 +9,16 @@ about-featured-image: https://objects.lib.uidaho.edu/iwi/c04.jpg
 # set background-position for featured image, "center", "top", "bottom"
 position: center
 # major heading to display over featured image
-heading: About the Collection
+heading: Idaho's Women of Influence
 # paragraph text below heading in featured image
-sub-heading: 
+sub-heading: A database of important women in the history of the state of Idaho
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About Idaho's Women of Influence
+## About the Collection
 
 Idaho's Women of Influence (IWI) is meant to correct an imbalance in the preserved historical data on women's contribution to Idaho history by providing a browseable database of information.
 IWI is open to all women connected to Idaho by birth, residence, work, or any other significant factor whose positive efforts and accomplishments contributed significantly to the quality of life in their community, the state, or the world. 
@@ -46,5 +46,5 @@ Please contact Special Collections and Archives at <libspec@uidaho.edu> with que
 This database is meant to grow into a broad starting point for research about these individuals and their lives.
 Users should check facts and report mistakes, or provide additional information and resources when available.*
 
-<a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_3q11GEehNmqtRVY?source_link={{ page.url | absolute_url }}" class="btn btn-sm btn-outline-primary">Contact us about a record</a>
+<a href="https://uidaho.co1.qualtrics.com/jfe/form/SV_3q11GEehNmqtRVY?source_link={{ page.url | absolute_url }}" class="btn btn-lg btn-outline-primary">Contact us about a record</a>
 
