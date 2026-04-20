@@ -37,12 +37,18 @@ layout: page
       </div>
     </div>
 
-    <div class="card mb-3">
-      <div class="card-body">
-          <h4 class="card-title">IWI currently contains <a href="{{ '/browse.html' | relative_url }}">{{ site.data.iwi | size }} profiles of Idaho women</a>.</h4>
-          <img src="https://objects.lib.uidaho.edu/iwi/iwi_logo.jpg" class="img-fluid">
-      </div>
-    </div>
+    {% include index/time.html %}
+
+    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="clearwater" %}
+
+    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-palouse" %}
+    
+    {% include index/content.html %}
+
+  </div>
+  <div class="col-md-12">
+
+    {% include index/data-download.html %}
 
   </div>
 
