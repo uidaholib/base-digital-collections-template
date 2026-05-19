@@ -2,5 +2,6 @@ field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date
 creator,Creator,true
 subject,,true
+point_of_origin,Point of Origin,,,
 idaho_county,Idaho County,,true,
 identifier,,,true,Identifier
