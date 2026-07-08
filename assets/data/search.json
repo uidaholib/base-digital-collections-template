@@ -2,7 +2,7 @@
 # json for ingest into search index
 #
 # set all PDFs to index full-text?
-pdf-full-text: true
+pdf-full-text: false
 # alternatively, use a "extract_full_text" column in the metadata with "true" to select items individually or opt out with "false"
 # individual items can be excluded by using a column named "search_index" and value set to "false"
 ---
