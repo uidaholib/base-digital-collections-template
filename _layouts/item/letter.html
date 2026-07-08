@@ -1,7 +1,5 @@
 ---
-# basic layout for compound object items
-# uses _includes/item/child/ includes to add multiple objects to the item page in a gallery
-# each object is represented in a modal
+# custom layout for letter page images
 layout: item/item-page-base
 gallery: true
 custom-foot: js/modal-hash-js.html
@@ -16,22 +14,10 @@ custom-foot: js/modal-hash-js.html
         <div class="col">
             <div class="card h-100">
                 <div class="my-auto">
-                    <div class="card-body text-center" id="{{ child.objectid }}Card">
-                    
-                        {% if child.title %}<div class="small text-dark mb-2">{{ child.title | truncatewords: 4 }}</div>{% endif %}
+                    <div class="card-body text-center" id="{{ child.objectid }}Card">    
                         
-                        <div class="mb-2">
-                            {% if child.image_thumb or child.image_small %}
-                            <img class="img-thumbnail compound-thumb" src="{{ child.image_small | relative_url }}" alt="{{ child.image_alt_text | default: child.description | default: child.title | escape }}">
-                            {% else %}
-                            <svg class="bi text-body compound-thumb" fill="currentColor" aria-hidden="true">
-                                {%- assign icon_template = child.display_template | default: item.format -%}
-                                <use xlink:href="{{ '/assets/css/cb-icons.svg' | relative_url }}#{% if icon_template contains 'image' %}icon-image{% elsif icon_template contains 'pdf' %}icon-pdf{% elsif icon_template contains 'audio' %}icon-audio{% elsif icon_template contains 'video' %}icon-video{% else %}icon-default{% endif %}" />
-                            </svg>
-                            <span class="visually-hidden">{{ child.title | escape }} - {{ child.format }}</span>
-                            {% endif %}
-                        </div>
-
+                        <img class="img-fluid compound-thumb mb-2" src="{{ child.image_small | relative_url }}" alt="{{ child.image_alt_text | default: child.description | default: child.title | escape }}">
+                        
                         <!-- child object modal button -->
                         <a id="item-{{ forloop.index }}"
                             role="button"
@@ -39,7 +25,7 @@ custom-foot: js/modal-hash-js.html
                             href="#{{ child.objectid }}"
                             onclick="window.location.hash='{{ child.objectid }}'"
                             class="btn btn-sm btn-outline-secondary small stretched-link">
-                            {{ child.display_template | upcase | default: "Item" }} <svg class="bi icon-sprite" fill="currentColor" aria-hidden="true"><use xlink:href="{{ '/assets/css/cb-icons.svg' | relative_url }}#icon-{{ child.display_template | default: 'file'}}"/></svg>
+                            View Page {{ forloop.index }}
                         </a> 
 
                         <!-- child object modal -->
@@ -69,10 +55,10 @@ custom-foot: js/modal-hash-js.html
                                                     </button>
                                                 </div>
                                                 <div class="col-9 col-md-8 text-center">
-                                                    <h3 class="h5">{{ page.title }} 
+                                                    <h2 class="h5">{{ page.title }} 
                                                         <span class="d-none d-md-inline">-</span><span class="d-md-none"><br></span>
                                                         Item {{ forloop.index }} of {{ children | size }}
-                                                    </h3>
+                                                    </h2>
                                                 </div>
                                                 <div class="col-1 col-md-2 text-end">
                                                     <button  data-bs-target="#{{ next_item_id }}" data-bs-toggle="modal" onclick="window.location.hash='{{ next_item_id }}'" class="ms-md-5 btn btn-outline-dark btn-sm next-child-button">
@@ -88,34 +74,32 @@ custom-foot: js/modal-hash-js.html
 
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
-                                                <div class="card mb-4 text-center">
+                                            <div class="col-md-7">
+                                                <div class="mb-4 text-center">
                                                     <div class="m-2">
-                                                        {% if child.display_template == 'image' %}
-                                                            {% include item/child/image-gallery.html %}
-                                                        {% elsif child.display_template == 'video' %}
-                                                            {% if child.object_location contains 'vimeo' or child.object_location contains 'youtu' %}
-                                                                {% include item/child/video-embed.html %}
-                                                            {% else %}
-                                                                {% include item/child/video-player.html %}
-                                                            {% endif %}
-                                                        {% elsif child.display_template == 'audio' %}
-                                                            <div class="my-auto">
-                                                                {% include item/child/audio-player.html %}
-                                                            </div>
-                                                        {% elsif child.display_template == 'panorama' %}
-                                                            {% include item/child/panorama.html %}
-                                                        {% else %}
-                                                            {% include item/child/item-thumb.html %}
-                                                        {% endif %}
+                                                        {% include item/child/image-gallery.html %}
                                                     </div>
                                                     <div class="my-2">
-                                                        {% include item/child/download-buttons.html %}
+                                                        <a target="_blank" rel="noopener" href="{{ child.object_location | relative_url }}" class="btn btn-outline-primary">
+                                                            Download {{ child.format | split: '/' | last | default: page.display_template | upcase }}
+                                                        </a>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-md-4">
-                                                {% include item/child/metadata.html %}
+                                            <div class="col-md-5 col-xl-4">
+                                                {% if child.object_transcript %}
+                                                <h3 class="h4 mb-3">Transcript</h3> 
+                                                {% assign transcript_type = child.object_transcript | slice: 0,1 %}
+                                                {% if transcript_type == '/' %}
+                                                {% assign transcript_location = child.object_transcript | remove_first: '/' %}
+                                                {% assign transcript = site.pages | where: 'path', transcript_location | first %}
+                                                {{ transcript.content | markdownify }}
+                                                {% else %}
+                                                {{ child.object_transcript | markdownify }}
+                                                {% endif %}
+
+                                                {% endif %}
+                                                
                                             </div>
                                         </div>
                                         <div class="row justify-content-center mt-4">
