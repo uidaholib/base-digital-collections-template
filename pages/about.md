@@ -40,7 +40,7 @@ In 1964, the University of Idaho Library received a collection of over 200,000 n
 
 {% include feature/image.html objectid="barstock859" %}
 
-Today there is a Barnard-Stockbridge Museum located in Wallace, Idaho. It was founded in 2017 and opened in 2019.
+Today, the [Historic Wallace Photo Museum](https://historicwallacephotomuseum.org/) (formerly the Barnard-Stockbridge Museum) located in Wallace, Idaho, features images taken by Thomas Barnard and Nellie Stockbridge. It was founded in 2017 and opened in 2019.
 
 *About Page written by Julie Monroe.*
 
