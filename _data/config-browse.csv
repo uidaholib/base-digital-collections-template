@@ -1,3 +1,5 @@
-field,display_name,search
-date,Date,true
-location,Location,true
+field,display_name,btn,hidden,sort_name,facet_name
+date,Date,,,Date Created
+subject,,,true
+location,Location,,,,
+identifier,,,true,Identifier
