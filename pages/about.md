@@ -20,7 +20,9 @@ padding: 6em
 
 ## About the Diary
 
-The diary of Bunro Sakaino is part of a larger collection held by the University of Idaho Library Special Collections and Archives, the [George Shihei Shitamae papers](https://archiveswest.orbiscascade.org/ark:80444/xv302637). The Shitamae family owned a hotel in Seattle before they were forcibly incarcerated during World War II, following Japan's attack on Pearl Harbor and President Franklin D. Roosevelt's issuance of [Executive Order 9066](https://encyclopedia.densho.org/Executive%20Order%209066). The University of Idaho Library purchased the collection in November 1997 from Russell Books, a bookseller in Spokane, WA. Its provenance prior to that purchase is unclear.
+This digital collection presents a diary kept by Bunro Sakaino, a Japanese American man from the Portland, Oregon, area, while he was incarcerated in concentration camps across the United States during World War II.
+
+The diary is part of a larger collection held by the University of Idaho Library Special Collections and Archives, the [George Shihei Shitamae papers](https://archiveswest.orbiscascade.org/ark:80444/xv302637). The Shitamae family owned a hotel in Seattle before they were forcibly incarcerated during World War II, following Japan's attack on Pearl Harbor and President Franklin D. Roosevelt's issuance of [Executive Order 9066](https://encyclopedia.densho.org/Executive%20Order%209066). The University of Idaho Library purchased the collection in November 1997 from Russell Books, a bookseller in Spokane, WA. Its provenance prior to that purchase is unclear.
 
 Although much of the material in the Shitamae collection pertains to the family's experience of separation and incarceration at centers around the Northwest, the collection also includes a handwritten diary believed to have been written by Bunro Sakaino, who was interned (see Notes on Terminology below) at several locations across the United States. As noted in provenance documentation within the collection, "internal evidence interpreted by Yosh Shimoi indicates that it was... written by Bunro Sakaino, DoJ # 146-13-2-61-14."[^1]
 
