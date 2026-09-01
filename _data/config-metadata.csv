@@ -8,6 +8,7 @@ subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,DCTERMS.coverage,contentLocation
 idaho_county,Idaho County,,,,,
 source,Source,,,,
+transcriber,Translator,
 finding_aid,Finding Aid,,true
 identifier,Source Identifier,,,,
 format_original,Original Format,,,,
