@@ -5,7 +5,7 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_006
+about-featured-image: https://objects.lib.uidaho.edu/engrir/fy22_879613372_jp04_0058.jpg
 # set background-position for featured image, "center", "top", "bottom"
 position: center
 # major heading to display over featured image
@@ -17,6 +17,20 @@ padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
+## College of Engineering Repository
+
+The College of Engineering Repository preserves and offers access to materials related to the college's regular activities. The collection includes student posters from the annual Engineering Design EXPO, Idaho Asphalt Conference programs, and departmental newsletters. Browse each sub-collection separately using the links below or in the navigation bar above.
+
+- [Engineering Design EXPO Posters]({{ '/expoposters/browse.html' | relative_url }})
+
+- [Idaho Asphalt Conference Programs]({{ '/iacprograms/browse.html' | relative_url }})
+
+- [Departmental Newsletters]({{ '/newsletters/browse.html' | relative_url }})
+
+
+-----
+
 
 ## About CollectionBuilder CSV
 
