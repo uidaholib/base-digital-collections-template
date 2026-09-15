@@ -3,7 +3,8 @@
 layout: page
 custom-foot: js/browse-js.html
 ---
-{%- assign fields = site.data.config-browse -%}
+{%- assign config-file = 'config-browse_' | append: page.metadata -%}
+{%- assign fields = site.data[config-file] -%}
 
 <div class="row mb-2">
     <div class="col-7 col-lg-9">{{ content }}</div>
@@ -23,7 +24,7 @@ custom-foot: js/browse-js.html
                     {% endfor %}
                     <option value="display_template">Content Type</option>
                     {% if site.data.theme.advanced-search == true %}
-                    <option value="" disabled><hr></option>
+                    <option value="" disabled>─────────────</option>
                     <option value="advanced">Advanced Search...</option>{% endif %}
                 </select>
                 <!-- Mobile filter button - shows only on small screens -->
@@ -52,9 +53,9 @@ custom-foot: js/browse-js.html
                 <!-- Update the date range inputs section -->
                 <div id="dateRangeInputs" class="date-range-inputs">
                     <div class="date-input-group">
-                        <input type="text" id="startDate" class="ms-2 form-control" aria-label="Start Date" placeholder="Start Date">
+                        <input type="text" id="startDate" class="ms-2 form-control" placeholder="Start Date">
                         <span class="date-separator">to</span>
-                        <input type="text" id="endDate" class="me-2 form-control" aria-label="End Date" placeholder="End Date">
+                        <input type="text" id="endDate" class="me-2 form-control" placeholder="End Date">
                     </div>
                 </div>
                 <button class="btn btn-success" type="submit" title="Filter items" id="filterButton" >Search</button>
@@ -73,7 +74,7 @@ custom-foot: js/browse-js.html
             <div class="dropdown-menu browse-sort-menu" aria-labelledby="browseSortButton">
                 <button class="dropdown-item browse-sort-item {% if site.data.theme.default-sort-field == '' %}active{% endif %}" data-filter="random">Random</button>
                 <button class="dropdown-item browse-sort-item" data-filter="title">Title</button>
-                {% assign sort_options = site.data.config-browse | where_exp: 'i','i.sort_name != nil' %}
+                {% assign sort_options = site.data[config-file] | where_exp: 'i','i.sort_name != nil' %}
                 {% for o in sort_options %}
                 <button class="dropdown-item browse-sort-item" data-filter="{{ o.field | escape }}">{{ o.sort_name }}</button>
                 {% endfor %}

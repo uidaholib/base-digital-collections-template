@@ -1,9 +1,6 @@
-{% if site.data.theme.browse-child-objects == true %}
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
-{% else %}
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.parentid == nil' -%}
-{% endif %}
-{%- assign fields = site.data.config-browse -%}
+{%- assign items = site.data[page.metadata] | where_exp: 'item','item.objectid and item.parentid == nil' -%}
+{%- assign config-file = 'config-browse_' | append: page.metadata | remove: '_test' -%}
+{%- assign fields = site.data[config-file] -%}
 {% unless site.data.theme.faceted-search or site.data.theme.advanced-search %}
 {% include js/browse-simple-js.html %}
 {% else %}
