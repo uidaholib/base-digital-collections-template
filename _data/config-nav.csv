@@ -1,9 +1,14 @@
 display_name,stub,dropdown_parent
 Home,/,
-Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
-Map,/map.html,
-Timeline,/timeline.html,
-Data,/data.html,
+EXPO Posters,,
+Browse,/expoposters/browse.html,EXPO Posters
+Subjects,/expoposters/subjects.html,EXPO Posters
+Timeline,/expoposters/timeline.html,EXPO Posters
+IAC Programs,,
+Browse,/iacprograms/browse.html,IAC Programs
+Timeline,/iacprograms/timeline.html,IAC Programs
+Newsletters,,
+Browse,/newsletters/browse.html,Newsletters
+Departments,/newsletters/department.html,Newsletters
+Timeline,/newsletters/timeline.html,Newsletters
 About,/about.html,

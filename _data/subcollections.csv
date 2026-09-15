@@ -1,0 +1,4 @@
+objectid,title,description,image_thumb,object_location
+expoposters,Engineering Design EXPO Posters,Student posters from the annual Engineering Design EXPO.,https://content-hub.uidaho.edu/api/public/content/67cb987b5270424aa972e6e4af1f62e7?v=461af89e&transform=true&quality=80&format=webp&width=950&height=534&fit=cover,expoposters/browse.html
+iacprograms,Idaho Asphalt Conference Programs,Programs from the annual Idaho Asphalt Conference.,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnnB6DNQjWe2IjOn3rZN5Xjl2mY0s31moybOfYid23IrCKORXnlGjkWEh&s=10,/iacprograms/browse.html
+newsletters,Departmental Newsletters,Newsletters from College of Engineering departments.,https://content-hub.uidaho.edu/api/public/content/fd652728ade5481fb8c82360648ecb58?v=7963e040&transform=true&quality=80&format=webp&width=768&height=432&fit=cover&gravity=0.2x0.361,/newsletters/browse.html
