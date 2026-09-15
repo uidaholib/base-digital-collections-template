@@ -1,11 +1,7 @@
 ---
 # create lunr store for search page
 ---
-{% if site.data.theme.search-child-objects == false %}
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.parentid == nil' -%}
-{% else %}
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
-{% endif %}
+{% if jekyll.environment == "production" %}{%- assign items = site.data.engrir_iacprograms | concat: site.data.engrir_expoposters | concat: site.data.engrir_newsletters | where_exp: 'item','item.objectid and item.parentid == nil' -%}{% else %}{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid and item.parentid == nil' -%}{% endif %}
 {%- assign fields = site.data.config-search -%}
 var store = [ 
 {%- for item in items -%} 

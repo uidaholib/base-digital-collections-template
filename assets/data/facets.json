@@ -4,7 +4,7 @@
 #
 # Requires CB's array_count_uniq.rb plugin!
 ---
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
+{%- assign items = site.data.engrir_iacprograms | concat: site.data.engrir_expoposters | concat: site.data.engrir_newsletters | where_exp: 'item','item.objectid' -%}
 {%- assign fields = site.data.theme.metadata-facets-fields | split: "," -%}
 {
     "facets": [ 
