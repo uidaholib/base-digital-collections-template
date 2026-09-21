@@ -42,3 +42,7 @@ The University of Idaho quickly constructed a new building to anchor campus busi
 
 
 {% include feature/image.html objectid="silver-gold020" %} 
+
+## Photography
+
+Photography for the collection was created through a collaboration between Special Collections and the President’s Office and Creative Services Visual Productions Team. Visual Productions head Melissa Hartley used studio lighting to highlight the materials’ reflective qualities while minimizing glare and preserving fine details. The resulting photographs were provided to the Library for use in the digital collection.

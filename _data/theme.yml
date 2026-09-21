@@ -9,7 +9,7 @@
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
 featured-image: https://objects.lib.uidaho.edu/silver-gold/silver-gold-cover.jpg
-featured-image-alt-text: # add alt text if using url for featured-image (objectid will be automatic from metadata)
+featured-image-alt-text: "Close up detail of one long edge of object, featuring an etched scene of a miner with pack mules. Jewelry box clasp is closed, engraved with text that reads DESIGNED BY THE WOMEN OF MOSCOW FOR THE COLUMBIAN EXPOSITION '93."
 # optional: add extra padding above collection title for a larger image feature. 
 home-title-y-padding: 12em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
