@@ -18,6 +18,17 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+## Kooskia Internment Camp Scrapbook
+
+The Kooskia Internment Camp Scrapbook is a hand-made manuscript consisting of 148 photographs and two drawings of activities and buildings related the Kooskia Internment Camp.
+These unique sources help document the lives of Japanese Americans incarcerated during the camp's two years of operation (May 1943 - May 1945).
+The camp was located in a remote area of north central Idaho, 30 miles from the town of Kooskia and administered by the U.S. Immigration and Naturalization Service (INS) for the U.S. Department of Justice.
+
+In 2005, the son of one of the camp's now-deceased guards discovered the scrapbook among family memorabilia and offered it to the University of Idaho.
+Consequently, the scrapbook was purchased by the University of Idaho Library with financial assistance from the Library Associates, a friends group.
+
+The scrapbook is located at the University of Idaho Special Collections & Archives and cataloged as [Photograph Group 103](https://archiveswest.orbiscascade.org/ark:80444/xv838108).
+
 ## About the Camp
 
 *Adapted with permission from the [Asian American Comparative Collection](https://web.archive.org/web/20250210232912/https://www.uidaho.edu/class/anthrolab/collections/aacc/research/kooskia), by Dr. Priscilla Wegars.*
@@ -37,15 +48,6 @@ They included  Reverend [Hozen Seki](http://www.nytimes.com/1991/07/25/obituarie
 
 Dr. Wegars' research has uncovered INS, Forest Service, Border Patrol, and University of Idaho photographs and other records.
 These, combined with internee and employee oral and written interviews, illuminate the internees' experiences, emphasizing the perspectives of the men detained at the Kooskia Internment Camp.
-
-## About the Scrapbook
-
-The Kooskia Internment Camp Scrapbook is a hand-made manuscript consisting of 148 photographs (and two drawings) of activities and buildings related the Kooskia Internment Camp.
-
-In 2005, the son of one of the camp's now-deceased guards discovered the scrapbook among family memorabilia and offered it to the University of Idaho.
-Consequently, the scrapbook was purchased by the University of Idaho Library with financial assistance from the Library Associates, a friends group.
-
-The scrapbook is located at the University of Idaho Special Collections & Archives and cataloged as [Photograph Group 103](https://archiveswest.orbiscascade.org/ark:80444/xv838108).
 
 ## For More Information
 
