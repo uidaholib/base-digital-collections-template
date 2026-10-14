@@ -18,10 +18,9 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-*The below is adapted (with permission) from the [Asian American Comparative Collection's website](https://web.archive.org/web/20250210232912/https://www.uidaho.edu/class/anthrolab/collections/aacc/research/kooskia), written by Dr. Priscilla Wegars.
-
-
 ## About the Camp
+
+*Adapted with permission from the [Asian American Comparative Collection](https://web.archive.org/web/20250210232912/https://www.uidaho.edu/class/anthrolab/collections/aacc/research/kooskia), by Dr. Priscilla Wegars.*
 
 {% include feature/image.html objectid="kooskia793" %}
 
@@ -39,7 +38,6 @@ They included  Reverend [Hozen Seki](http://www.nytimes.com/1991/07/25/obituarie
 Dr. Wegars' research has uncovered INS, Forest Service, Border Patrol, and University of Idaho photographs and other records.
 These, combined with internee and employee oral and written interviews, illuminate the internees' experiences, emphasizing the perspectives of the men detained at the Kooskia Internment Camp.
 
-
 ## About the Scrapbook
 
 The Kooskia Internment Camp Scrapbook is a hand-made manuscript consisting of 148 photographs (and two drawings) of activities and buildings related the Kooskia Internment Camp.
@@ -51,12 +49,8 @@ The scrapbook is located at the University of Idaho Special Collections & Archiv
 
 ## For More Information
 
-Wegars, Priscilla. [Imprisoned in Paradise: Japanese Internee Road Workers at the World War II Kooskia Internment Camp](https://search.worldcat.org/title/639164294).
-Moscow, Idaho: Asian American Comparative Collection, University of Idaho, 2010.
-
-Wegars, Priscilla. "Japanese and Japanese Latin Americans at Idaho's Kooskia Internment Camp," [*Guilt by Association: Essays on Japanese Settlement, Internment, and Relocation in the Rocky Mountain West*](https://search.worldcat.org/title/47143890), Ed. Mike Mackey.
-Powell, WY: Western History Publications, 2001, pp. 145-183.
-
-The University of Idaho Library also holds an [internment camp diary written in Japanese.](https://archiveswest.orbiscascade.org/ark:80444/xv302637) 
-
-[The Shitamae Family Letters Digital Collection](https://www.lib.uidaho.edu/digital/shitamae/) contains letters from the Mindioka Incarceration Camp.
+- Wegars, Priscilla. [Imprisoned in Paradise: Japanese Internee Road Workers at the World War II Kooskia Internment Camp](https://search.worldcat.org/title/639164294). Moscow, Idaho: Asian American Comparative Collection, University of Idaho, 2010.
+- Wegars, Priscilla. "Japanese and Japanese Latin Americans at Idaho's Kooskia Internment Camp," [*Guilt by Association: Essays on Japanese Settlement, Internment, and Relocation in the Rocky Mountain West*](https://search.worldcat.org/title/47143890), Ed. Mike Mackey. Powell, WY: Western History Publications, 2001, pp. 145-183.
+- [George Shihei Shitamae papers](https://archiveswest.orbiscascade.org/ark:80444/xv302637), University of Idaho Special Collections and Archives. Parts of this archival collection are digitized and available online:
+    - [Shitamae Family Letters](https://www.lib.uidaho.edu/digital/shitamae/) digital collection contains letters from the Mindioka Incarceration Camp.
+    - [Bunro Sakaino Concentration Camp Diary](https://www.lib.uidaho.edu/digital/sakaino/), a diary kept by Bunro Sakaino, a Japanese American newspaper editor from the Portland, Oregon, area, while he was incarcerated in concentration camps across the United States during World War II.
