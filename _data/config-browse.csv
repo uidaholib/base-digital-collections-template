@@ -1,7 +1,8 @@
 field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date Created
 description,,,true,
-creator,Creator,,,
+person_or_org,Person/Organization,,,,
 subject,,true
 location,,true,,,
 identifier,,,true,Identifier
+type,,,true,,
