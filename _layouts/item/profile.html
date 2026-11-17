@@ -1,0 +1,71 @@
+---
+layout: default
+item-meta: true
+---
+<div class="container py-3">
+
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/' | relative_url }}">Home</a></li>
+        {% if page.type == 'forum' %}
+        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/martin-forums.html' | relative_url }}">Martin Forums</a></li>
+        {% else %}
+        <li class="breadcrumb-item"><a class="text-dark" href="{{ '/disa.html' | relative_url }}">DISA Recipients</a></li>
+{% endif %}
+        <li class="breadcrumb-item active text-dark" aria-current="page">{{ page.title | truncatewords: 10 }}</li>
+    </ol>
+
+    <h1>{{ page.title }}</h1>
+
+    <div class="row">
+    {% if page.filename %}
+    <div class="col-md-4">
+        {% assign imgs = page.filename | split: "|" %}
+        {% assign alts = page.image_alt_text | split: "|" %}
+        {% assign caps = page.image_caption | split: "|" %}
+        {% for img in imgs %}
+        <figure class="figure mb-4">
+            <img src="https://objects.lib.uidaho.edu/martininstitute/{{ img | strip }}" alt="{{ alts[forloop.index0] | strip }}" class="figure-img img-fluid rounded">
+            {% assign cap = caps[forloop.index0] | strip %}
+            {% if cap != "" %}<figcaption class="figure-caption">{{ cap }}</figcaption>{% endif %}
+        </figure>
+        {% endfor %}
+    </div>
+    <div class="col-md-8">
+    {% else %}
+    <div class="col-12">
+    {% endif %}
+        {{ page.description | markdownify }}
+    </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-12">
+            {% include item/contact-btn.html %}
+        </div>
+
+        {% if page.original_url %}
+        <div class="col-md-4 py-3">
+            <div class="card">
+                <div class="card-header">Original Page</div>
+                <div class="card-body">
+                    <p class="mb-0">This page was originally published on the University of Idaho website: <a href="https://wayback.archive-it.org/23804/*/{{ page.original_url }}">view archived versions</a>.</p>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
+        <div class="col-md-4 py-3">
+            {% include item/citation-box.html %}
+        </div>
+
+        {% if page.rights or page.rightsstatement %}
+        <div class="col-md-4 py-3">
+            {% include item/rights-box.html %}
+        </div>
+        {% endif %}
+    </div>
+
+    {%- if site.data.theme.browse-buttons == true -%}
+        {% include item/browse-buttons.html %}
+    {%- endif -%}
+</div>

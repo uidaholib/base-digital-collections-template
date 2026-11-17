@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: demo_011
+featured-image: martininstitute028
 featured-image-alt-text: # add alt text if using url for featured-image (objectid will be automatic from metadata)
 # optional: add extra padding above collection title for a larger image feature. 
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
